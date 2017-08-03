@@ -9,6 +9,6 @@
 
 @section('content')
     
-<h1>hello word</h1>
+<h1>Page d'acceuil</h1>
 
 @endsection

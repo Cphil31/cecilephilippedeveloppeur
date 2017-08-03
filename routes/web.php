@@ -14,3 +14,12 @@
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/competences', function () {
+    return view('competences');
+});
+Route::get('/formations', function () {
+    return view('formations');
+});
+Route::get('/experiences', function () {
+    return view('experiences');
+});
