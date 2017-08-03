@@ -18,7 +18,7 @@
             <a href="/" class="item">Accueil</a>
             <a href="/formations" class="item">Formations</a>
             <a href="/competences" class="item">Compétences</a>
-            <a href="/loisirs" class="item">Expériences </a>
+            <a href="/experiences" class="item">Expériences </a>
             <a href="/loisirs" class="item">Loisirs </a>
             <a href="/contact" class="item">Contacts</a>
         </div>
