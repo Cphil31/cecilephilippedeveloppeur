@@ -9,18 +9,25 @@
 </head>
 <body>
     @section('sidebar')
-    <div class="ui five item menu">
-    <a href="/" class="item">accueil</a>
-    <a href="/formations" class="item">Formations</a>
-    <a href="/competences" class="item">Compétences</a>
-    <a href="/experiences" class="item">expériences professionnelles</a>
-    <a href="/contact" class="item">contacts</a>
-  </div>
-  @show
 
-  <div class="container">
+
+    <div class="ui grid">
+      <div class="two wide column"></div>
+      <div class="twelve wide column">
+        <div class="ui five item menu">
+            <a href="/" class="item">Accueil</a>
+            <a href="/formations" class="item">Formations</a>
+            <a href="/competences" class="item">Compétences</a>
+            <a href="/experiences" class="item">Expériences </a>
+            <a href="/contact" class="item">Contacts</a>
+        </div>
+<div class="container">
     @yield('content')
 </div>
+    </div>
+    
+</div>
+@show
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
 <script src="../js/app.js"></script>
