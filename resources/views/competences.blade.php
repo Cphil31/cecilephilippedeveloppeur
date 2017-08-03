@@ -9,7 +9,7 @@
 
 @section('content')
 
-<h1>Page des compétences</h1>
+<h1>Compétences</h1>
 
 <div class="ui list">
 	<div class="listedem">Utilisation des langages de programmation Html,Css,JavaScript,réact,Php</div>

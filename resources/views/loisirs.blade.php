@@ -9,6 +9,6 @@
 
 @section('content')
     
-<h1>Page loisirs</h1>
+<h1>Loisirs</h1>
 
 @endsection

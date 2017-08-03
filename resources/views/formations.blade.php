@@ -9,7 +9,7 @@
 
 @section('content')
 
-<h1>Page formations</h1>
+<h1>Formations</h1>
 
 <div class="ui stackatble grid">
 	<div class="four wide Left floated right aligned column column">2016-2017</div>
