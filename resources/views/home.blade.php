@@ -4,9 +4,11 @@
 
 @section('sidebar')
     @parent
-    <p>This is appended to the master sidebar.</p>
+    
 @endsection
 
 @section('content')
-    <p>This is my body content.</p>
+    
+<h1>hello word</h1>
+
 @endsection
