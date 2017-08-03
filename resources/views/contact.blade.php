@@ -8,8 +8,6 @@
 @endsection
 
 @section('content')
-
-
 <div class="ui grid">
 <div class="two wide column"></div>
 	<div class="twelve wide column">
@@ -41,8 +39,4 @@
 	</div>
 	<div class="four wide column"></div>
 </div>
-
-
-
-
 @endsection
