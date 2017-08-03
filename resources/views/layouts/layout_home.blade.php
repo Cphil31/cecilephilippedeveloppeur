@@ -9,7 +9,8 @@
 </head>
 <body>
     @section('sidebar')
-    <div class="ui four item menu">
+    <div class="ui five item menu">
+    <a href="/" class="item">accueil</a>
     <a href="/formations" class="item">Formations</a>
     <a href="/competences" class="item">Compétences</a>
     <a href="/experiences" class="item">expériences professionnelles</a>
