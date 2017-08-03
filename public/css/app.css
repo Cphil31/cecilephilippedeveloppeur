@@ -6,7 +6,12 @@ h1{
 	font-size: 350%;
 	margin:5%;
 }
-.formation{
+.formations{
+	font-size: 120%;
+	margin:2em;
+}
+.competences{
+	text-align: center;
 	font-size: 180%;
 	margin:1em; 
 }
