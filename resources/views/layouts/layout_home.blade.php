@@ -15,7 +15,7 @@
           <div class="nom">CECILE PHILIPPE</div>
           <hr>
           <hr>
-          <h1>Developpeur web</h1>
+          <div class="nom">Developpeur Web</div>
           <hr>
           <div class="ui five item menu">
             <!-- <a href="/" class="item ">Acceuil</a> -->
