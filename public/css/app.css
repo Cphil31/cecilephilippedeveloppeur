@@ -5,5 +5,13 @@ h1{
 	text-align:center;
 	font-size: 350%;
 	margin:5%;
-
+}
+.formation{
+	font-size: 180%;
+	margin:1em; 
+}
+.loisirs{
+	text-align: center;
+	font-size: 180%;
+	margin:1em; 
 }

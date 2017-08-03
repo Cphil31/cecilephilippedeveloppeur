@@ -1,2 +1,4 @@
-$('.ui.accordion').accordion('refresh');
+$('.ui.dropdown')
+  .dropdown()
+;
 console.log("hello world");

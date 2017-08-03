@@ -9,7 +9,6 @@
 
 @section('content')
 
-<h1>Contactez-nous</h1>
 
 <div class="ui grid">
 <div class="two wide column"></div>

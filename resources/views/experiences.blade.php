@@ -9,7 +9,6 @@
 
 @section('content')
     
-<h1>Expériences</h1>
 
 <div class="experienceSpace"></div>
 			<div class="ui stackatble grid">
