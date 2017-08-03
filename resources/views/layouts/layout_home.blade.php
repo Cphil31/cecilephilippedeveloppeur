@@ -12,12 +12,12 @@
     <div class="ui grid">
       <div class="two wide column"></div>
       <div class="twelve wide column">
-          <div class="nom">CECILE PHILIPPE</div>
+          <div class="ui blue nom">CECILE PHILIPPE</div>
           <hr>
           <hr>
-          <div class="nom">Developpeur Web</div>
+          <div class="ui blue nom">Developpeur Web</div>
           <hr>
-          <div class="ui six item menu">
+          <div class="ui blue six item inverted menu">
             <a href="/" class="item ">Acceuil</a>
             <a href="/formations" class="item ">Formations</a>
             <a href="/competences" class="item">Compétences</a>
