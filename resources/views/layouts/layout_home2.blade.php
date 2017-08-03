@@ -25,6 +25,14 @@
             <a href="/loisirs" class="item">Loisirs </a>
             <a href="/contact" class="item">Contacts</a>
         </div>
+        
+
+
+
+
+
+
+
 
     <div class="container">
         @yield('content')

@@ -1,8 +1,9 @@
 h1{
 	text-align:center;
 }
-body {
-background-image:url(http://lorempicsum.com/futurama/1600/300/4);
-background-repeat: no-repeat;
+.nom{
+	text-align:center;
+	font-size: 350%;
+	margin:5%;
 
 }
