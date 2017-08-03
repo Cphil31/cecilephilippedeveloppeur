@@ -9,6 +9,6 @@
 
 @section('content')
     
-<div class="texthome">Développeur web junior a la recherche d'un emploi </div>
+<div class="texthome">Développeur web junior à la recherche d'un emploi </div>
 
 @endsection

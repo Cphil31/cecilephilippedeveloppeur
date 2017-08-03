@@ -10,27 +10,43 @@ h1{
 .formations{
 	font-size: 120%;
 	margin:2em;
+	color:#0E6EB8;
 }
 .competences{
 	text-align: center;
 	font-size: 180%;
 	margin:1em; 
+	color:#0E6EB8;
+}
+.experiences{
+	color:#0E6EB8;
 }
 .loisirs{
 	text-align: center;
 	font-size: 180%;
-	margin:1em; 
+	margin-top:10%; 
+	color:#0E6EB8;
+	
 }
 .sport{
 	text-align: center;
 	font-size: 180%;
 	margin:1em;
-	margin-bottom:10%; 
+	margin-bottom:5%; 
+	color:#0E6EB8;
 }
 .texthome{
 	text-align: center;
 	font-size: 200%;
+	color:#0E6EB8;
+	margin-bottom:15%;
 }
 .ui.six.item.menu{
 	margin:3em; 
+}
+.footer{
+	width:1600px;
+	height:100px;
+	background-color:#0E6EB8;
+	margin-top: 10%
 }
