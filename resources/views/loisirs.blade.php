@@ -12,7 +12,7 @@
 	<div class="sport">Sports : basket et footing en amateur</div>
 
 	<a href="" target="_blank"><i class="linkedin square icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="" target="_blank"><i class="github icon" style="font-size: 6em;margin-bottom: -10% "></i></a>
+	<a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size: 6em;margin-bottom: -10% "></i></a>
 	<a href="" target="_blank"><i class="gitlab icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
 	<a href="" target="_blank"><i class="slack icon" style="font-size: 6em;margin-bottom: -10%" ></i></a>
 	<a href="" target="_blank"><i class="twitter square icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
