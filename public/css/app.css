@@ -44,7 +44,11 @@ h1{
 .ui.six.item.menu{
 	margin:3em; 
 }
+a{
+	bottom: 20%;
+}
 .footer{
+	position: relative;
 	width:1600px;
 	height:100px;
 	background-color:#0E6EB8;

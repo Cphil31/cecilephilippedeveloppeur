@@ -11,12 +11,13 @@
 	<div class="loisirs"><a href="https://www.mixcloud.com/vito-sanacho/">DJ</a> dans des hôtels,clubs et soirées privées (2005-2012) </div>
 	<div class="sport">Sports : basket et footing en amateur</div>
 
-	<a href="" target="_blank"><i class="linkedin square icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size: 6em;margin-bottom: -10% "></i></a>
-	<a href="" target="_blank"><i class="gitlab icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="" target="_blank"><i class="slack icon" style="font-size: 6em;margin-bottom: -10%" ></i></a>
-	<a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
-	<a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size: 6em;margin-bottom: -10%"></i></a>
+	<a href="" target="_blank"><i class="linkedin square icon" style="font-size:4em;></i></a>
+	<a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size:4em;"></i></a>
+	<a href="" target="_blank"><i class="gitlab icon" style="font-size:4em;></i></a>
+	<a href="" target="_blank"><i class="slack icon" style="font-size:4em; ></i></a>
+	<a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:4em;></i></a>
+	<a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:4em;></i></a>
+	<a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="font-size:4em;></i></a>
+	<a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:4em;"></i></a>
+
 @endsection
