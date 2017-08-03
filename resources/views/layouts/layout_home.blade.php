@@ -14,11 +14,12 @@
     <div class="ui grid">
       <div class="two wide column"></div>
       <div class="twelve wide column">
-        <div class="ui five item menu">
+        <div class="ui six item menu">
             <a href="/" class="item">Accueil</a>
             <a href="/formations" class="item">Formations</a>
             <a href="/competences" class="item">Compétences</a>
-            <a href="/experiences" class="item">Expériences </a>
+            <a href="/loisirs" class="item">Expériences </a>
+            <a href="/loisirs" class="item">Loisirs </a>
             <a href="/contact" class="item">Contacts</a>
         </div>
 <div class="container">
