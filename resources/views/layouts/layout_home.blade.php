@@ -17,8 +17,8 @@
           <hr>
           <div class="nom">Developpeur Web</div>
           <hr>
-          <div class="ui five item menu">
-            <!-- <a href="/" class="item ">Acceuil</a> -->
+          <div class="ui six item menu">
+            <a href="/" class="item ">Acceuil</a>
             <a href="/formations" class="item ">Formations</a>
             <a href="/competences" class="item">Compétences</a>
             <a href="/experiences" class="item">Expériences </a>

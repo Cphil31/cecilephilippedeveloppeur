@@ -20,6 +20,10 @@ h1{
 	font-size: 180%;
 	margin:1em; 
 }
-.ui.five.item.menu{
+.texthome{
+	text-align: center;
+	font-size: 200%;
+}
+.ui.six.item.menu{
 	margin:3em; 
 }
