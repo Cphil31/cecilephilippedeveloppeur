@@ -23,6 +23,9 @@ Route::get('/formations', function () {
 Route::get('/experiences', function () {
     return view('experiences');
 });
+Route::get('/loisirs', function () {
+    return view('loisirs');
+});
 Route::get('/contact', function () {
     return view('contact');
 });
