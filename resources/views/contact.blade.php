@@ -37,7 +37,7 @@
 			<div class="ui submit button">Envoi</div>
 			<div class="download">	
 				<a  href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/cv%20CECILE%20Philippe%20.pdf"
-				download="CECILE_PHILIPPE_Curriculum_Vitae">Téléchargez mon CV en PDF</a>
+				download="CECILE_PHILIPPE_Curriculum_Vitae">Vous pouvez télécharger mon CV en PDF</a>
 			</div>
 		</div>
 	</div>
