@@ -9,14 +9,13 @@
 
 @section('content')
 <div class="experiences">
-	
-	
+
 	<div class="ui grid">
 		<div class="five wide column">Septembre 2016- Mars 2017</div>
 		<div class="eight wide column">Développement de projets Web à l'école Simplon (évènements : <a href="https://hourofcode.com/fr">Hour of code</a>, <a href="http://www.niort-numeric.fr/hackathon/">Hackathon 2016</a>)</div>
 		<div class="three wide column">Toulouse</div>
 	</div>
-	
+
 
 
 	<div class="ui grid">
@@ -41,22 +40,22 @@
 		<div class="three wide column">Toulouse</div>
 	</div>
 
-	
+
 	<div class="ui grid">
 		<div class="five wide column">2010 - 2011</div>
 		<div class="eight wide column">Agent d'accueil / Livreur - CCAS</div>
 		<div class="three wide column">Guadeloupe</div>
 	</div>
-	
 
 
-	
+
+
 	<div class="ui grid">
 		<div class="five wide column">2005 - 2010</div>
 		<div class="eight wide column">Commercial - Caraïbes Immo Pro</div>
 		<div class="three wide column">Guadeloupe</div>
 	</div>
-	
+
 
 
 	<div class="ui grid">
