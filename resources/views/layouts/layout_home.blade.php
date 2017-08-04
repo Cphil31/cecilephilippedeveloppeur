@@ -32,7 +32,7 @@
     <div class="container">
         @yield('content')
     </div>
-    <div class="footer"></div>
+    <!-- <div class="footer"></div> -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
 <script src="../js/app.js"></script>
