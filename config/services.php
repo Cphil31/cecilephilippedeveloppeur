@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => env('cecilephilippe.developpeur.com'),
+        'secret' => env('k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVzLxa3AQPay/i5JGOwlIpKOC7ERixbYOqV+Dg1ClbWaUVTvTeaz/LUrSEKlPEWqmM6v51gvDa9vQkemjCkXpFH3zBGOSg/cwf2CLNdifhKF3/scodCPH84wFoUZtXO+sNQOG7OBo74lvL5VQP3btG5EKAAjsQhZgaeI5h49GpFwIDAQAB'),
     ],
 
     'ses' => [
