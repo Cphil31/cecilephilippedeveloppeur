@@ -41,6 +41,12 @@ h1{
 	color:#0E6EB8;
 	margin:5%;
 }
+.download{
+	text-align: center;
+	font-size: 200%;
+	color:#0E6EB8;
+}
+
 .ui.six.item.menu{
 	margin:3em; 
 }
