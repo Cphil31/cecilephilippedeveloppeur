@@ -13,12 +13,11 @@ class ContactController extends Controller
 
 	public function postInfos(Request $request)
 	{
-		return 'votre nom est ' . $request->input('nom') .' '. $request->input('prenom'); 
-	}
+	$name=$request->input('nom');
+	$prenom=$request->input('prenom');
 
-	public function post2Infos(Request $request)
-	{
-		return view('reponse_form_contact'); 
+	return view('right_answer_form_contact', ['name' => $name ,'prenom' => $prenom]); 
+	 
 	}
 	
 }

@@ -29,13 +29,6 @@ Route::get('/loisirs', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/testcontact', function () {
-    return view('test_contact');
-});
-Route::get('/formcontact', function () {
-    return view('reponse_form_contact');
-});
-
 
 Route::get('formcontact', 'ContactController@getInfos');
-Route::post('formcontact', 'ContactController@post2Infos');
+Route::post('formcontact', 'ContactController@postInfos');

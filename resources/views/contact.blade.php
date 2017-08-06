@@ -11,31 +11,19 @@
 <div class="ui grid">
 	<div class="four wide column"></div>
 	<div class="eight wide column">
-
-		<form class="ui form">
-
-			<div class="two fields">
-				<div class="field">
-					<label>First Name</label>
-					<input type="text" name="first-name" placeholder="First Name">
-				</div>
-				<div class="field">
-					<label>Last Name</label>
-					<input type="text" name="last-name" placeholder="Last Name">
-				</div>
-			</div>
-			
-			<div class="field">
-				<label>Object</label>
-				<textarea rows="1"></textarea>
-			</div>
-			<div class="field">
-				<label>Message</label>
-				<textarea></textarea>
-			</div>
-			<button class="ui button" type="submit">Submit</button>
-		</form>
-
+		{!! Form::open(['url' => 'formcontact', 'class' => "ui form"]) !!}
+		{!! Form::label('nom', 'Nom : ') !!}
+		{!! Form::text('nom') !!}
+		{!! Form::label('nom', 'Prenom : ') !!}
+		{!! Form::text('prenom') !!}
+		{!! Form::label('email', 'E-mail : ') !!}
+		{!! Form::email('email') !!}
+		{!! Form::label('object', 'Object : ') !!}
+		{!! Form::text('Object') !!}
+		{!! Form::label('Message', 'Message : ') !!}
+		{!! Form::textarea('Message') !!}
+		{!! Form::submit('Envoyer !', ['class' => 'ui button']) !!}
+		{!! Form::close() !!}
 	</div>
 	<div class="four wide column"></div>
 </div>

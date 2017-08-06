@@ -23,7 +23,7 @@
             <a href="/competences" class="item">Compétences</a>
             <a href="/experiences" class="item">Expériences </a>
             <a href="/loisirs" class="item">Loisirs </a>
-            <a href="/testcontact" class="item">Contacts</a>
+            <a href="/contact" class="item">Contacts</a>
         </div>
 
       </div>
