@@ -29,3 +29,6 @@ Route::get('/loisirs', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/testcontact', function () {
+    return view('test_contact');
+});
