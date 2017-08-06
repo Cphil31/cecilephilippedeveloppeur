@@ -32,6 +32,10 @@ Route::get('/contact', function () {
 Route::get('/testcontact', function () {
     return view('test_contact');
 });
+Route::get('/formcontact', function () {
+    return view('reponse_form_contact');
+});
 
-Route::get('users', 'ContactController@getInfos');
-Route::post('users', 'ContactController@postInfos');
+
+Route::get('formcontact', 'ContactController@getInfos');
+Route::post('formcontact', 'ContactController@post2Infos');
