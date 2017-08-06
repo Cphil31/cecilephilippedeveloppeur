@@ -32,3 +32,6 @@ Route::get('/contact', function () {
 Route::get('/testcontact', function () {
     return view('test_contact');
 });
+
+Route::get('users', 'UsersController@getInfos');
+Route::post('users', 'UsersController@postInfos');
