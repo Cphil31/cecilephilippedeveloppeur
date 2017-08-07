@@ -15,7 +15,7 @@
           <div class="ui blue nom">CECILE Philippe</div>
           <hr>
           <hr>
-          <div class="ui blue nom">Developpeur Web</div>
+          <div class="ui blue nom">Développeur Web</div>
           <hr>
           <div class="ui blue six item inverted menu">
             <a href="/" class="item ">Acceuil</a>
