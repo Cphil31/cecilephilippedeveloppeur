@@ -25,11 +25,4 @@
 	<div class=" wide column"></div>
 </div>
 
-
-
-
-
-
-
-
 @endsection

@@ -11,7 +11,7 @@
 <div class="ui grid">
 	<div class="four wide column"></div>
 	<div class="eight wide column">
-		{!! Form::open(['url' => 'formcontact', 'class' => "ui form"]) !!}
+		{!! Form::open(['url' => 'answer_contact', 'class' => "ui form"]) !!}
 		{!! Form::label('nom', 'Nom : ') !!}
 		{!! Form::text('nom') !!}
 		{!! Form::label('nom', 'Prenom : ') !!}
@@ -19,10 +19,10 @@
 		{!! Form::label('email', 'E-mail : ') !!}
 		{!! Form::email('email') !!}
 		{!! Form::label('object', 'Object : ') !!}
-		{!! Form::text('Object') !!}
+		{!! Form::text('object') !!}
 		{!! Form::label('Message', 'Message : ') !!}
-		{!! Form::textarea('Message') !!}
-		{!! Form::submit('Envoyer !', ['class' => 'ui button']) !!}
+		{!! Form::textarea('content') !!}
+		{!! Form::submit('Envoyer !', ['class' => 'ui button','value' => 'Send']) !!}
 		{!! Form::close() !!}
 	</div>
 	<div class="four wide column"></div>
