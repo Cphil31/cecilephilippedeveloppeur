@@ -12,7 +12,7 @@
     <div class="ui grid">
       <div class="two wide column"></div>
       <div class="twelve wide column">
-          <div class="ui blue nom">CECILE PHILIPPE</div>
+          <div class="ui blue nom">CECILE Philippe</div>
           <hr>
           <hr>
           <div class="ui blue nom">Developpeur Web</div>
