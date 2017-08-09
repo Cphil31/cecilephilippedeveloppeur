@@ -15,7 +15,7 @@
 			<a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
 		</div>
 		<div class="ui inverted blue segment">
-		{!! Form::open (['url' => 'answer_contact', 'class' => "ui inverted form"]) !!}
+		{!! Form::open (['url' => 'answer_contact', 'class' => "ui inverted form" , ]) !!}
 		<div class="two fields"> 
 			<div class="field">
 				{!! Form::label('nom', 'Nom :') !!}
