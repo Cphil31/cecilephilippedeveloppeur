@@ -37,7 +37,7 @@
 			{!! Form::label('Message', 'Message : ') !!}
 			{{ Form::textarea('content','',array('required' => 'required')) }}
 		</div>
-		{!! Form::submit('Envoyer !', ['class' => 'ui button','value' => 'Send']) !!}
+		{!! Form::submit('Envoyer !', ['class' => 'ui fluid button','value' => 'Send']) !!}
 		{!! Form::close() !!}
 		{{ csrf_field() }} 
 		</div>
