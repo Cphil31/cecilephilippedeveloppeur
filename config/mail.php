@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'host' => env('MAIL_HOST', 'smtp.gmail.com'),
+    'host' => env('MAIL_HOST', 'smtp.mailtrap.io'),
 
     /*
     |--------------------------------------------------------------------------
@@ -42,7 +42,7 @@ return [
     |
     */
 
-    'port' => env('MAIL_PORT', 587),
+    'port' => env('MAIL_PORT', 465),
 
     /*
     |--------------------------------------------------------------------------
@@ -81,9 +81,9 @@ return [
     |
     */
 
-    'username' => env('cecilephilippe31@gmail.com'),
+    'username' => env('eb1d20e4bb0b1d'),
 
-    'password' => env('170985Aa'),
+    'password' => env('66361d22018b7a'),
 
     /*
     |--------------------------------------------------------------------------

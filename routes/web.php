@@ -35,3 +35,4 @@ Route::post('answer_contact', 'ContactController@postForm');
 Route::post('answer_contact', 'ContactController@postInfos');
 
 
+
