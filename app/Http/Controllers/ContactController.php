@@ -25,10 +25,7 @@ class ContactController extends Controller
 		$subject=$request->input('object');
 		$content=$request->input('content');
 	
-		Mail::send('shipped', $request->all(), function($message) 
-		{
-		    $message->to('cecilephilippe@gmail.com')->subject('Contact');
-		});
+		
 		return view('right_answer_form_contact', ['name' => $name ,'prenom' => $prenom, 'email'=> $email, 'object'=> $subject,'content'=> $content]);
 	}
 

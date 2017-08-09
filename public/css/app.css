@@ -44,6 +44,11 @@ h1,h2{
 	font-size: 150%;
 	color:#0E6EB8;
 }
+.textanswer{
+	font-size: 150%;
+	color:#0E6EB8;
+	text-align: center;
+}
 .textcontact{
 	text-align: center;
 	font-size: 200%;
