@@ -36,10 +36,13 @@ h1,h2{
 	color:#0E6EB8;
 }
 .texthome{
-	text-align: center;
-	font-size: 200%;
+	font-size: 150%;
 	color:#0E6EB8;
 	margin:5%;
+}
+.texthome2{
+	font-size: 150%;
+	color:#0E6EB8;
 }
 .textcontact{
 	text-align: center;

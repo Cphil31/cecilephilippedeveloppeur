@@ -8,14 +8,6 @@
 @endsection
 
 @section('content')
-<h2>Merci {{ $name}} {{ $prenom}} pour l'envoi de cet e-mail , votre message à bien été transmit</h2>
-<h3>
-<li>Nom : {{$name}}</li>
-<li>Prénom : {{$prenom}}</li>
-<li>E-mail : {{$email}}</li>
-<li>Object : {{$object}}</li>
-<li>content : {{$content}}</li>	
-
-</h3>
+<h2>Merci {{ $name}} {{ $prenom}} pour l'envoi de votre e-mail, votre message "{{$content}}" a bien été transmit</h2>
 
 @endsection
