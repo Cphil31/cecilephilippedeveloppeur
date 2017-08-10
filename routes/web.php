@@ -32,7 +32,8 @@ Route::get('/contact', function () {
 
 Route::get('answer_contact', 'ContactController@getInfos');
 Route::post('answer_contact', 'ContactController@postForm');
-Route::post('answer_contact', 'ContactController@store');
+Route::post('answer_contact', 'ContactController@ship');
+Route::post('answer_contact', 'ContactController@postInfos');
 
 
 

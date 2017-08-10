@@ -20,7 +20,6 @@
 			<div class="field">
 				{!! Form::label('nom', 'Nom :') !!}
 				{{ Form::text('nom','',array('required' => 'required')) }}
-
 			</div>
 			<div class="field">
 				{!! Form::label('nom', 'Prenom :') !!}
