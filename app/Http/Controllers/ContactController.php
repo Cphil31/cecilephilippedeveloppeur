@@ -3,6 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Order;
+use App\Mail\OrderShipped;
+use Illuminate\Support\Facades\Mail;
+use App\Http\Controllers\Controller;
+
 
 class ContactController extends Controller
 
@@ -12,6 +17,18 @@ class ContactController extends Controller
 
 		return view('home');
 	} //
+
+	 public function ship(Request $request, $orderId)
+	    {
+	    	$email=$request->input('email');
+	        $order = Order::findOrFail($orderId);
+	        $gmail='cecilephilippe31@gmail.com';
+	        $testsend=  view ('emails.messages.created');
+	        
+
+	        Mail::to($email)->send($testsend);
+	    }
+
 
    public function postInfos(request $request)
 	{

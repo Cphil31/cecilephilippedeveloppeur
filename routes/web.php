@@ -11,29 +11,14 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-Route::get('/competences', function () {
-    return view('competences');
-});
-Route::get('/formations', function () {
-    return view('formations');
-});
-Route::get('/experiences', function () {
-    return view('experiences');
-});
-Route::get('/loisirs', function () {
-    return view('loisirs');
-});
-Route::get('/contact', function () {
-    return view('contact');
-});
-
+Route::get('/', 'ViewController@home');
+Route::get('/contact', 'ViewController@contact');
+Route::get('/competences', 'ViewController@competences');
+Route::get('/formations', 'ViewController@formations');
+Route::get('/experiences', 'ViewController@experiences');
+Route::get('/loisirs', 'ViewController@loisirs');
 Route::get('answer_contact', 'ContactController@getInfos');
+
 Route::post('answer_contact', 'ContactController@postForm');
 Route::post('answer_contact', 'ContactController@ship');
 Route::post('answer_contact', 'ContactController@postInfos');
-
-
-

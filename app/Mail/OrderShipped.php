@@ -6,6 +6,7 @@ use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Http\Request;
 
 class OrderShipped extends Mailable
 {
@@ -26,8 +27,16 @@ class OrderShipped extends Mailable
      *
      * @return $this
      */
-    public function build()
+    public function build(request $request)
     {
-        return $this->view('view.name');
+        $name=$request->input('nom');
+        $prenom=$request->input('prenom');
+        $email=$request->input('email');
+        $subject=$request->input('object');
+        $content=$request->input('content');
+
+
+        return $this->from($email)
+                ->view('emails.messages.created');
     }
 }
