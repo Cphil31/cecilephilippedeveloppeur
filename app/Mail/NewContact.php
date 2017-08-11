@@ -6,9 +6,10 @@ use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Contracts\Queue\ShouldQueue;
-use Illuminate\Http\Request;
+use App\Mail;
+use App\Order;
 
-class OrderShipped extends Mailable
+class NewContact extends Mailable
 {
     use Queueable, SerializesModels;
 
@@ -27,16 +28,9 @@ class OrderShipped extends Mailable
      *
      * @return $this
      */
-    public function build(request $request)
+    public function build()
     {
-        $name=$request->input('nom');
-        $prenom=$request->input('prenom');
-        $email=$request->input('email');
-        $subject=$request->input('object');
-        $content=$request->input('content');
-
-
-        return $this->from($email)
-                ->view('emails.messages.created');
+        return $this->from('cecilephilippe31@gmail.com')
+                    ->view('emails.messages.created');
     }
 }
