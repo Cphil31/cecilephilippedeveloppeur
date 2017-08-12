@@ -17,8 +17,11 @@ class ContactController extends Controller
 
 {
 
-	 public function mailsend(Request $request)
+	 public function mailsend()
 	    {
-	    	Mail::to('cecilephilippe31@gmail.com')->send(new NewContact);
+	    Mail::send('emails.messages.created', function ($message) {
+		    $message->from('cecilephilipe31@gmail.com');
+		    
+});
 	    }
 }

@@ -13,6 +13,7 @@ class NewContact extends Mailable
 {
     use Queueable, SerializesModels;
 
+
     /**
      * Create a new message instance.
      *
@@ -20,7 +21,7 @@ class NewContact extends Mailable
      */
     public function __construct()
     {
-        //
+    
     }
 
     /**
@@ -30,7 +31,6 @@ class NewContact extends Mailable
      */
     public function build()
     {
-        return $this->from('cecilephilippe31@gmail.com')
-                    ->view('emails.messages.created');
+        return $this ->view('emails.messages.created');
     }
 }
