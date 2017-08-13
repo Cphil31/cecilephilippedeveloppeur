@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>cecilephilippedeveloppeur</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>

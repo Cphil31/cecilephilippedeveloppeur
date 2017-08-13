@@ -15,10 +15,10 @@
 <div class="ui grid contact">
 	<div class="two wide column"></div>
 	<div class="twelve wide column">
+		<a href="" target="_blank"><i class="mail outline icon" style="position:relative;font-size:6em;"></i></a>	
 		<a href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="position:relative;font-size:6em;"></i></a>
 		<a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="position:relative;font-size:6em;"></i></a>
 		<a href="https://about.gitlab.com/" target="_blank"><i class="gitlab icon" style="position:relative;font-size:6em;"></i></a>
-		<a href="" target="_blank"><i class="slack icon" style="position:relative;font-size:6em;"></i></a>
 		<a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="position:relative;font-size:6em;"></i></a>
 		<a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="position:relative;font-size:6em;"></i></a>
 		<a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="position:relative;font-size:6em;"></i></a>
