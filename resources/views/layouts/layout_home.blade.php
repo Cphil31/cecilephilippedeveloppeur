@@ -13,10 +13,10 @@
     <div class="ui grid">
       <div class="two wide column"></div>
       <div class="twelve wide column">
-          <div class="ui blue nom">CECILE Philippe</div>
+          <h1 style="color:#0E6EB8;font-size:5em;">CECILE Philippe</h1>
           <hr>
           <hr>
-          <div class="ui blue nom">Développeur Web</div>
+          <h1 style="color:#0E6EB8;font-size:5em;">Developpeur Web</h1>
           <hr>
           <div class="ui blue six item inverted menu">
             <a href="/" class="item ">Acceuil</a>

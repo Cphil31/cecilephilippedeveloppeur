@@ -8,11 +8,8 @@
 @endsection
 
 @section('content')
-
-		<div class="textcontact">
-			<a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
-		</div>
-
+			<a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">
+			<h1>Telechargez mon Cv en PDF</a></h1>
 
 		<div class="icon">
 			<a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;"></i></a>	
