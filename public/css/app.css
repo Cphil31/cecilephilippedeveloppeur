@@ -67,4 +67,6 @@ h1,h2{
 }
 .ui.grid.contact{
 	margin-top: 10%;
+	margin-right: auto;
+	margin-left: auto;
 }
