@@ -61,12 +61,10 @@ h1,h2{
 	font-size: 200%;
 	color:#0E6EB8;
 }
-
 .ui.six.item.menu{
 	margin:3em; 
 }
-.ui.grid.contact{
-	margin-top: 10%;
-	margin-right: auto;
-	margin-left: auto;
+.icon{
+	margin-top:10%;
+	text-align: center;
 }
