@@ -21,7 +21,7 @@
           <hr>
           <div class="ui blue six item inverted menu">
             <a href="/" class="item ">Acceuil</a>
-            <a href="/formations" class="item ">Formations</a>
+            <a href="/formations" class="item">Formations</a>
             <a href="/competences" class="item">Compétences</a>
             <a href="/experiences" class="item">Expériences </a>
             <a href="/loisirs" class="item">Loisirs </a>

@@ -50,12 +50,6 @@ h1,h2{
 	color:#0E6EB8;
 	text-align: center;
 }
-.textcontact{
-	text-align: center;
-	font-size: 200%;
-	color:#0E6EB8;
-	margin:5%;
-}
 .download{
 	text-align: center;
 	font-size: 200%;
@@ -67,4 +61,7 @@ h1,h2{
 .icon{
 	margin-top:10%;
 	text-align: center;
+}
+.spacecontact{
+	margin-bottom: 4%;
 }

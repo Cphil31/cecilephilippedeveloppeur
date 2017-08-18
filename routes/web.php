@@ -18,7 +18,7 @@ Route::get('/competences', 'ViewController@competences');
 Route::get('/formations', 'ViewController@formations');
 Route::get('/experiences', 'ViewController@experiences');
 Route::get('/loisirs', 'ViewController@loisirs');
+Route::get('/slide', 'ViewController@slide');
 Route::get('answer_contact', 'ContactController@getInfos');
-Route::get('/test', 'ContactController@mailsend');
 Route::post('answer_contact', 'ContactController@postForm');
 Route::post('answer_contact', 'ViewController@postInfos');

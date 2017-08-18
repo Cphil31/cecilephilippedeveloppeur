@@ -9,6 +9,9 @@ class ViewController extends Controller
 	public function home(){
     	return view('home');
     }
+    public function layout2(){
+        return view('layouts.layout2_home');
+    }
     public function Contact(){
     	return view('contact');
     }
@@ -23,6 +26,10 @@ class ViewController extends Controller
     }
     public function loisirs(){
     	return view('loisirs');
+    }
+
+    public function slide(){
+        return view('slide');
     }
 
     public function postInfos(request $request)
