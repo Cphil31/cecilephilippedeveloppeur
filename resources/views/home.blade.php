@@ -14,8 +14,7 @@
 	<div class="twelve wide column">
 		<div class="texthome">Développeur web junior ayant eu une formation poussée à l'école simplon en Php, SQL, Javascript, CSS , HTML .  
 		</div>
-		<div class="texthome">J'ai également appris à travailler avec differentes méthodes de travail à la recherche d'un emploi 
-		</div>
+		
 	</div>
 	<div class="seven wide column"></div>
 </div>
