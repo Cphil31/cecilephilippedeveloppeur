@@ -13,12 +13,22 @@
 use \App\Mail\NewContact;
 
 Route::get('/', 'ViewController@home');
+// Route::get('/', function (){
+// 	$data=[
+// 	'title'=>'bienvenue sur le site',
+// 	'content'=>'félicitations'
+// 	];
+// 	Mail::send('emails.messages.created', $data , function($message){
+// 		$message->to('cecilephilippe31@gmail.com', 'Philippe')->subject('bienvenue');
+// 	});
+// });
+
 Route::get('/contact', 'ViewController@contact');
 Route::get('/competences', 'ViewController@competences');
 Route::get('/formations', 'ViewController@formations');
 Route::get('/experiences', 'ViewController@experiences');
 Route::get('/loisirs', 'ViewController@loisirs');
-Route::get('/slide', 'ViewController@slide');
+Route::get('/test', 'ViewController@test');
 Route::get('answer_contact', 'ContactController@getInfos');
 Route::post('answer_contact', 'ContactController@postForm');
 Route::post('answer_contact', 'ViewController@postInfos');

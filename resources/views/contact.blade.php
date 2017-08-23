@@ -10,6 +10,7 @@
 @section('content')
 
 		<div class="spacecontact"></div>
+		<div class="icone">			
 			<a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">
 			<h1>Telechargez mon Cv en PDF</a></h1>
 
@@ -22,6 +23,7 @@
 			<a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;"></i></a>
 			<a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="font-size:6em;"></i></a>
 			<a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:6em;"></i></a>
+		</div>
 		</div>
 
 

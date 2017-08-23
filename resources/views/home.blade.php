@@ -1,4 +1,4 @@
-@extends('layouts.layout_home')
+@extends('layouts.layout_home2')
 
 @section('title', 'Page Title')
 
@@ -9,7 +9,7 @@
 
 @section('content')
 
-<div class="ui grid">
+<!-- <div class="ui grid">
 	<div class="two wide column"></div>
 	<div class="twelve wide column">
 		<div class="texthome">Développeur web junior ayant eu une formation poussée à l'école simplon en Php, SQL, Javascript, CSS , HTML .  
@@ -17,7 +17,7 @@
 		
 	</div>
 	<div class="seven wide column"></div>
-</div>
+</div> -->
 
 
 @endsection

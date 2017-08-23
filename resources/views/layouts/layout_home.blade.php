@@ -26,7 +26,7 @@
             <a href="/experiences" class="item">Expériences </a>
             <a href="/loisirs" class="item">Loisirs </a>
             <a href="/contact" class="item">Contacts</a>
-        </div>
+          </div>
 
       </div>
     </div>
