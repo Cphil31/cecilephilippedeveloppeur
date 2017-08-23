@@ -15,14 +15,14 @@
       <div class="two wide column"></div>
       <div class="twelve wide column">
 
-          <h1 style="color:#0E6EB8;font-size:5em;">CECILE Philippe</h1>
-          <hr>
-          <hr>
-          <h1 style="color:#0E6EB8;font-size:5em;">Developpeur Web</h1>
-          <hr>
+          <div class="titre" style="color:#0E6EB8;font-size:5em;">CECILE Philippe</div>
+          <hr class="titre">
+          <hr class="titre">
+          <div class="titre" style="color:#0E6EB8;font-size:5em;">Developpeur Web</div>
+          <hr class="titre">
           <!-- MENU -->
           <div class="ui blue six item inverted menu">
-            <a href="/" class="item ">Acceuil</a>
+            <a class="acceuilMenu item ">Acceuil</a>
             <a class="formationMenu item">Formations</a>
             <a class="competenceMenu item">Compétences</a>
             <a class="experienceMenu item">Expériences </a>
