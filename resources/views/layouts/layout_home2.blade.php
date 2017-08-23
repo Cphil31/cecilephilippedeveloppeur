@@ -21,8 +21,7 @@
           <div class="titre" style="color:#0E6EB8;font-size:5em;">Developpeur Web</div>
           <hr class="titre">
           <!-- MENU -->
-          <div class="ui blue six item inverted menu">
-            <a class="acceuilMenu item ">Acceuil</a>
+          <div class="ui blue five item inverted menu">
             <a class="formationMenu item">Formations</a>
             <a class="competenceMenu item">Compétences</a>
             <a class="experienceMenu item">Expériences </a>
