@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'driver' => env('smtp'),
+    'driver' => 'smtp',
 
     /*
     |--------------------------------------------------------------------------
@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'host' => env('smtp.mailgun.org'),
+    'host' => 'smtp.mailgun.org',
 
     /*
     |--------------------------------------------------------------------------
@@ -42,7 +42,7 @@ return [
     |
     */
 
-    'port' => env('MAIL_PORT', 587),
+    'port' => 587,
 
     /*
     |--------------------------------------------------------------------------
@@ -55,7 +55,7 @@ return [
     |
     */
 
-   'from' => ['address' => 'cecilephilippe31@gmail.fr', 'name' => 'Administrateur'],
+   // 'from' => ['address' => null, 'name' => null],
 
     /*
     |--------------------------------------------------------------------------
@@ -81,9 +81,9 @@ return [
     |
     */
 
-    'username' => env('postmaster@sandbox00ab2049406e471fb13c40330213267f.mailgun.org'),
+    'username' => 'postmaster@sandbox00ab2049406e471fb13c40330213267f.mailgun.org',
 
-    'password' => env('fa83bad7322c801b21a64b852fc12404'),
+    'password' => 'fa83bad7322c801b21a64b852fc12404',
 
     /*
     |--------------------------------------------------------------------------

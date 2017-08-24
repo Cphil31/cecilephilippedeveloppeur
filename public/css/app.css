@@ -1,11 +1,13 @@
+
 .titre{
 	text-align:center;
+	color:#0E6EB8;
+	font-size:4em;
 }
 .nom{
 	text-align:center;
 	font-size: 350%;
 	margin:5%;
-	color:#0E6EB8;
 }
 .formations{
 	font-size: 160%;
@@ -54,6 +56,7 @@
 .download{
 	text-align: center;
 	font-size: 200%;
+	color:blue;
 	color:#0E6EB8;
 }
 .ui.six.item.menu{

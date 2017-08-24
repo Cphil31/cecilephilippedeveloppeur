@@ -6,9 +6,9 @@ $(".sport").hide();
 $(".download").hide();
 $(".icon").hide();
 $(".titre").transition('hide');
-$(".titre").transition('fly left','2000ms');
+$(".titre").transition('fly right','2000ms');
 $(".menu").transition('hide');
-$(".menu").transition('fly right','2000ms');
+$(".menu").transition('fly left','2000ms');
 
 
 

@@ -15,10 +15,10 @@
       <div class="two wide column"></div>
       <div class="twelve wide column">
 
-          <div class="titre" style="color:#0E6EB8;font-size:5em;">CECILE Philippe</div>
+          <div class="titre">CECILE Philippe</div>
           <hr class="titre">
           <hr class="titre">
-          <div class="titre" style="color:#0E6EB8;font-size:5em;">Developpeur Web</div>
+          <div class="titre">Developpeur Web</div>
           <hr class="titre">
           <!-- MENU -->
           <div class="ui blue five item inverted menu">
