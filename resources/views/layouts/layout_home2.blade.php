@@ -146,12 +146,6 @@
 <div class="loisirs"><a href="https://www.mixcloud.com/vito-sanacho/">DJ</a> dans des hôtels,clubs et soirées privées (2005-2012) </div>
 <div class="sport">Sports : basket et footing en amateur</div>
 
-<!-- CONTACT -->
-<div class="spacecontact"></div>
-<div class="download">  
-  <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
-</div>
-
 <div class="ui grid">
   <div class="two wide column"></div>
   <div class="twelve wide column">
@@ -171,23 +165,31 @@
   <div class="two wide column"></div>
 </div>
 
+<!-- CONTACT -->
+
+
 <!-- FORMULAIRE -->
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
 
     <div class="form">  
-      <form action="/contact" method="POST">
-        {{ csrf_field() }}
-        
-        <input type="text" name="nom">
-        <input type="text" name="mail">
-        <textarea name="text" id="" cols="30" rows="10"></textarea>
-        <button type="submit"></button>
-      </form>
+
+        <form action="/contact" method="POST">
+      {{ csrf_field() }}
+       
+      <input type="text" name="nom">
+      <input type="text" name="mail">
+      <textarea name="text" id="" cols="30" rows="10"></textarea>
+      <button type="submit"></button>
+    </form>
+    
     </div>
 
-  </div>
+    <div class="spacecontact"></div>
+    <div class="download">  
+      <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
+    </div>
   <div class="four wide column"></div>
 </div>
 

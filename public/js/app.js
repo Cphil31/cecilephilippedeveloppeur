@@ -27,7 +27,7 @@ $(".formationMenu").click(function(){
 	$(".sport").transition('hide');
 	$(".icon").transition('hide');
 	$(".download").transition('hide');
-	$(".form").hide();
+	$(".form").transition('hide');
 	$(".formations").transition('drop','1000ms');
 	});
 
@@ -39,7 +39,7 @@ $(".competenceMenu").click(function(){
 	$(".sport").transition('hide');
 	$(".icon").transition('hide');
 	$(".download").transition('hide');
-	$(".form").hide();
+	$(".form").transition('hide');
 	$(".competences").transition('drop','1000ms');
 	});
 
@@ -51,7 +51,7 @@ $(".experienceMenu").click(function(){
 	$(".sport").transition('hide');
 	$(".icon").transition('hide');
 	$(".download").transition('hide');
-	$(".form").hide();
+	$(".form").transition('hide');
 	$(".experiences").transition('drop','1000ms');
 });
 
@@ -61,7 +61,7 @@ $(".loisirMenu").click(function(){
 	$(".competences").transition('hide');
 	$(".experiences").transition('hide');
 	$(".download").transition('hide');
-	$(".form").hide();
+	$(".form").transition('hide');
 	$(".loisirs").transition('drop','1000ms');
 	$(".sport").transition('drop','1000ms');
 	$(".icon").transition('drop','1000ms');
@@ -76,8 +76,8 @@ $(".contactMenu").click(function(){
 	$(".loisirs").transition('hide');
 	$(".icon").transition('hide');
 	$(".sport").transition('hide');
-	$(".download").transition('drop','1000ms');
 	$(".form").transition('drop','1000ms');
+	$(".download").transition('drop','1000ms');
 		});
 
 
