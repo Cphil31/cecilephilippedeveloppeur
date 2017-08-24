@@ -13,8 +13,7 @@
 use \App\Mail\NewContact;
 
 // Route::get('/', 'ViewController@home');
-Route::get('/', 'ContactController@mailsend');
-
+Route::get('/testmail', 'ContactController@mailsend');
 Route::get('/contact', 'ViewController@contact');
 Route::get('/competences', 'ViewController@competences');
 Route::get('/formations', 'ViewController@formations');
