@@ -19,9 +19,14 @@ class ContactController extends Controller
 
 	 public function mailsend()
 	    {
-	    Mail::send('emails.messages.created', function ($message) {
-		    $message->from('cecilephilipe31@gmail.com');
-		    
+	    $data=[
+	'title'=>'bienvenue sur le site',
+	'content'=>'félicitations'
+	];
+	Mail::send('emails.messages.created', $data , function($message){
+		$message->from('cecilephilippe31@gmail.com', 'Laravel');
+		$message->to('cecilephilippe31@gmail.com', 'Philippe')->subject('bienvenue');
+	});
 });
 	    }
 }

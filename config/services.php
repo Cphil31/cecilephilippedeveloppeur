@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('cecilephilippe.developpeur.com'),
-        'secret' => env('k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVzLxa3AQPay/i5JGOwlIpKOC7ERixbYOqV+Dg1ClbWaUVTvTeaz/LUrSEKlPEWqmM6v51gvDa9vQkemjCkXpFH3zBGOSg/cwf2CLNdifhKF3/scodCPH84wFoUZtXO+sNQOG7OBo74lvL5VQP3btG5EKAAjsQhZgaeI5h49GpFwIDAQAB'),
+        'domain' => env('postmaster@sandbox00ab2049406e471fb13c40330213267f.mailgun.org'),
+        'secret' => env('fa83bad7322c801b21a64b852fc12404'),
     ],
 
     'ses' => [

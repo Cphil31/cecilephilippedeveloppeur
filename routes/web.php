@@ -12,16 +12,8 @@
 */
 use \App\Mail\NewContact;
 
-Route::get('/', 'ViewController@home');
-// Route::get('/', function (){
-// 	$data=[
-// 	'title'=>'bienvenue sur le site',
-// 	'content'=>'félicitations'
-// 	];
-// 	Mail::send('emails.messages.created', $data , function($message){
-// 		$message->to('cecilephilippe31@gmail.com', 'Philippe')->subject('bienvenue');
-// 	});
-// });
+// Route::get('/', 'ViewController@home');
+Route::get('/', 'ContactController@mailsend');
 
 Route::get('/contact', 'ViewController@contact');
 Route::get('/competences', 'ViewController@competences');
