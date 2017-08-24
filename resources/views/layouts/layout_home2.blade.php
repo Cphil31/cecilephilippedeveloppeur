@@ -2,52 +2,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>cecilephilippedeveloppeur</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/app.css">
+  <meta charset="UTF-8">
+  <title>cecilephilippedeveloppeur</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>
-    <!-- MENU -->
-    <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="twelve wide column">
-
-          <div class="titre">CECILE Philippe</div>
-          <hr class="titre">
-          <hr class="titre">
-          <div class="titre">Developpeur Web</div>
-          <hr class="titre">
-          <!-- MENU -->
-          <div class="ui blue five item inverted menu">
-            <a class="formationMenu item">Formations</a>
-            <a class="competenceMenu item">Compétences</a>
-            <a class="experienceMenu item">Expériences </a>
-            <a class="loisirMenu item">Loisirs </a>
-            <a class="contactMenu item">Contacts</a>
-          </div>
-      </div>
-    </div>
-
-    <!-- FORMATIONS -->
-
-    <div class="formations">  
+  <!-- MENU -->
   <div class="ui grid">
     <div class="two wide column"></div>
-    <div class="three wide column">2016-2017</div>
-    <div class="seven wide column">Formation de Web Développeur à l'école Simplon</div>
-    <div class="two wide column">Toulouse</div>
+    <div class="twelve wide column">
+
+      <div class="titre">CECILE Philippe</div>
+      <hr class="titre">
+      <hr class="titre">
+      <div class="titre">Developpeur Web</div>
+      <hr class="titre">
+      <!-- MENU -->
+      <div class="ui blue five item inverted menu">
+        <a class="formationMenu item">Formations</a>
+        <a class="competenceMenu item">Compétences</a>
+        <a class="experienceMenu item">Expériences </a>
+        <a class="loisirMenu item">Loisirs </a>
+        <a class="contactMenu item">Contacts</a>
+      </div>
+    </div>
   </div>
 
-<div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column"></div>
-    <div class="seven wide column"><h4>
-    Formation poussée en PHP, SQl,Javascript,CSS,HTML
-    
-    </h4>
+  <!-- FORMATIONS -->
+
+  <div class="formations">  
+    <div class="ui grid">
+      <div class="two wide column"></div>
+      <div class="three wide column">2016-2017</div>
+      <div class="seven wide column">Formation de Web Développeur à l'école Simplon</div>
+      <div class="two wide column">Toulouse</div>
+    </div>
+
+    <div class="ui grid">
+      <div class="two wide column"></div>
+      <div class="three wide column"></div>
+      <div class="seven wide column"><h4>
+        Formation poussée en PHP, SQl,Javascript,CSS,HTML
+        
+      </h4>
     </div>
     <div class="two wide column"></div>
   </div>
@@ -137,9 +137,9 @@
 <!-- COMPETENCES -->
 
 <div class="competences">Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</div>
-  <div class="competences">Utilisation des Progammes: SublimText,Node.js,Express.js</div>
-  <div class="competences">Analyse d'un cahier des charges</div>
-  <div class="competences">Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</div>
+<div class="competences">Utilisation des Progammes: SublimText,Node.js,Express.js</div>
+<div class="competences">Analyse d'un cahier des charges</div>
+<div class="competences">Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</div>
 
 <!-- LOISIRS -->
 
@@ -147,29 +147,41 @@
 <div class="sport">Sports : basket et footing en amateur</div>
 
 <!-- CONTACT -->
-      <div class="spacecontact"></div>
-      <div class="download">  
-      <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
-      </div>
+<div class="spacecontact"></div>
+<div class="download">  
+  <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
+</div>
 
-      <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="twelve wide column">
+<div class="ui grid">
+  <div class="two wide column"></div>
+  <div class="twelve wide column">
 
-      <div class="icon">
-        <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;"></i></a> 
-        <a href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;"></i></a>
-        <a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size:6em;"></i></a>
-        <a href="https://about.gitlab.com/" target="_blank"><i class="gitlab icon" style="font-size:6em;"></i></a>
-        <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:6em;"></i></a>
-        <a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;"></i></a>
-        <a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="font-size:6em;"></i></a>
-        <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:6em;"></i></a>
-      </div>
-
+    <div class="icon">
+      <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;"></i></a> 
+      <a href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;"></i></a>
+      <a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size:6em;"></i></a>
+      <a href="https://about.gitlab.com/" target="_blank"><i class="gitlab icon" style="font-size:6em;"></i></a>
+      <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:6em;"></i></a>
+      <a href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;"></i></a>
+      <a href="https://www.instagram.com/donsanacho/" target="_blank"><i class="instagram icon" style="font-size:6em;"></i></a>
+      <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:6em;"></i></a>
     </div>
-    <div class="two wide column"></div>
+
   </div>
+  <div class="two wide column"></div>
+</div>
+
+<!-- FORMULAIRE -->
+<div class="form">  
+  <form action="/contact" method="POST">
+    {{ csrf_field() }}
+    
+    <input type="text" name="nom">
+    <input type="text" name="mail">
+    <textarea name="text" id="" cols="30" rows="10"></textarea>
+    <button type="submit"></button>
+  </form>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
