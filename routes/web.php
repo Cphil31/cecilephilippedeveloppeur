@@ -14,7 +14,6 @@ use Illuminate\Support\Facades\Input;
 
 Route::get('/', 'ViewController@home');
 Route::get('/testmail', 'ContactController@mailsend');
-
 Route::get('/competences', 'ViewController@competences');
 Route::get('/formations', 'ViewController@formations');
 Route::get('/experiences', 'ViewController@experiences');

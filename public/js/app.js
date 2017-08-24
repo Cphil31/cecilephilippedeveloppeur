@@ -56,10 +56,10 @@ $(".loisirMenu").click(function(){
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
 	$(".experiences").transition('hide');
-	$(".icon").transition('hide');
 	$(".download").transition('hide');
 	$(".loisirs").transition('drop','1000ms');
 	$(".sport").transition('drop','1000ms');
+	$(".icon").transition('drop','1000ms');
 	});
 
 
@@ -69,9 +69,9 @@ $(".contactMenu").click(function(){
 	$(".competences").transition('hide');
 	$(".experiences").transition('hide');
 	$(".loisirs").transition('hide');
+	$(".icon").transition('hide');
 	$(".sport").transition('hide');
 	$(".download").transition('drop','1000ms');
-	$(".icon").transition('drop','1000ms');
 		});
 
 

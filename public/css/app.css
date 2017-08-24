@@ -34,8 +34,7 @@
 .sport{
 	text-align: center;
 	font-size: 180%;
-	margin:1em;
-	margin-bottom:15%; 
+	margin:1em; 
 	color:#0E6EB8;
 }
 .texthome{
@@ -63,7 +62,7 @@
 	margin:3em; 
 }
 .icon{
-	margin-top:10%;
+
 	text-align: center;
 }
 .spacecontact{
