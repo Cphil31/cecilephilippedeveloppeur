@@ -9,7 +9,7 @@ class ViewController extends Controller
 	public function home(){
     	return view('home');
     }
-    public function Contact(){
+    public function contact(){
     	return view('contact');
     }
     public function competences(){
@@ -29,15 +29,15 @@ class ViewController extends Controller
         return view('layouts.layout_home2');
     }
 
-    public function postInfos(request $request)
-    {
-        $name=$request->input('nom');
-        $prenom=$request->input('prenom');
-        $email=$request->input('email');
-        $subject=$request->input('object');
-        $content=$request->input('content');
+    // public function postInfos(request $request)
+    // {
+    //     $name=$request->input('nom');
+    //     $prenom=$request->input('prenom');
+    //     $email=$request->input('email');
+    //     $subject=$request->input('object');
+    //     $content=$request->input('content');
 
-        return view('right_answer_form_contact', ['name' => $name ,'prenom' => $prenom, 'email'=> $email, 'object'=> $subject,'content'=> $content]);
-    } //
+    //     return view('right_answer_form_contact', ['name' => $name ,'prenom' => $prenom, 'email'=> $email, 'object'=> $subject,'content'=> $content]);
+    // } //
 
 }

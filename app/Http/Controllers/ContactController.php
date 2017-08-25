@@ -10,22 +10,25 @@ use App\Mail\OrderShipped;
 use Illuminate\Support\Facades\Mail;
 use App\Http\Controllers\Controller;
 use App\Mail\NewContact;
-
+use Illuminate\Support\Facades\Input;
 
 
 class ContactController extends Controller
 
 {
 
-	 public function mailsend()
+	 public function mailsend(request $request)
 	    {
-			 $data=[
-			'title'=>'bienvenue sur le site',
-			'content'=>'félicitations'
-			];
+	$data=[
+	"title"=>"site développeur",
+	"subject"=>Input::get('subject'),
+	"content"=>Input::get('text'),
+	];
 
-			Mail::send('emails.contact', $data , function($message){
-				$message->to('cecilephilippe31@gmail.com', 'Philippe')->subject('bienvenue');
-			});
+	Mail::send("welcome",$data,function($message){
+	$message->to("cecilephilippe31@gmail.com")->subject(Input::get('subject'));
+	$message->from(Input::get('mail'));
+	});
+	return view('/contact'); 
 	    }
 }
