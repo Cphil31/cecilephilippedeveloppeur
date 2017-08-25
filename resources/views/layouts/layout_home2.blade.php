@@ -173,15 +173,34 @@
   <div class="three wide column"></div>
   <div class="ten wide column">
 
-    <div class="form">  
+    <div class="ui form">  
 
         <form action="/contact" method="POST">
       {{ csrf_field() }}
-       
-      <input type="text" name="nom">
-      <input type="text" name="mail">
-      <textarea name="text" id="" cols="30" rows="10"></textarea>
-      <button type="submit"></button>
+          <div class="two fields">
+
+            <div class="field">
+                <label >Nom</label>
+                <input type="text" name="nom">
+            </div>
+
+            <div class="field">
+                  <label >Prenom</label>
+                  <input type="text" name="prenom">
+            </div>
+     
+        </div>
+     
+        <label >email</label>
+        <input type="text" name="mail">
+        <label >Object</label>
+        <input type="text" name="subject">
+        <label >message</label>
+
+        <div class="required field"> 
+        <textarea name="text" id="" cols="30" rows="10"></textarea>
+        <button class="ui button" type="submit" >Envoyez</button>
+        </div>
     </form>
     
     </div>

@@ -12,16 +12,17 @@
 <body>
     @section('sidebar')
     <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="twelve wide column">
-          <h1 style="color:#0E6EB8;font-size:5em;">CECILE Philippe</h1>
-          <hr>
-          <hr>
-          <h1 style="color:#0E6EB8;font-size:5em;">Developpeur Web</h1>
-          <hr>
+          <div class="two wide column"></div>
+          <div class="twelve wide column">
+              <div class="titre">CECILE Philippe</div>
+          <hr class="titre">
+          <hr class="titre">
+          <div class="titre">Developpeur Web</div>
+          <hr class="titre">
+          <!-- MENU -->
           <div class="ui blue six item inverted menu">
             <a href="/" class="item ">Acceuil</a>
-            <a href="/formations" class="item">Formations</a>
+            <a href="/formations" class="item formation">Formations</a>
             <a href="/competences" class="item">Compétences</a>
             <a href="/experiences" class="item">Expériences </a>
             <a href="/loisirs" class="item">Loisirs </a>
