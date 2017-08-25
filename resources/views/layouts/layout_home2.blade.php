@@ -190,15 +190,21 @@
             </div>
      
         </div>
-     
+
+     <div class="field">
         <label >email</label>
         <input type="text" name="mail">
+     </div>
+     <div class="field">
         <label >Object</label>
         <input type="text" name="subject">
-        <label >message</label>
+     </div>
+     <div class="field">
+        <label >Message</label>
+        <textarea name="text" id="" cols="30" rows="10"></textarea>
+     </div>
 
         <div class="required field"> 
-        <textarea name="text" id="" cols="30" rows="10"></textarea>
         <button class="ui button" type="submit" >Envoyez</button>
         </div>
     </form>
