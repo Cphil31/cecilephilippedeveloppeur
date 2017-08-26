@@ -172,8 +172,9 @@
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
+<div class="ui blue inverted segment">
 
-    <div class="ui form">  
+    <div class="ui inverted form">  
 
         <form action="/contact" method="POST">
           {{ csrf_field() }}
@@ -210,6 +211,7 @@
       </form>
       
       </div>
+</div>
 
     <div class="spacecontact"></div>
     <div class="download">  
