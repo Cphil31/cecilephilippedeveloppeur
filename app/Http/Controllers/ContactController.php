@@ -19,16 +19,16 @@ class ContactController extends Controller
 
 	 public function mailsend(request $request)
 	    {
-	$data=[
-	"title"=>"site développeur",
-	"subject"=>Input::get('subject'),
-	"content"=>Input::get('text'),
-	];
+	// $data=[
+	// "title"=>"site développeur",
+	// "subject"=>Input::get('subject'),
+	// "content"=>Input::get('text'),
+	// ];
 	
-	Mail::send("welcome",$data,function($message){
-	$message->to("cecilephilippe31@gmail.com")->subject(Input::get('subject'));
-	$message->from(Input::get('mail'));
-	});
-	return view('/contact'); 
+	// Mail::send("welcome",$data,function($message){
+	// $message->to("cecilephilippe31@gmail.com")->subject(Input::get('subject'));
+	// $message->from(Input::get('mail'));
+	// });
+	// return view('/contact'); 
 	    }
 }
