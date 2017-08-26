@@ -16,16 +16,15 @@
     <div class="twelve wide column">
 
       <div class="titre">CECILE Philippe</div>
-      <hr class="titre">
-      <hr class="titre">
+      <hr>
       <div class="titre">Developpeur Web</div>
-      <hr class="titre">
+     <div class="spaceTitle"></div>
       <!-- MENU -->
       <div class="ui blue five item inverted menu">
         <a class="formationMenu item">Formations</a>
         <a class="competenceMenu item">Compétences</a>
         <a class="experienceMenu item">Expériences </a>
-        <a class="loisirMenu item">Loisirs </a>
+        <a class="loisirMenu item">Loisirs</a>
         <a class="contactMenu item">Contacts</a>
       </div>
     </div>
@@ -169,6 +168,7 @@
 
 
 <!-- FORMULAIRE -->
+<div class="contactezmoi">Contactez-moi</div>
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
@@ -180,27 +180,27 @@
           <div class="two fields">
 
             <div class="field">
-                <label >Nom</label>
+                <label ><h5>Nom</h5></label>
                 <input type="text" name="nom">
             </div>
 
             <div class="field">
-                  <label >Prenom</label>
+                  <label ><h5>Prenom</h5></label>
                   <input type="text" name="prenom">
             </div>
      
         </div>
 
        <div class="field">
-          <label >email</label>
+          <label ><h5>email</h5></label>
           <input type="text" name="mail">
        </div>
        <div class="field">
-          <label >Object</label>
+          <label ><h5>Object</h5></label>
           <input type="text" name="subject">
        </div>
        <div class="field">
-          <label >Message</label>
+          <label ><h5>Message</h5></label>
           <textarea name="text" id="" cols="30" rows="10"></textarea>
        </div>
 

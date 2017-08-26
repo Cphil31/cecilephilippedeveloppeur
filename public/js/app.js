@@ -6,6 +6,7 @@ $(".sport").hide();
 $(".download").hide();
 $(".icon").hide();
 $(".form").hide();
+$(".contactezmoi").hide();
 $(".titre").transition('hide');
 $(".titre").transition('fly right','2000ms');
 $(".menu").transition('hide');
@@ -76,6 +77,7 @@ $(".contactMenu").click(function(){
 	$(".loisirs").transition('hide');
 	$(".icon").transition('hide');
 	$(".sport").transition('hide');
+	$(".contactezmoi").transition('drop','1000ms');
 	$(".form").transition('drop','1000ms');
 	$(".download").transition('drop','1000ms');
 		});

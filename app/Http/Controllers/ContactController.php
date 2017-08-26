@@ -24,7 +24,7 @@ class ContactController extends Controller
 	"subject"=>Input::get('subject'),
 	"content"=>Input::get('text'),
 	];
-
+	
 	Mail::send("welcome",$data,function($message){
 	$message->to("cecilephilippe31@gmail.com")->subject(Input::get('subject'));
 	$message->from(Input::get('mail'));
