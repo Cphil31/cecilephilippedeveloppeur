@@ -77,16 +77,12 @@
     <div class="two wide column">Toulouse</div>
   </div>
 
-
-
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">Juillet 2015-Septembre 2016</div>
     <div class="sevtwoen wide column">Agent de démantèlemenent - Envie</div>
     <div class="three wide column">Portet-sur-Garonne</div>
   </div>
-
-
 
   <div class="ui grid">
     <div class="two wide column"></div>
@@ -95,15 +91,12 @@
     <div class="two wide column">Cornebarrieu</div>
   </div>        
 
-
-
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">2011 - Septembre 2014</div>
     <div class="seven wide column">En quête de reconversion</div>
     <div class="two wide column">Toulouse</div>
   </div>
-
 
   <div class="ui grid">
     <div class="two wide column"></div>
@@ -112,17 +105,12 @@
     <div class="two wide column">Guadeloupe</div>
   </div>
 
-
-
-
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">2005 - 2010</div>
     <div class="seven wide column">Commercial - Caraïbes Immo Pro</div>
     <div class="three wide column">Guadeloupe</div>
   </div>
-
-
 
   <div class="ui grid">
     <div class="two wide column"></div>
@@ -213,7 +201,6 @@
       </div>
 </div>
 
-    <div class="spacecontact"></div>
     <div class="download">  
       <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
     </div>
