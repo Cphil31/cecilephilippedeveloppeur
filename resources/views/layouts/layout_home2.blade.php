@@ -173,23 +173,23 @@
 
             <div class="field">
                 <label ><h5>Nom</h5></label>
-                <input type="text" name="nom">
+                <input type="text" name="nom" required="required">
             </div>
 
             <div class="field">
                   <label ><h5>Prenom</h5></label>
-                  <input type="text" name="prenom">
+                  <input type="text" name="prenom" required="required">
             </div>
      
         </div>
 
        <div class="field">
           <label ><h5>Email</h5></label>
-          <input type="text" name="mail">
+          <input type="text" name="mail" required="required">
        </div>
        <div class="field">
           <label ><h5>Object</h5></label>
-          <input type="text" name="subject">
+          <input type="text" name="subject" required="required">
        </div>
        <div class="field">
           <label ><h5>Message</h5></label>
@@ -197,7 +197,7 @@
        </div>
 
           <div class="required field"> 
-          <button class="ui button" type="submit" >Envoyez</button>
+          <button class="ui button btn-block" type="submit" >Envoyez</button>
           </div>
       </form>
       
@@ -213,7 +213,7 @@
     <div class="container">
         @yield('content')
     </div>
-    
+
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
