@@ -3,9 +3,19 @@
 	text-align:center;
 	color:#0E6EB8;
 	font-size:4em;
+	color:white;
+	background-color: #0E6EB8;
+	width: 100%;
+	height: 15%
+}
+footer{
+    background-color: #0E6EB8;
+    
+    width:100%;
+    height:100px;
 }
 .spaceTitle{
-	height:5em ;
+	height:5em;
 }
 .nom{
 	text-align:center;
@@ -23,7 +33,7 @@
 .competences{
 	text-align: center;
 	font-size: 180%;
-	margin-top: :2em; 
+	margin-top: :20%; 
 	color:#0E6EB8;
 }
 .experiences{
