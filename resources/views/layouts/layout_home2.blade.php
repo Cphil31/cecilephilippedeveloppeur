@@ -77,13 +77,14 @@
     <div class="two wide column">Toulouse</div>
   </div>
 
+
+
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">Juillet 2015-Septembre 2016</div>
     <div class="sevtwoen wide column">Agent de démantèlemenent - Envie</div>
     <div class="three wide column">Portet-sur-Garonne</div>
   </div>
-
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">Septembre 2014 - juillet 2015</div>
@@ -160,9 +161,8 @@
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
-<div class="ui blue inverted segment">
 
-    <div class="ui inverted form">  
+    <div class="ui form">  
 
         <form action="/contact" method="POST">
           {{ csrf_field() }}
@@ -181,7 +181,7 @@
         </div>
 
        <div class="field">
-          <label ><h5>email</h5></label>
+          <label ><h5>Email</h5></label>
           <input type="text" name="mail">
        </div>
        <div class="field">
@@ -199,7 +199,7 @@
       </form>
       
       </div>
-</div>
+
 
     <div class="download">  
       <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
