@@ -124,6 +124,7 @@
 
 <!-- COMPETENCES -->
 
+<div class="spacecomp"></div>
 <div class="competences">Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</div>
 <div class="competences">Utilisation des Progammes: SublimText,Node.js,Express.js</div>
 <div class="competences">Analyse d'un cahier des charges</div>

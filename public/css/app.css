@@ -14,8 +14,11 @@
 }
 .formations{
 	font-size: 160%;
-	margin-top:1em ;
+	margin-top:5%;
 	color:#0E6EB8;
+}
+.spacecomp{
+	margin: 5%
 }
 .competences{
 	text-align: center;
