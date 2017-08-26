@@ -35,7 +35,6 @@
 	font-size: 180%;
 	margin-top:5%; 
 	color:#0E6EB8;
-	
 }
 .sport{
 	text-align: center;
@@ -56,7 +55,7 @@
 .contactezmoi{
 	font-size: 2em;
 	color:#0E6EB8;
-	text-align: center;
+	text-align:center;
 	margin:1em;
 }
 .textanswer{
@@ -73,12 +72,7 @@
 .icon{
 	text-align: center;
 }
-.spacecontact{
-	margin-bottom: 4%;
-}
-.form{
-	margin-top: 4%;
-}
+
 .merci{
 	text-align: center;
 	font-size: 200%;

@@ -87,6 +87,7 @@ $(".contactMenu").click(function(){
 	$(".loisirs").transition('hide');
 	$(".icon").transition('hide');
 	$(".sport").transition('hide');
+	$(".spacecomp").transition('hide');
 	$(".segment").transition('drop','1000ms');
 	$(".contactezmoi").transition('drop','1000ms');
 	$(".form").transition('drop','1000ms');
