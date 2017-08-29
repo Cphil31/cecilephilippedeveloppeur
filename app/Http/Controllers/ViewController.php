@@ -10,6 +10,7 @@ class ViewController extends Controller
     	return view('home');
     }
     public function contact(){
+        
     	return view('contact');
     }
     public function competences(){
@@ -23,9 +24,5 @@ class ViewController extends Controller
     }
     public function loisirs(){
     	return view('loisirs');
-    }
-
-    public function test(){
-        return view('layouts.layout_home2');
     }
 }
