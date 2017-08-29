@@ -30,6 +30,18 @@
     </div>
   </div>
 
+  <!-- ACCEUIL -->
+
+  <div class="ui grid">
+  <div class="two wide column"></div>
+  <div class="twelve wide column">
+    <div class="acceuil">
+        Développeur web Junior à la recherche d'auportunités 
+    </div>
+  <div class="two wide column"></div>
+  </div>
+</div>
+
   <!-- FORMATIONS -->
 
   <div class="formations">  

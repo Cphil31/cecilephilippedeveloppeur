@@ -8,7 +8,11 @@
 body{
 	background-color: grey;
 }
-
+.acceuil{
+text-align:center;
+	color:white;
+	font-size:2em;
+}
 .spaceTitle{
 	height:5em;
 }
