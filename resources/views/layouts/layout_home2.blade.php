@@ -122,7 +122,7 @@
 
   <div class="ui grid">
     <div class="two wide column"></div>
-    <div class="three wide column">2005 - 2010</div>
+    <div class="three wide column">2005 - 2017</div>
     <div class="seven wide column">Prestations Dj pour Clubs, Hotels et particuliers</div>
     <div class="three wide column">Guadeloupe</div>
   </div>
