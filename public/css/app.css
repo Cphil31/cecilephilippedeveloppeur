@@ -1,10 +1,13 @@
 
 .titre{
+	background-color: black; 
 	text-align:center;
 	color:#0E6EB8;
 	font-size:4em;
 }
-
+body{
+	background-color: grey;
+}
 .spaceTitle{
 	height:5em;
 }
@@ -16,7 +19,7 @@
 .formations{
 	font-size: 160%;
 	margin-top:5%;
-	color:#0E6EB8;
+	color:white;
 }
 .spacecomp{
 	margin:5%
@@ -26,37 +29,37 @@ ul{
 	text-align: center;
 	font-size:180%;
 	margin-top:5%; 
-	color:#0E6EB8;
+	color:white;
 }
 .experiences{
-	color:#0E6EB8;
+	color:white;
 	margin-top:5%; 
 }
 .loisirs{
 	text-align: center;
 	font-size: 2em;
 	margin-top:5%; 
-	color:#0E6EB8;
+	color:white;
 }
 .sport{
 	text-align: center;
 	font-size: 2em;
 	margin:1em; 
-	color:#0E6EB8;
+	color:white;
 }
 .texthome{
 	font-size: 150%;
-	color:#0E6EB8;
+	color:white;
 	margin:5%;
 }
 .texthome2{
 	font-size: 150%;
-	color:#0E6EB8;
+	color:white;
 	text-align: center;
 }
 .contactezmoi{
 	font-size: 2em;
-	color:#0E6EB8;
+	color:white;
 	text-align:center;
 	margin:0,5em;
 }
