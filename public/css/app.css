@@ -9,9 +9,10 @@ body{
 	background-color: grey;
 }
 .acceuil{
-text-align:center;
+	margin:2em;
+	text-align:center;
 	color:white;
-	font-size:2em;
+	font-size:3em;
 }
 .spaceTitle{
 	height:5em;
