@@ -21,10 +21,11 @@
 .spacecomp{
 	margin:5%
 }
-.competences{
+ul{
+	list-style-type:none;
 	text-align: center;
-	font-size: 180%;
-	margin-top: :20%; 
+	font-size:180%;
+	margin-top:5%; 
 	color:#0E6EB8;
 }
 .experiences{

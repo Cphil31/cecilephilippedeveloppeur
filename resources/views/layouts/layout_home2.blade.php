@@ -123,13 +123,19 @@
 </div>
 
 <!-- COMPETENCES -->
-
-<div class="spacecomp"></div>
-<div class="competences">Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</div>
-<div class="competences">Utilisation des Progammes: SublimText,Node.js,Express.js</div>
-<div class="competences">Analyse d'un cahier des charges</div>
-<div class="competences">Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</div>
-
+<div class="ui grid">
+  <div class="two wide column"></div>
+  <div class="twelve wide column">
+    <div class="competences">
+        <ul>
+          <li>Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</li>
+          <li>Utilisation des Progammes: SublimText,Node.js,Express.jsAnalyse d'un cahier des charges</li>
+          <li>Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a></li>
+        </ul>   
+    </div>
+  <div class="two wide column"></div>
+  </div>
+</div>
 <!-- LOISIRS -->
 
 <div class="loisirs"><a href="https://www.mixcloud.com/vito-sanacho/">DJ</a> dans des hôtels,clubs et soirées privées (2005-2012) </div>
