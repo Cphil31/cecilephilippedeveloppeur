@@ -8,6 +8,7 @@
 body{
 	background-color: grey;
 }
+
 .spaceTitle{
 	height:5em;
 }
@@ -58,20 +59,15 @@ ul{
 	text-align: center;
 }
 .contactezmoi{
-	font-size: 2em;
+	font-size:2em;
 	color:white;
 	text-align:center;
-	margin:0,5em;
+	margin:1em;
 }
 .textanswer{
 	font-size: 150%;
 	color:#0E6EB8;
 	text-align: center;
-}
-.download{
-	text-align: center;
-	font-size: 200%;
-	color:white;
 }
 .icon{
 	text-align: center;

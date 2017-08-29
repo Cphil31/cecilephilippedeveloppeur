@@ -172,7 +172,11 @@
 
 
 <!-- FORMULAIRE -->
-<div class="contactezmoi">Contactez-moi</div>
+
+<div class="contactezmoi">Contactez-moi et téléchargez mon 
+      <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Cv en PDF</a> 
+</div>
+
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
@@ -219,9 +223,7 @@
       </div>
 
 
-    <div class="download">  
-      <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Telechargez mon Cv en PDF</a>
-    </div>
+    
   <div class="four wide column"></div>
 </div>
     <div class="container">
