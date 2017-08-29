@@ -82,34 +82,41 @@
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">Juillet 2015-Septembre 2016</div>
-    <div class="sevtwoen wide column">Agent de démantèlemenent - Envie</div>
+    <div class="seven wide column">Recyclage téléviseurs</div>
     <div class="three wide column">Portet-sur-Garonne</div>
   </div>
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">Septembre 2014 - juillet 2015</div>
-    <div class="seven wide column">Chauffeur livreur - La pie verte</div>
+    <div class="seven wide column">Livreur - Repas personnes agées</div>
     <div class="two wide column">Cornebarrieu</div>
   </div>        
 
   <div class="ui grid">
     <div class="two wide column"></div>
-    <div class="three wide column">2011 - Septembre 2014</div>
+    <div class="three wide column">2014 - Septembre 2014</div>
     <div class="seven wide column">En quête de reconversion</div>
     <div class="two wide column">Toulouse</div>
   </div>
 
   <div class="ui grid">
     <div class="two wide column"></div>
+    <div class="three wide column">2013</div>
+    <div class="seven wide column">Agence de communication - Suivi des clients </div>
+    <div class="two wide column">Toulouse</div>
+  </div>
+
+  <div class="ui grid">
+    <div class="two wide column"></div>
     <div class="three wide column">2010 - 2011</div>
-    <div class="seven wide column">Agent d'accueil / Livreur - CCAS</div>
+    <div class="seven wide column">Acceuil et montage de dossiers administratifs (micros aides)</div>
     <div class="two wide column">Guadeloupe</div>
   </div>
 
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">2005 - 2010</div>
-    <div class="seven wide column">Commercial - Caraïbes Immo Pro</div>
+    <div class="seven wide column">Agent Commercial - Présentation et vente de biens (terraons à bâtir) et gestion des dossiers clients - Caraïbes Immo Pro</div>
     <div class="three wide column">Guadeloupe</div>
   </div>
 
