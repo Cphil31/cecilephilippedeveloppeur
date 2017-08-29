@@ -139,7 +139,7 @@
 <!-- LOISIRS -->
 
 <div class="loisirs"><a href="https://www.mixcloud.com/vito-sanacho/">DJ</a> dans des hôtels,clubs et soirées privées (2005-2012) </div>
-<div class="sport">Poker,Belote,Jeux vidéos</div>
+<div class="sport">Poker,Belote,Jeux vidéos,Informatique</div>
 <div class="sport">Sports : basket et footing en amateur</div>
 
 <div class="ui grid">
