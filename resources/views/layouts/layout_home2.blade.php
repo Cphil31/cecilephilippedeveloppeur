@@ -41,11 +41,10 @@
       </div> -->
       <div class="acceuil">
         <div>
-          Vous développez des sites internet, des applications mobiles
+          Vous développez des sites internet, des applications mobiles.
         </div>
         <div>
-          
-          contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
+          Contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
           <li>- de vérifier mes compétences professionelles,</li>
           <li>- d'initier une embauche (essai)</li>
           A l'issue de cette période, j'accepterai un CDD ou un CDI 
@@ -224,7 +223,7 @@
               <label ><h5>Prenom</h5></label>
               <input type="text" name="prenom" required="required">
             </div>
-            
+
           </div>
 
           <div class="field">
@@ -244,7 +243,7 @@
             <button class="ui button btn-block" type="submit" >Envoyez</button>
           </div>
         </form>
-        
+
       </div>
     </div>
 
