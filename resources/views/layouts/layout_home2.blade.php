@@ -10,17 +10,18 @@
   <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>
-      <div class="titre">CECILE Philippe</div>
-      <!-- <hr> -->
-      <div class="titre">Développeur Web</div>
-     <div class="spaceTitle"></div>
+  <div class="titre">CECILE Philippe</div>
+  <!-- <hr> -->
+  <div class="titre">Développeur Web</div>
+  <div class="spaceTitle"></div>
   <!-- MENU -->
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="twelve wide column">
 
       <!-- MENU -->
-      <div class="ui blue five item inverted menu">
+      <div class="ui blue six item inverted menu">
+        <a class="acceuilMenu item">Accueil</a>
         <a class="formationMenu item">Formations</a>
         <a class="competenceMenu item">Compétences</a>
         <a class="experienceMenu item">Expériences </a>
@@ -33,23 +34,27 @@
   <!-- ACCEUIL -->
 
   <div class="ui grid">
-  <div class="two wide column"></div>
-  <div class="twelve wide column">
+    <div class="two wide column"></div>
+    <div class="twelve wide column">
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
-    </div> -->
-    <div class="acceuil">
-    Vous développez des sites internet, des applications mobiles,contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
+      </div> -->
+      <div class="acceuil">
+        <div>
+          Vous développez des sites internet, des applications mobiles
+        </div>
+        <div>
+          
+          contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
+          <li>- de vérifier mes compétences professionelles,</li>
+          <li>- d'initier une embauche (essai)</li>
+          A l'issue de cette période, j'accepterai un CDD ou un CDI 
+        </div>
+      </div>
 
-    <li>- de vérifier mes compétences professionelles,</li>
-    <li>- d'initier une embauche (essai)</li>
-     
-    A l'issue de cette période, j'accepterai un CDD ou un CDI 
+      <div class="two wide column"></div>
     </div>
-
-  <div class="two wide column"></div>
   </div>
-</div>
 
   <!-- FORMATIONS -->
 
@@ -155,13 +160,13 @@
   <div class="two wide column"></div>
   <div class="twelve wide column">
     <div class="competences">
-        <ul>
-          <li>Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</li>
-          <li>Utilisation des Progammes: SublimText,Node.js,Express.jsAnalyse d'un cahier des charges</li>
-          <li>Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</li>
-        </ul>   
+      <ul>
+        <li>Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</li>
+        <li>Utilisation des Progammes: SublimText,Node.js,Express.jsAnalyse d'un cahier des charges</li>
+        <li>Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</li>
+      </ul>   
     </div>
-  <div class="two wide column"></div>
+    <div class="two wide column"></div>
   </div>
 </div>
 <!-- LOISIRS -->
@@ -195,67 +200,67 @@
 <!-- FORMULAIRE -->
 
 <div class="contactezmoi">Contactez-moi et téléchargez mon 
-      <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Cv en PDF</a> 
+  <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Cv en PDF</a> 
 </div>
 
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
 
-<div class="ui blue inverted segment">
+    <div class="ui blue inverted segment">
 
-    <div class="ui inverted form">  
+      <div class="ui inverted form">  
 
         <form action="/contact" method="POST">
           {{ csrf_field() }}
           <div class="two fields">
 
             <div class="field">
-                <label ><h5>Nom</h5></label>
-                <input type="text" name="nom" required="required">
+              <label ><h5>Nom</h5></label>
+              <input type="text" name="nom" required="required">
             </div>
 
             <div class="field">
-                  <label ><h5>Prenom</h5></label>
-                  <input type="text" name="prenom" required="required">
+              <label ><h5>Prenom</h5></label>
+              <input type="text" name="prenom" required="required">
             </div>
-     
-        </div>
+            
+          </div>
 
-       <div class="field">
-          <label ><h5>Email</h5></label>
-          <input type="text" name="mail" required="required">
-       </div>
-       <div class="field">
-          <label ><h5>Object</h5></label>
-          <input type="text" name="subject" required="required">
-       </div>
-       <div class="field">
-          <label ><h5>Message</h5></label>
-          <textarea name="text" id="" cols="30" rows="10"></textarea>
-       </div>
+          <div class="field">
+            <label ><h5>Email</h5></label>
+            <input type="text" name="mail" required="required">
+          </div>
+          <div class="field">
+            <label ><h5>Object</h5></label>
+            <input type="text" name="subject" required="required">
+          </div>
+          <div class="field">
+            <label ><h5>Message</h5></label>
+            <textarea name="text" id="" cols="30" rows="10"></textarea>
+          </div>
 
           <div class="required field"> 
-          <button class="ui button btn-block" type="submit" >Envoyez</button>
+            <button class="ui button btn-block" type="submit" >Envoyez</button>
           </div>
-      </form>
-      
+        </form>
+        
       </div>
-      </div>
+    </div>
 
 
     
-  <div class="four wide column"></div>
-</div>
-    <div class="container">
-        @yield('content')
-    </div>
+    <div class="four wide column"></div>
+  </div>
+  <div class="container">
+    @yield('content')
+  </div>
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
-<script src="../js/app.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
+  <script src="../js/app.js"></script>
 </body>
 </html>

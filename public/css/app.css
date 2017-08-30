@@ -11,10 +11,15 @@ body{
 .acceuil{
 text-align: justify-all;
 	margin-top:3%;
+	margin-left: 3%;
 	color:white;
 	font-size:190%;
 }
-
+.acceuil2{
+	text-align: justify-all;
+	color:white;
+	font-size:190%;
+}
 .spaceTitle{
 	height:5em;
 }

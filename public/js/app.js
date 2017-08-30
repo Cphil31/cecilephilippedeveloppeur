@@ -15,6 +15,21 @@ $(".menu").transition('fly left','2000ms');
 $(".acceuil").transition('hide');
 $(".acceuil").transition('fly right','2000ms');
 
+$('.acceuilMenu').click(function(){
+	$(".menu").transition('bounce');
+	$(".formations").transition('hide');
+	$(".experiences").transition('hide');
+	$(".competences").transition('hide');
+	$(".loisirs").transition('hide');
+	$(".sport").transition('hide');
+	$(".icon").transition('hide');
+	$(".download").transition('hide');
+	$(".form").transition('hide');
+	$(".contactezmoi").transition('hide');
+	$(".segment").transition('hide');
+	$(".acceuil").transition('drop','1000ms');
+});
+
 
 $(".formationMenu").click(function(){
 	$(".menu").transition('bounce');
