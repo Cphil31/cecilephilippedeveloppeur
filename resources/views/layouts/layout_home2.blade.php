@@ -35,9 +35,18 @@
   <div class="ui grid">
   <div class="two wide column"></div>
   <div class="twelve wide column">
-    <div class="acceuil">
-        Développeur web Junior à la recherche d'opportunités . 
+    <!-- <div class="acceuil">
+        Développeur web Junior à la recherche d'opportunités 
+    </div> -->
+    <div class="acceuil2">
+    Vous développez des sites internet, des applications mobiles,contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
+    
+    <li>de vérifier mes compétences professionelles,</li>
+    <li>d'initier une embauche (essai)</li>
+     
+    A l'issue de cette période, j'accepterai un CDD ou un CDI 
     </div>
+
   <div class="two wide column"></div>
   </div>
 </div>

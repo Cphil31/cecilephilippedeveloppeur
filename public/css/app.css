@@ -9,10 +9,16 @@ body{
 	background-color: grey;
 }
 .acceuil{
-	margin:2em;
+	margin-top:3%;
 	text-align:center;
 	color:white;
 	font-size:3em;
+}
+.acceuil2{
+	text-align: justify-all;
+	margin-top:2em;
+	color:white;
+	font-size:190%;
 }
 .spaceTitle{
 	height:5em;
@@ -29,6 +35,9 @@ body{
 }
 .spacecomp{
 	margin:5%
+}
+li{
+	list-style-type:none;
 }
 ul{
 	list-style-type:none;
