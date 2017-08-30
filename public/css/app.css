@@ -9,17 +9,12 @@ body{
 	background-color: grey;
 }
 .acceuil{
-	margin-top:3%;
-	text-align:center;
-	color:white;
-	font-size:3em;
-}
-.acceuil2{
-	text-align: justify-all;
+text-align: justify-all;
 	margin-top:3%;
 	color:white;
 	font-size:190%;
 }
+
 .spaceTitle{
 	height:5em;
 }

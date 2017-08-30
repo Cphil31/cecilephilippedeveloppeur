@@ -38,7 +38,7 @@
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
     </div> -->
-    <div class="acceuil2">
+    <div class="acceuil">
     Vous développez des sites internet, des applications mobiles,contactez-moi dans le cadre d'une PMSMP (Période de Mise en Situation en Milieu Professionnelles) dans votre entreprise, afin de me permettre :
 
     <li>- de vérifier mes compétences professionelles,</li>
