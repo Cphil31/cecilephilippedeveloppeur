@@ -36,7 +36,7 @@
   <div class="two wide column"></div>
   <div class="twelve wide column">
     <div class="acceuil">
-        Développeur web Junior à la recherche d'aupportunités . 
+        Développeur web Junior à la recherche d'opportunités . 
     </div>
   <div class="two wide column"></div>
   </div>
