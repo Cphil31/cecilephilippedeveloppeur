@@ -12,7 +12,7 @@
 <body>
       <div class="titre">CECILE Philippe</div>
       <!-- <hr> -->
-      <div class="titre">Developpeur Web</div>
+      <div class="titre">Développeur Web</div>
      <div class="spaceTitle"></div>
   <!-- MENU -->
   <div class="ui grid">
@@ -36,7 +36,7 @@
   <div class="two wide column"></div>
   <div class="twelve wide column">
     <div class="acceuil">
-        Developpeur web Junior à la recherche d'auportunités . 
+        Développeur web Junior à la recherche d'aupportunités . 
     </div>
   <div class="two wide column"></div>
   </div>
