@@ -44,7 +44,7 @@
           Vous développez des sites internet, des applications mobiles.
         </div>
         <div>
-          Contactez-moi dans le cadre d'une période de mise en Situation dans votre entreprise, afin de me permettre :
+          Contactez-moi dans le cadre d'une Période de Mise en Situation dans votre entreprise, afin de me permettre :
           <li>- de vérifier mes compétences professionelles,</li>
           <li>- d'initier une embauche (essai)</li>
           A l'issue de cette période, j'accepterai un CDD ou un CDI 
