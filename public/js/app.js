@@ -16,6 +16,8 @@ $(".acceuil").transition('hide');
 $(".acceuil").transition('fly right','2000ms');
 
 $('.acceuilMenu').click(function(){
+	$(".titre").transition('bounce');
+	$(".titre").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".formations").transition('hide');
@@ -33,6 +35,8 @@ $('.acceuilMenu').click(function(){
 
 
 $(".formationMenu").click(function(){
+	$(".titre").transition('bounce');
+	$(".titre").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".acceuil").transition('hide');
@@ -50,6 +54,8 @@ $(".formationMenu").click(function(){
 	});
 
 $(".competenceMenu").click(function(){
+	$(".titre").transition('bounce');
+	$(".titre").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".menu").transition('bounce');
 	$(".acceuil").transition('hide');
