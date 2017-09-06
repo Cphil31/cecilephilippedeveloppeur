@@ -33,23 +33,22 @@ text-align: justify-all;
 	margin-top:5%;
 	color:white;
 }
-.spacecomp{
-	margin:5%
-}
 li{
 	list-style-type:none;
 }
 ul{
 	list-style-type:none;
 	text-align: center;
-	font-size:180%;
-	margin-top:5%; 
+	font-size:180%; 
 	color:white;
 }
 .experiences{
 	color:white;
 	margin-top:5%; 
 	font-size:110%;
+}
+.iconComp{
+	margin-bottom: 5%;
 }
 .loisirs{
 	text-align: center;

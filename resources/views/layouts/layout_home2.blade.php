@@ -40,6 +40,7 @@
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
       <div class="acceuil">
+
         <div>
           Vous développez des sites internet, des applications mobiles.
         </div>
@@ -134,7 +135,7 @@
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">2010 - 2011</div>
-    <div class="seven wide column">Acceuil et montage de dossiers administratifs (micros aides)</div>
+    <div class="seven wide column">Agent administratif : Acceuil et montage de dossiers (micros aides)</div>
     <div class="two wide column">Guadeloupe</div>
   </div>
 
@@ -147,7 +148,7 @@
 
   <div class="ui grid">
     <div class="two wide column"></div>
-    <div class="three wide column">2005 - 2017</div>
+    <div class="three wide column">2005 - 2012</div>
     <div class="seven wide column">Prestations Dj pour Clubs, Hotels et particuliers</div>
     <div class="three wide column">Guadeloupe</div>
   </div>
@@ -158,9 +159,17 @@
 <div class="ui grid">
   <div class="two wide column"></div>
   <div class="twelve wide column">
+        
     <div class="competences">
-      <ul>
-        <li>Utilisation des langages de programmation PHP,SQL,Javascript,Css,HTML</li>
+      <ul> 
+      <li>
+      <div class="iconComp">
+        <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+        <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+        <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+      </div>
+      </li>
+        <li>Utilisation des langages de programmation : PHP,SQL,JavaScript,Css3,Html5</li>
         <li>Utilisation des Progammes: SublimText,Node.js,Express.jsAnalyse d'un cahier des charges</li>
         <li>Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</li>
       </ul>   
@@ -251,6 +260,7 @@
     
     <div class="four wide column"></div>
   </div>
+
   <div class="container">
     @yield('content')
   </div>
