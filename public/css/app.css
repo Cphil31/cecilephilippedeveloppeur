@@ -1,14 +1,24 @@
-.titre{
-	background-color: black; 
-	text-align:center;
-	color:#0E6EB8;
-	font-size:4em;
+.space{
+height:5%;
 }
-.back2{
+.titre{ 
+text-align:center;
+color:red;
+font-size:4em;
+line-height: 1;
+}
+body{
 	background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;	
-	height:500px;
+	height:600px;
+}
+menu{
+	margin-top: -10%;
+}
+#menu{
+	font-size:120%;
+	font-weight: Bold;
 }
 .acceuil{
 	color:white;
@@ -28,20 +38,34 @@
 .formations{
 	font-size: 160%;
 	margin-top:5%;
-	color:white;
+	color:red;
 }
 .listeHome{
 	font-size:60%;
 	font-weight: Bold;
+	line-height: 1,20;
 }
 .listeHome2{
 	font-size:60%;
+	margin-left:10%;
+	line-height: 0;
+}
+.cdd{
+	font-weight: Bold;
 }
 .homeContactez{
 	margin-top:4%;
 }
+.homeVous{
+	font-weight: Bold;
+	margin-bottom: 6%;
+}
 li{
 	list-style-type:none;
+	color:red;
+	font-weight: Bold;
+	font-size:170%; 
+
 }
 ul{
 	list-style-type:none;
@@ -50,9 +74,11 @@ ul{
 	color:white;
 }
 .experiences{
-	color:white;
-	margin-top:5%; 
-	font-size:110%;
+	color:red;
+	margin-top:3%; 
+	font-size:120%;
+	font-weight: Bold;
+	line-height: 0;
 }
 .iconComp{
 	margin-bottom: 5%;
@@ -60,14 +86,18 @@ ul{
 .loisirs{
 	text-align: center;
 	font-size: 2em;
-	margin-top:5%; 
-	color:white;
+	font-weight: Bold;
+	margin-top:5%;
+	line-height: 0; 
+	color:red;
 }
 .sport{
 	text-align: center;
 	font-size: 2em;
+	font-weight: Bold;
 	margin:1em; 
-	color:white;
+	line-height: 0;
+	color:red;
 }
 .texthome{
 	font-size: 150%;
@@ -81,7 +111,7 @@ ul{
 }
 .contactezmoi{
 	font-size:2em;
-	color:white;
+	color:red;
 	text-align:center;
 	margin:1em;
 }
