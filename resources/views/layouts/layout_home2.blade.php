@@ -13,6 +13,7 @@
   <div class="titre">CECILE Philippe</div>
   <!-- <hr> -->
   <div class="titre">Développeur Web</div>
+  <div class="back2">
   <div class="spaceTitle"></div>
   <!-- MENU -->
   <div class="ui grid">
@@ -31,65 +32,91 @@
     </div>
   </div>
 
-  <!-- ACCEUIL -->
+    <!-- ACCEUIL -->
 
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="twelve wide column">
+    <div class="ui grid">
+      <div class="two wide column"></div>
+      <div class="twelve wide column">
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
       <div class="acceuil">
+        <div class="ui grid">
+            <div class="six wide column">
+                  <div class="homeVous">
+                    VOUS DEVELOPPEZ
+                  </div >
+                  <div class="listeHome">
+                    des sites internet
+                  </div>
+                  <div class="listeHome">        
+                    des applications mobiles
+                  </div>  
+            </div> 
 
-        <div>
-          Vous développez des sites internet, des applications mobiles.
-        </div>
-        <div>
-          Contactez-moi dans le cadre d'une Période de Mise en Situation dans votre entreprise, afin de me permettre :
-          <li>- de vérifier mes compétences professionelles,</li>
-          <li>- d'initier une embauche (essai)</li>
-          A l'issue de cette période, j'accepterai un CDD ou un CDI 
-        </div>
+
+            <div class="five wide column"> 
+            </div>
+            <div class="five wide column">
+                <div class="homeVous">
+                  CONTACTEZ-MOI
+                </div>
+                  <div class="listeHome">
+                  Période de Mise en Situation
+                 </div>
+
+                 <div class="listeHome2">
+                  vérification mes compétences professionelles
+                  </div>
+
+                <div class="listeHome2">
+                  initiation d'une embauche
+                </div>
+
+                CDD ou un CDI 
+               </div>
+            </div>
       </div>
-
-      <div class="two wide column"></div>
-    </div>
-  </div>
-
-  <!-- FORMATIONS -->
-
-  <div class="formations">  
-    <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="three wide column">2016-2017</div>
-      <div class="seven wide column">Formation de Web Développeur à l'école Simplon</div>
-      <div class="two wide column">Toulouse</div>
     </div>
 
-    <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="three wide column"></div>
-      <div class="seven wide column"><h4>
-        Formation poussée en PHP, SQl,Javascript,CSS,HTML
-        
-      </h4>
-    </div>
     <div class="two wide column"></div>
+  </div>
+</div>
+
+<!-- FORMATIONS -->
+
+<div class="formations">  
+  <div class="ui grid">
+    <div class="two wide column"></div>
+    <div class="three wide column">2016-2017</div>
+    <div class="seven wide column">Formation de Web Développeur à l'école Simplon</div>
+    <div class="two wide column">Toulouse</div>
   </div>
 
   <div class="ui grid">
     <div class="two wide column"></div>
-    <div class="three wide column">2007 - 2008</div>
-    <div class="seven wide column">Introduction au Droit Immobilier CNAM</div>
-    <div class="two wide column">Guadeloupe</div>
-  </div>
+    <div class="three wide column"></div>
+    <div class="seven wide column"><h4>
+      Formation poussée en PHP, SQl,Javascript,CSS,HTML
 
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2003</div>
-    <div class="seven wide column">Baccalaurréat STT</div>
-    <div class="two wide column">Guadeloupe</div>
+    </h4>
   </div>
+  <div class="two wide column"></div>
+</div>
+
+<div class="ui grid">
+  <div class="two wide column"></div>
+  <div class="three wide column">2007 - 2008</div>
+  <div class="seven wide column">Introduction au Droit Immobilier CNAM</div>
+  <div class="two wide column">Guadeloupe</div>
+</div>
+
+<div class="ui grid">
+  <div class="two wide column"></div>
+  <div class="three wide column">2003</div>
+  <div class="seven wide column">Baccalaurréat STT</div>
+  <div class="two wide column">Guadeloupe</div>
+</div>
 </div>
 
 <!-- EXPERIENCES -->
@@ -159,16 +186,16 @@
 <div class="ui grid">
   <div class="two wide column"></div>
   <div class="twelve wide column">
-        
+
     <div class="competences">
       <ul> 
-      <li>
-      <div class="iconComp">
-        <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-        <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-        <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-      </div>
-      </li>
+        <li>
+          <div class="iconComp">
+            <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+            <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+            <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+          </div>
+        </li>
         <li>Utilisation des langages de programmation : PHP,SQL,JavaScript,Css3,Html5</li>
         <li>Utilisation des Progammes: SublimText,Node.js,Express.jsAnalyse d'un cahier des charges</li>
         <li>Utilisation des CMS et du Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</li>
@@ -260,16 +287,16 @@
     
     <div class="four wide column"></div>
   </div>
+</div>
+<div class="container">
+  @yield('content')
+</div>
 
-  <div class="container">
-    @yield('content')
-  </div>
-
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
-  <script src="../js/app.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
+<script src="../js/app.js"></script>
 </body>
 </html>

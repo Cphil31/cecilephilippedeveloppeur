@@ -1,27 +1,24 @@
-
 .titre{
 	background-color: black; 
 	text-align:center;
 	color:#0E6EB8;
 	font-size:4em;
 }
-body{
-	background-color: grey;
+.back2{
+	background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height:500px;
 }
 .acceuil{
-text-align: justify-all;
-	margin-top:3%;
-	margin-left: 3%;
 	color:white;
-	font-size:190%;
-}
-.acceuil2{
-	text-align: justify-all;
-	color:white;
-	font-size:190%;
+	font-size:2em; 
 }
 .spaceTitle{
 	height:5em;
+}
+.pmpsp{
+	font-size:80%;
 }
 .nom{
 	text-align:center;
@@ -33,13 +30,23 @@ text-align: justify-all;
 	margin-top:5%;
 	color:white;
 }
+.listeHome{
+	font-size:60%;
+	font-weight: Bold;
+}
+.listeHome2{
+	font-size:60%;
+}
+.homeContactez{
+	margin-top:4%;
+}
 li{
 	list-style-type:none;
 }
 ul{
 	list-style-type:none;
 	text-align: center;
-	font-size:180%; 
+	font-size:100%; 
 	color:white;
 }
 .experiences{
