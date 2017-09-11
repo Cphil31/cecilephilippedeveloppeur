@@ -51,7 +51,7 @@ menu{
 }
 .textFormation{
 	font-size:100%;	
-	margin-top: 5%;
+	margin-top: 10%;
 	line-height:1;
 	font-style : italic;
 }
@@ -131,6 +131,7 @@ ul{
 	color:white;
 	font-weight:Bold;
 	text-align:center;
+	font-style : italic;
 }
 .textanswer{
 	font-size: 150%;
@@ -147,7 +148,4 @@ ul{
 .merci{
 	text-align: center;
 	font-size: 200%;
-}
-input{
-	
 }

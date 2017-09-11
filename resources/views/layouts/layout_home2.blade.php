@@ -184,7 +184,7 @@
 
 <!-- FORMULAIRE -->
 
-<div class="contactezmoi">Contactez-moi et et je vous renvoie mon CV integral</div>
+<div class="contactezmoi">Contactez-moi et je vous renvoie mon CV integral</div>
 
 <div class="ui grid">
   <div class="three wide column"></div>
