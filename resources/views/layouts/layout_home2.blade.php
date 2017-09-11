@@ -80,6 +80,9 @@
             <div class="listeHome2_cdd">
               CDD ou CDI 
             </div>
+            <div class="listeHome2_cdd">
+             TOULOUSE 
+            </div>
           </div>
         </div>
       </div>
@@ -153,7 +156,7 @@
 </div>
 <!-- LOISIRS -->
 
-<div class="loisirs">DJ - hôtels,clubs et soirées privées (2005-2012)- </div>
+<div class="loisirs">DJ - hôtels,clubs et soirées privées (2005-2012)</div>
 <div class="sport">Poker,Belote,Jeux vidéos,Informatique</div>
 <div class="sport">Sports : basket,footing</div>
 
@@ -162,14 +165,14 @@
   <div class="twelve wide column">
 
     <div class="icon">
-      <a ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:red;"></i></a> 
-      <a target="_blank"><i class="linkedin square icon" style="font-size:6em;color:red"></i></a>
-      <a target="_blank"><i class="github icon" style="font-size:6em;color:red"></i></a>
-      <a target="_blank"><i class="gitlab icon" style="font-size:6em;color:red"></i></a>
-      <a target="_blank"><i class="twitter square icon" style="font-size:6em;color:red"></i></a>
-      <a  target="_blank"><i class="facebook icon" style="font-size:6em;color:red;"></i></a>
-      <a target="_blank"><i class="instagram icon" style="font-size:6em;color:red"></i></a>
-      <a target="_blank"><i class="mixcloud icon" style="font-size:6em;color:red"></i></a>
+      <a ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:white;"></i></a> 
+      <a target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
+      <a target="_blank"><i class="github icon" style="font-size:6em;color:white"></i></a>
+      <a target="_blank"><i class="gitlab icon" style="font-size:6em;color:white"></i></a>
+      <a target="_blank"><i class="twitter square icon" style="font-size:6em;color:white"></i></a>
+      <a  target="_blank"><i class="facebook icon" style="font-size:6em;color:white;"></i></a>
+      <a target="_blank"><i class="instagram icon" style="font-size:6em;color:white"></i></a>
+      <a target="_blank"><i class="mixcloud icon" style="font-size:6em;color:white"></i></a>
     </div>
 
   </div>
@@ -181,44 +184,40 @@
 
 <!-- FORMULAIRE -->
 
-<div class="contactezmoi">Contactez-moi et téléchargez mon 
-  <a href="https://rawgit.com/Cphil31/cecilephilippedeveloppeur/master/resources/views/cv.CECILE.Philippe.pdf" download="Curriculum_Vitae_CECILE_Philippe">Cv en PDF</a> 
-</div>
+<div class="contactezmoi">Contactez-moi et et je vous renvoie mon CV integral</div>
 
 <div class="ui grid">
   <div class="three wide column"></div>
   <div class="ten wide column">
 
-    <div class="ui blue inverted segment">
-
-      <div class="ui inverted form">  
+      <div class="ui form">  
 
         <form action="/contact" method="POST">
           {{ csrf_field() }}
           <div class="two fields">
 
             <div class="field">
-              <label ><h5>Nom</h5></label>
+              <label><div class="label">Entreprise</div></label>
               <input type="text" name="nom" required="required">
             </div>
 
             <div class="field">
-              <label ><h5>Prenom</h5></label>
+              <label ><div class="label">Nom et Prenom</div></label>
               <input type="text" name="prenom" required="required">
             </div>
 
           </div>
 
           <div class="field">
-            <label ><h5>Email</h5></label>
+            <label ><div class="label">Email</div></label>
             <input type="text" name="mail" required="required">
           </div>
           <div class="field">
-            <label ><h5>Object</h5></label>
+            <label ><div class="label">Object</div></label>
             <input type="text" name="subject" required="required">
           </div>
           <div class="field">
-            <label ><h5>Message</h5></label>
+            <label ><div class="label">Message</div></label>
             <textarea name="text" cols="10" rows="10"></textarea>
           </div>
 
@@ -228,10 +227,7 @@
         </form>
 
       </div>
-    </div>
 
-
-    
     <div class="four wide column"></div>
   </div>
 </div>

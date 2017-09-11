@@ -127,9 +127,9 @@ ul{
 }
 .contactezmoi{
 	margin-top:-5%;
-	font-size:2em;
+	font-size:150%;
 	color:white;
-	font-weight: Bold;
+	font-weight:Bold;
 	text-align:center;
 }
 .textanswer{
@@ -140,8 +140,14 @@ ul{
 .icon{
 	text-align: center;
 }
-
+.label{
+	color:white;
+	font-size:150%;
+}
 .merci{
 	text-align: center;
 	font-size: 200%;
+}
+input{
+	
 }
