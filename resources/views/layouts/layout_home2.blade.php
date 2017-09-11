@@ -184,7 +184,7 @@
 
 <!-- FORMULAIRE -->
 
-<div class="contactezmoi">Contactez-moi et je vous renvoie mon CV integral</div>
+<div class="contactezmoi">Contactez-moi et je vous renvoie mon CV intégral</div>
 
 <div class="ui grid">
   <div class="three wide column"></div>
@@ -202,7 +202,7 @@
             </div>
 
             <div class="field">
-              <label ><div class="label">Nom et Prenom</div></label>
+              <label ><div class="label">Nom et Prénom</div></label>
               <input type="text" name="prenom" required="required">
             </div>
 
@@ -213,7 +213,7 @@
             <input type="text" name="mail" required="required">
           </div>
           <div class="field">
-            <label ><div class="label">Object</div></label>
+            <label ><div class="label">Objet</div></label>
             <input type="text" name="subject" required="required">
           </div>
           <div class="field">
