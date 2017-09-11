@@ -10,28 +10,28 @@
   <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>
-<div class="space"></div>
+  <div class="space"></div>
   <div class="titre">CECILE Philippe</div>
   <!-- <hr> -->
   <div class="titre">Développeur Web</div>
   <div class="back2">
-  <div class="spaceTitle"></div>
-  <!-- MENU -->
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="twelve wide column">
+    <div class="spaceTitle"></div>
+    <!-- MENU -->
+    <div class="ui grid">
+      <div class="two wide column"></div>
+      <div class="twelve wide column">
 
-      <!-- MENU -->
-      <div class="ui blue six item inverted menu">
-        <a id="menu" class="acceuilMenu item">Accueil</a>
-        <a id="menu" class="formationMenu item">Formations</a>
-        <a id="menu" class="competenceMenu item">Compétences</a>
-        <a id="menu" class="experienceMenu item">Expériences </a>
-        <a id="menu" class="loisirMenu item">Loisirs</a>
-        <a id="menu" class="contactMenu item">Contact</a>
+        <!-- MENU -->
+        <div class="ui blue six item inverted menu">
+          <a id="menu" class="acceuilMenu item">Accueil</a>
+          <a id="menu" class="formationMenu item">Formations</a>
+          <a id="menu" class="competenceMenu item">Compétences</a>
+          <a id="menu" class="experienceMenu item">Expériences </a>
+          <a id="menu" class="loisirMenu item">Loisirs</a>
+          <a id="menu" class="contactMenu item">Contact</a>
+        </div>
       </div>
     </div>
-  </div>
 
     <!-- ACCEUIL -->
 
@@ -42,46 +42,46 @@
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
       <div class="acceuil">
-            <div class="ui grid">
-                <div class="six wide column">
-                      <div class="homeVous">
-                        VOUS DEVELOPPEZ
-                      </div >
-                      <div class="listeHome">
-                        des sites internet
-                      </div>
-                      <div class="listeHome">        
-                        des applications mobiles
-                      </div>  
-                </div> 
-
-                <div class="five wide column"> 
-                </div>
-                <div class="five wide column">
-                    <div class="homeVous">
-                      CONTACTEZ-MOI
-                    </div>
-
-                      <p class="listeHome">
-                      Période de Mise en Situation
-                      </p>
-
-                      <p class="listeHome2">
-                      découvrir le métier
-                      </p>
-
-                      <p class="listeHome2">
-                      vérifier mes compétences
-                      </p>
-
-                    <p class="listeHome2">
-                      initier une embauche
-                    </p>
-                    <div class="cdd">
-                    CDD ou CDI 
-                    </div>
-                   </div>
+        <div class="ui grid">
+          <div class="six wide column">
+            <div class="homeVous">
+              VOUS DEVELOPPEZ
+            </div >
+            <div class="listeHome">
+              des sites internet
             </div>
+            <div class="listeHome">        
+              des applications mobiles
+            </div>  
+          </div> 
+
+          <div class="five wide column"> 
+          </div>
+          <div class="five wide column">
+            <div class="homeVous">
+              CONTACTEZ-MOI
+            </div>
+
+            <p class="listeHome">
+              Période de Mise en Situation
+            </p>
+
+            <p class="listeHome2">
+              découvrir le métier
+            </p>
+
+            <p class="listeHome2">
+              vérifier mes compétences
+            </p>
+
+            <p class="listeHome2">
+              initier une embauche
+            </p>
+            <div class="listeHome2_cdd">
+              CDD ou CDI 
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -102,90 +102,31 @@
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column"></div>
-    <div class="seven wide column"><h4>
-      Formation poussée en PHP, SQl,Javascript,CSS,HTML
-
-    </h4>
+    <div class="seven wide column">
+      <h4>
+        Formation poussée en PHP, SQl,Javascript,CSS,HTML
+      </h4>
+    </div>
+    <div class="two wide column"></div>
   </div>
-  <div class="two wide column"></div>
-</div>
 
-<div class="ui grid">
-  <div class="two wide column"></div>
-  <div class="three wide column">2007 - 2008</div>
-  <div class="seven wide column">Introduction au Droit Immobilier CNAM</div>
-  <div class="two wide column">Guadeloupe</div>
-</div>
-
-<div class="ui grid">
-  <div class="two wide column"></div>
-  <div class="three wide column">2003</div>
-  <div class="seven wide column">Baccalaurréat STT</div>
-  <div class="two wide column">Guadeloupe</div>
-</div>
-</div>
+  <div class="textFormation">
+    <div>*** Pour recevoir l'intégralité</div>
+    <div>de ces informations</div>
+    <div>Contactez-moi</div>
+  </div>
+  </div>
+ 
 
 <!-- EXPERIENCES -->
 
 <div class="experiences">
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2016 - 2017</div>
-    <div class="seven wide column">Développement de projets Web à l'école Simplon <!-- (évènements : --> <!-- <a href="https://hourofcode.com/fr">Hour of code</a>, <a href="http://www.niort-numeric.fr/hackathon/">Hackathon 2016</a>) --></div>
-    <div class="two wide column">Toulouse</div>
-  </div>
-
-
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column"> 2015- 2016</div>
-    <div class="seven wide column">Recyclage téléviseurs</div>
-    <div class="three wide column">Portet-sur-Garonne</div>
-  </div>
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column"> 2014 -  2015</div>
-    <div class="seven wide column">Livreur - Repas personnes agées</div>
-    <div class="two wide column">Cornebarrieu</div>
-  </div>        
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2014 -  2014</div>
-    <div class="seven wide column">En quête de reconversion</div>
-    <div class="two wide column">Toulouse</div>
-  </div>
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2013 -2013</div>
-    <div class="seven wide column">Agence de communication - Suivi des clients </div>
-    <div class="two wide column">Toulouse</div>
-  </div>
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2010 - 2011</div>
-    <div class="seven wide column">Agent administratif </div>
-    <div class="two wide column">Guadeloupe</div>
-  </div>
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2005 - 2010</div>
-    <div class="seven wide column">Agent Commercial Immobilier</div>
-    <div class="three wide column">Guadeloupe</div>
-  </div>
-
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2005 - 2012</div>
-    <div class="seven wide column">Prestations Dj pour Clubs, Hôtels et particuliers</div>
-    <div class="three wide column">Guadeloupe</div>
-  </div>
-  <div class="four wide column"></div>  
+      <div>
+      *** Pour recevoir l'intégralité de ces informations 
+      </div>
+      <div>
+        Contactez-moi
+      </div>
 </div>
 
 <!-- COMPETENCES -->
