@@ -5,13 +5,13 @@ height:5%;
 text-align:center;
 color:red;
 font-size:4em;
-line-height: 1;
+line-height:1;
 }
 body{
 	background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;	
-	height:600px;
+	height:auto;
 }
 menu{
 	margin-top: -10%;
@@ -110,10 +110,11 @@ ul{
 	text-align: center;
 }
 .contactezmoi{
+	margin-top:-5%;
 	font-size:2em;
 	color:red;
+	font-weight: Bold;
 	text-align:center;
-	margin:1em;
 }
 .textanswer{
 	font-size: 150%;

@@ -278,7 +278,7 @@
           </div>
           <div class="field">
             <label ><h5>Message</h5></label>
-            <textarea name="text" id="" cols="30" rows="10"></textarea>
+            <textarea name="text" cols="10" rows="10"></textarea>
           </div>
 
           <div class="required field"> 
