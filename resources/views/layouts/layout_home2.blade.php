@@ -24,9 +24,9 @@
         <!-- MENU -->
         <div class="ui blue six item inverted menu">
           <a id="menu" class="acceuilMenu item">Accueil</a>
-          <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="competenceMenu item">Compétences</a>
           <a id="menu" class="experienceMenu item">Expériences </a>
+          <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="loisirMenu item">Loisirs</a>
           <a id="menu" class="contactMenu item">Contact</a>
         </div>
@@ -166,13 +166,13 @@
 
     <div class="icon">
       <a ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:white;"></i></a> 
-      <a target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
-      <a target="_blank"><i class="github icon" style="font-size:6em;color:white"></i></a>
-      <a target="_blank"><i class="gitlab icon" style="font-size:6em;color:white"></i></a>
-      <a target="_blank"><i class="twitter square icon" style="font-size:6em;color:white"></i></a>
-      <a  target="_blank"><i class="facebook icon" style="font-size:6em;color:white;"></i></a>
-      <a target="_blank"><i class="instagram icon" style="font-size:6em;color:white"></i></a>
-      <a target="_blank"><i class="mixcloud icon" style="font-size:6em;color:white"></i></a>
+      <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
+      <a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size:6em;color:white"></i></a>
+      <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="font-size:6em;color:white"></i></a>
+      <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:6em;color:white"></i></a>
+      <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;color:white;"></i></a>
+      <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="font-size:6em;color:white"></i></a>
+      <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:6em;color:white"></i></a>
     </div>
 
   </div>
