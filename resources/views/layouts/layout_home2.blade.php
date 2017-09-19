@@ -106,9 +106,11 @@
     <div class="two wide column"></div>
     <div class="three wide column"></div>
     <div class="seven wide column">
-      <h4>
-        Formation poussée en PHP, SQl,Javascript,CSS,HTML
-      </h4>
+      <h4>Front-end : HTML, CSS, Javascript</h4>
+      <h4>Back-end : Node.js, PHP</h4>
+      <h4>Méthodes Agile</h4>
+      <h4>Développement mobile</h4>
+      <h4><a href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf">Voir le programme de formation</a></h4>
     </div>
     <div class="two wide column"></div>
   </div>
