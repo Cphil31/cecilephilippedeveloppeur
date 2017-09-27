@@ -167,9 +167,9 @@
   <div class="twelve wide column">
 
     <div class="icon">
-      <a ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:white;"></i></a> 
-      <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
       <a href="https://github.com/Cphil31" target="_blank"><i class="github icon" style="font-size:6em;color:white"></i></a>
+      <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
+      <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:white;"></i></a> 
       <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="font-size:6em;color:white"></i></a>
       <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:6em;color:white"></i></a>
       <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;color:white;"></i></a>
