@@ -1,0 +1,8 @@
+@media screen and (max-width: 1024px)
+{
+    .listeHome2{
+	font-size:40%;
+	margin-left:10%;
+	/*line-height: 0;*/
+}
+}
