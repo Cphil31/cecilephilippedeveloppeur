@@ -1,13 +1,28 @@
+html {
+  height: 100%;
+}
+.footer{
+	background-color: #0E6EB8;
+	height: 10%;
+	position: absolute; 
+	bottom: 0;
+	left: 0; 
+	right:0;
+}
 .space{
 height:5%;
 }
 .titre{ 
 text-align:center;
-color:#30A9DE;
+/*color:#0E6EB8;*/
+color:white;
 font-size:4em;
 line-height:1;
 }
 body{
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
 	background-image: url('https://unsplash.it/1600/1200?image=0');
 	background-repeat:no-repeat;
 	background-size:cover;	
@@ -34,7 +49,7 @@ menu{
 	font-size:2em; 
 }
 .spaceTitle{
-	height:5em;
+	height:3em;
 }
 .pmpsp{
 	font-size:80%;

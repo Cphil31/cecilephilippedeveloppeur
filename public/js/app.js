@@ -4,7 +4,6 @@ $(".competences").hide();
 $(".loisirs").hide();
 $(".sport").hide();
 $(".download").hide();
-$(".icon").hide();
 $(".form").hide();
 $(".segment").hide();
 $(".contactezmoi").hide();
@@ -16,16 +15,11 @@ $(".acceuil").transition('hide');
 $(".acceuil").transition('fly right','2000ms');
 
 $('.acceuilMenu').click(function(){
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
 	$(".formations").transition('hide');
 	$(".experiences").transition('hide');
 	$(".competences").transition('hide');
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
-	$(".icon").transition('hide');
 	$(".download").transition('hide');
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
@@ -35,17 +29,14 @@ $('.acceuilMenu').click(function(){
 
 
 $(".formationMenu").click(function(){
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
+	
+	
 	$(".acceuil").transition('hide');
 	// $(".titre").transition('fly left','2000ms');
 	$(".experiences").transition('hide');
 	$(".competences").transition('hide');
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
-	$(".icon").transition('hide');
 	$(".download").transition('hide');
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
@@ -54,17 +45,12 @@ $(".formationMenu").click(function(){
 	});
 
 $(".competenceMenu").click(function(){
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".experiences").transition('hide');
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
 	$(".download").transition('hide');
-	$(".icon").transition('hide');
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
 	$("formulaire").hide();
@@ -78,16 +64,11 @@ $(".competenceMenu").click(function(){
 	});
 
 $(".experienceMenu").click(function(){
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
-	$(".icon").transition('hide');
 	$(".download").transition('hide');
 	$(".form").transition('hide');
 	$(".segment").transition('hide');
@@ -96,10 +77,7 @@ $(".experienceMenu").click(function(){
 });
 
 $(".loisirMenu").click(function(){
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
+	
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
@@ -110,21 +88,17 @@ $(".loisirMenu").click(function(){
 	$(".loisirs").transition('drop','1000ms');
 	$(".sport").transition('drop','1000ms');
 	$(".segment").transition('hide');
-	$(".icon").transition('drop','1000ms');
+	
 	});
 
 
 $(".contactMenu").click(function(){
-	$(".menu").transition('bounce');
-	$(".menu").transition('bounce');
-	$(".titre").transition('bounce');
-	$(".titre").transition('bounce');
+	
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
 	$(".experiences").transition('hide');
 	$(".loisirs").transition('hide');
-	$(".icon").transition('hide');
 	$(".sport").transition('hide');
 	$(".spacecomp").transition('hide');
 	$(".segment").transition('drop','1000ms');

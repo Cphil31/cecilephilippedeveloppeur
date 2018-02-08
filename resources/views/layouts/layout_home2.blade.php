@@ -167,16 +167,6 @@
   <div class="two wide column"></div>
   <div class="twelve wide column">
 
-    <div class="icon">
-      <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="font-size:6em;color:white"></i></a>
-      <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:6em;color:white"></i></a>
-      <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:6em;color:white;"></i></a> 
-      <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="font-size:6em;color:white"></i></a>
-      <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:6em;color:white"></i></a>
-      <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:6em;color:white;"></i></a>
-      <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="font-size:6em;color:white"></i></a>
-      <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:6em;color:white"></i></a>
-    </div>
 
   </div>
   <div class="two wide column"></div>
@@ -200,12 +190,12 @@
           <div class="two fields">
 
             <div class="field">
-              <label><div class="label">Entreprise</div></label>
+              <label><div class="label">Nom</div></label>
               <input type="text" name="nom" required="required">
             </div>
 
             <div class="field">
-              <label ><div class="label">Nom et Prénom</div></label>
+              <label ><div class="label">Prénom</div></label>
               <input type="text" name="prenom" required="required">
             </div>
 
@@ -215,13 +205,10 @@
             <label ><div class="label">Email</div></label>
             <input type="text" name="mail" required="required">
           </div>
-          <div class="field">
-            <label ><div class="label">Objet</div></label>
-            <input type="text" name="subject" required="required">
-          </div>
+          
           <div class="field">
             <label ><div class="label">Message</div></label>
-            <textarea name="text" cols="10" rows="10"></textarea>
+            <textarea name="text" cols="10" rows="3"></textarea>
           </div>
 
           <div class="required field"> 
@@ -237,7 +224,18 @@
 <div class="container">
   @yield('content')
 </div>
-
+<div class="footer">
+    <div class="icon">
+      <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="font-size:3em;color:white"></i></a>
+      <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="font-size:3em;color:white"></i></a>
+      <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; font-size:3em;color:white;"></i></a> 
+      <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="font-size:3em;color:white"></i></a>
+      <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="font-size:3em;color:white"></i></a>
+      <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="font-size:3em;color:white;"></i></a>
+      <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="font-size:3em;color:white"></i></a>
+      <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="font-size:3em;color:white"></i></a>
+    </div>
+</div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
