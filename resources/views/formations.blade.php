@@ -21,7 +21,7 @@
 		<div class="two wide column"></div>
 		<div class="three wide column"></div>
 		<div class="seven wide column"><h4>
-		Formation poussée en PHP, SQl,Javascript,CSS,HTML
+		Formation poussée en PHP,SQl,Javascript,CSS,HTML
 		
 		</h4>
 		</div>
