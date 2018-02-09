@@ -8,11 +8,17 @@ $(".form").hide();
 $(".segment").hide();
 $(".contactezmoi").hide();
 $(".titre").transition('hide');
-$(".titre").transition('fly right','2000ms');
+$(".titre").transition('fly right','3500ms');
 $(".menu").transition('hide');
-$(".menu").transition('fly left','2000ms');
+$(".menu").transition('fly left','3500ms');
 $(".acceuil").transition('hide');
-$(".acceuil").transition('fly right','2000ms');
+$(".acceuil").transition('fly right','3500ms');
+$(".developpeur").hide();
+
+// $(".web").hide();
+$(".developpeur").show(6000);
+
+// $(".web").show(6000);
 
 $('.acceuilMenu').click(function(){
 	$(".formations").transition('hide');

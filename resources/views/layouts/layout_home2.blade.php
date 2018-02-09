@@ -14,7 +14,27 @@
   <div class="space"></div>
   <div class="titre">CECILE Philippe</div>
   <!-- <hr> -->
-  <div class="titre">Développeur Web</div>
+  
+
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-5">
+        <div class="developpeur">
+          Développeur&nbsp;web 
+        </div>
+        <!-- <div class="developpeurweb">
+          Web
+        </div> -->
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>
+
+
+
   <div class="back2">
     <div class="spaceTitle"></div>
     <!-- MENU -->
@@ -83,14 +103,14 @@
             </div>
             <div class="listeHome2_cdd">
              TOULOUSE 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
 
-    <div class="two wide column"></div>
-  </div>
+   <div class="two wide column"></div>
+ </div>
 </div>
 
 <!-- FORMATIONS -->
@@ -121,18 +141,18 @@
     <div>de ces informations</div>
     <div>Contactez-moi</div>
   </div>
-  </div>
- 
+</div>
+
 
 <!-- EXPERIENCES -->
 
 <div class="experiences">
-      <div>
-      *** Pour recevoir l'intégralité de ces informations 
-      </div>
-      <div>
-        Contactez-moi
-      </div>
+  <div>
+    *** Pour recevoir l'intégralité de ces informations 
+  </div>
+  <div>
+    Contactez-moi
+  </div>
 </div>
 
 <!-- COMPETENCES -->
@@ -183,40 +203,40 @@
   <div class="three wide column"></div>
   <div class="ten wide column">
 
-      <div class="ui form">  
+    <div class="ui form">  
 
-        <form action="/contact" method="POST">
-          {{ csrf_field() }}
-          <div class="two fields">
+      <form action="/contact" method="POST">
+        {{ csrf_field() }}
+        <div class="two fields">
 
-            <div class="field">
-              <label><div class="label">Nom</div></label>
-              <input type="text" name="nom" required="required">
-            </div>
-
-            <div class="field">
-              <label ><div class="label">Prénom</div></label>
-              <input type="text" name="prenom" required="required">
-            </div>
-
+          <div class="field">
+            <label><div class="label">Nom</div></label>
+            <input type="text" name="nom" required="required">
           </div>
 
           <div class="field">
-            <label ><div class="label">Email</div></label>
-            <input type="text" name="mail" required="required">
-          </div>
-          
-          <div class="field">
-            <label ><div class="label">Message</div></label>
-            <textarea name="text" cols="10" rows="3"></textarea>
+            <label ><div class="label">Prénom</div></label>
+            <input type="text" name="prenom" required="required">
           </div>
 
-          <div class="required field"> 
-            <button class="ui button btn-block" type="submit" >Envoyez</button>
-          </div>
-        </form>
+        </div>
 
-      </div>
+        <div class="field">
+          <label ><div class="label">Email</div></label>
+          <input type="text" name="mail" required="required">
+        </div>
+
+        <div class="field">
+          <label ><div class="label">Message</div></label>
+          <textarea name="text" cols="10" rows="3"></textarea>
+        </div>
+
+        <div class="required field"> 
+          <button class="ui button btn-block" type="submit" >Envoyez</button>
+        </div>
+      </form>
+
+    </div>
 
     <div class="four wide column"></div>
   </div>
@@ -225,16 +245,16 @@
   @yield('content')
 </div>
 <div class="footer">
-        <div class="icon">Suivez-moi sur :
-            <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
-            <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
-            <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
-            <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="color:white"></i></a>
-            <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="color:white"></i></a>
-            <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="color:white;"></i></a>
-            <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="color:white"></i></a>
-            <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
-         </div>
+  <div class="icon">Suivez-moi sur :
+    <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
+    <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
+    <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
+    <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="color:white"></i></a>
+    <a href="https://twitter.com/Dev_phil971" target="_blank"><i class="twitter square icon" style="color:white"></i></a>
+    <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="color:white;"></i></a>
+    <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="color:white"></i></a>
+    <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
+  </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>

@@ -21,6 +21,23 @@ color:white;
 font-size:4em;
 line-height:1;
 }
+.developpeur { 
+	display: inline-block;
+	
+	color:#0E6EB8;
+	color:white;
+	font-size:4em;
+	line-height:1;
+}
+
+.web { 
+	float:left;
+text-align:center;
+/*color:#0E6EB8;*/
+color:white;
+font-size:4em;
+line-height:1;
+}
 body{
   min-height: 100%;
   margin: 0;
@@ -30,10 +47,9 @@ body{
 	background-size:cover;	
 	height:auto;
 }
-menu{
-	margin-top: -10%;
-}
-#menu{
+
+.menu{
+	
 	font-size:120%;
 	font-weight: Bold;
 }
