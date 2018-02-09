@@ -12,7 +12,6 @@
 </head>
 <body>
   <div class="space"></div>
-  <div class="titre">CECILE Philippe</div>
   <!-- <hr> -->
   
 
@@ -22,6 +21,7 @@
     <div class="row">
       <div class="col"></div>
       <div class="col-5">
+      <div class="titre">CECILE&nbsp;Philippe</div>
         <div class="developpeur">
           Développeur&nbsp;web 
         </div>
@@ -66,7 +66,7 @@
         <div class="ui grid">
           <div class="six wide column">
             <div class="gauche">
-              
+
               <div class="homeVous">
                 VOUS DEVELOPPEZ
               </div >
@@ -83,7 +83,7 @@
           </div>
           <div class="five wide column">
             <div class="droite">
-              
+
               <div class="homeVous">
                 CONTACTEZ-MOI
               </div>
