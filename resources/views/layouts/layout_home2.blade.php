@@ -65,44 +65,50 @@
       <div class="acceuil">
         <div class="ui grid">
           <div class="six wide column">
-            <div class="homeVous">
-              VOUS DEVELOPPEZ
-            </div >
-            <div class="listeHome">
-              des sites internet
-            </div>
-            <div class="listeHome">        
-              des applications mobiles
-            </div>  
-          </div> 
+            <div class="gauche">
+              
+              <div class="homeVous">
+                VOUS DEVELOPPEZ
+              </div >
+              <div class="listeHome">
+                des sites internet
+              </div>
+              <div class="listeHome">        
+                des applications mobiles
+              </div>  
+            </div> 
+          </div>
 
           <div class="five wide column"> 
           </div>
           <div class="five wide column">
-            <div class="homeVous">
-              CONTACTEZ-MOI
-            </div>
+            <div class="droite">
+              
+              <div class="homeVous">
+                CONTACTEZ-MOI
+              </div>
 
-            <p class="listeHome">
-              Période de Mise en Situation
-            </p>
+              <p class="listeHome">
+                Période de Mise en Situation
+              </p>
 
-            <p class="listeHome2">
-              découvrir le métier
-            </p>
+              <p class="listeHome2">
+                découvrir le métier
+              </p>
 
-            <p class="listeHome2">
-              vérifier mes compétences
-            </p>
+              <p class="listeHome2">
+                vérifier mes compétences
+              </p>
 
-            <p class="listeHome2">
-              initier une embauche
-            </p>
-            <div class="listeHome2_cdd">
-              CDD ou CDI 
-            </div>
-            <div class="listeHome2_cdd">
-             TOULOUSE 
+              <p class="listeHome2">
+                initier une embauche
+              </p>
+              <div class="listeHome2_cdd">
+                CDD ou CDI 
+              </div>
+              <div class="listeHome2_cdd">
+               TOULOUSE 
+             </div>
            </div>
          </div>
        </div>
