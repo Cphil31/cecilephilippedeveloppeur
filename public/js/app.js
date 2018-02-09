@@ -7,22 +7,18 @@ $(".download").hide();
 $(".form").hide();
 $(".segment").hide();
 $(".contactezmoi").hide();
-$(".titre").transition('hide');
-$(".titre").transition('fly right','3500ms');
+$(".titre").hide();
+$(".developpeur").hide();
+$(".gauche").hide();
+$(".droite").hide();
+$(".titre").delay(3500).show(1500);
 $(".menu").transition('hide');
 $(".menu").transition('fly left','3500ms');
 $(".footer").transition('hide');
-$(".gauche").hide();
-$(".droite").hide();
-
-$(".developpeur").hide();
-
-// $(".web").hide();
-$(".developpeur").show(4000);
-
-$(".gauche").delay(3000).show(2500);
-$(".droite").delay(6000).show(3000);
-$(".footer").transition('fly rightt','3500ms');
+$(".developpeur").delay(5000).show(2000);
+$(".gauche").delay(7000).show(2000);
+$(".droite").delay(9000).show(2000);
+$(".footer").transition('fly right','3500ms');
 
 $('.acceuilMenu').click(function(){
 	$(".formations").transition('hide');
