@@ -35,8 +35,6 @@ $('.acceuilMenu').click(function(){
 
 
 $(".formationMenu").click(function(){
-	
-	
 	$(".acceuil").transition('hide');
 	$(".experiences").transition('hide');
 	$(".competences").transition('hide');
@@ -82,7 +80,6 @@ $(".experienceMenu").click(function(){
 });
 
 $(".loisirMenu").click(function(){
-	
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
@@ -93,12 +90,10 @@ $(".loisirMenu").click(function(){
 	$(".loisirs").transition('swing down','1000ms');
 	$(".sport").transition('swing down','1000ms');
 	$(".segment").transition('hide');
-	
 	});
 
 
 $(".contactMenu").click(function(){
-	
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
 	$(".competences").transition('hide');
