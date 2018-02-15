@@ -38,7 +38,6 @@ $(".formationMenu").click(function(){
 	
 	
 	$(".acceuil").transition('hide');
-	// $(".titre").transition('fly left','2000ms');
 	$(".experiences").transition('hide');
 	$(".competences").transition('hide');
 	$(".loisirs").transition('hide');
