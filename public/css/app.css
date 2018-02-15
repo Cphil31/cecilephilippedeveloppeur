@@ -13,12 +13,19 @@ body{
 .footer{
 	background-color: #0E6EB8;
 	height: 7%;
-	font-size: 2em;
+	font-size: 140%;
 	position: absolute;
 	font-weight: Bold; 
 	bottom: 0;
 	left: 0; 
 	right:0;
+}
+.icon{
+	color:white;
+	}
+.source{
+	color: white;
+	
 }
 .space{
 height:5%;
@@ -170,11 +177,6 @@ ul{
 	font-size: 150%;
 	color:#0E6EB8;
 	text-align: center;
-}
-.icon{
-	color:white;
-	text-align: center;
-
 }
 .label{
 	color:white;
