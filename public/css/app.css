@@ -22,10 +22,12 @@ body{
 }
 .icon{
 	color:white;
+	margin-top: 2%;
 	}
 .source{
+	float:right;
 	color: white;
-	
+	margin-top:2%;
 }
 .space{
 height:5%;
