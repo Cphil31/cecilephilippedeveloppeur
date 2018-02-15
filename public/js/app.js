@@ -30,7 +30,7 @@ $('.acceuilMenu').click(function(){
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
 	$(".segment").transition('hide');
-	$(".acceuil").transition('fly up','1000ms');
+	$(".acceuil").transition('fly down','1000ms');
 });
 
 
@@ -47,7 +47,7 @@ $(".formationMenu").click(function(){
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
 	$(".segment").transition('hide');
-	$(".formations").transition('fly up','1000ms');
+	$(".formations").transition('fly down','1000ms');
 	});
 
 $(".competenceMenu").click(function(){
@@ -61,12 +61,12 @@ $(".competenceMenu").click(function(){
 	$(".contactezmoi").transition('hide');
 	$("formulaire").hide();
 	$(".segment").transition('hide');
-	$(".apple").transition('fly up','1000ms');
-	$(".windows").transition('fly up','1000ms');
-	$(".linux").transition('fly up','1000ms');
-	$(".html5").transition('fly up','1000ms');
-	$(".css3").transition('fly up','1000ms');
-	$(".competences").transition('fly up','1000ms');
+	$(".apple").transition('fly down','1000ms');
+	$(".windows").transition('fly down','1000ms');
+	$(".linux").transition('fly down','1000ms');
+	$(".html5").transition('fly down','1000ms');
+	$(".css3").transition('fly down','1000ms');
+	$(".competences").transition('fly down','1000ms');
 	});
 
 $(".experienceMenu").click(function(){
@@ -79,7 +79,7 @@ $(".experienceMenu").click(function(){
 	$(".form").transition('hide');
 	$(".segment").transition('hide');
 	$(".contactezmoi").transition('hide');
-	$(".experiences").transition('fly up','1000ms');
+	$(".experiences").transition('fly down','1000ms');
 });
 
 $(".loisirMenu").click(function(){
@@ -91,8 +91,8 @@ $(".loisirMenu").click(function(){
 	$(".download").transition('hide');
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
-	$(".loisirs").transition('fly up','1000ms');
-	$(".sport").transition('fly up','1000ms');
+	$(".loisirs").transition('fly down','1000ms');
+	$(".sport").transition('fly down','1000ms');
 	$(".segment").transition('hide');
 	
 	});
@@ -107,9 +107,9 @@ $(".contactMenu").click(function(){
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
 	$(".spacecomp").transition('hide');
-	$(".segment").transition('fly up','1000ms');
-	$(".contactezmoi").transition('fly up','1000ms');
-	$(".form").transition('fly up','1000ms');
-	$(".download").transition('fly up','1000ms');
+	$(".segment").transition('fly down','1000ms');
+	$(".contactezmoi").transition('fly down','1000ms');
+	$(".form").transition('fly down','1000ms');
+	$(".download").transition('fly down','1000ms');
 		});
 
