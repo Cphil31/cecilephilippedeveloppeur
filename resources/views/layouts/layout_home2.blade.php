@@ -255,7 +255,7 @@
 
    <div class="row">
     <div class="col"></div>
-    <div class="col-4">
+    <div class="col-5">
       <div class="icon">Suivez-moi sur :
         <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
         <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
