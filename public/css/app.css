@@ -15,12 +15,12 @@ body{
 	height: 7%;
 	font-size: 140%;
 	position: absolute;
-	font-weight: Bold; 
 	bottom: 0;
 	left: 0; 
 	right:0;
 }
 .icon{
+	font-weight:Bold; 
 	color:white;
 	margin-top: 2%;
 	}
