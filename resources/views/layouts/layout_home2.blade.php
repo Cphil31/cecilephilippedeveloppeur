@@ -268,7 +268,7 @@
       </div>
     </div>
     <div class="col">
-        <div class="source"> source image :
+        <div class="source" style="font-weight:Bold;">Source image :
         <a  href="https://picsum.photos/" style="color:white;" target="_blank"> picsum photo</a>
         </div>
     </div>
