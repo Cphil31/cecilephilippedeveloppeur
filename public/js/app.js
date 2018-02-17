@@ -33,7 +33,6 @@ $('.acceuilMenu').click(function(){
 	$(".acceuil").transition('fly right','1000ms');
 });
 
-
 $(".formationMenu").click(function(){
 	$(".acceuil").transition('hide');
 	$(".experiences").transition('hide');
@@ -92,7 +91,6 @@ $(".loisirMenu").click(function(){
 	$(".segment").transition('hide');
 	});
 
-
 $(".contactMenu").click(function(){
 	$(".acceuil").transition('hide');
 	$(".formations").transition('hide');
@@ -106,4 +104,3 @@ $(".contactMenu").click(function(){
 	$(".form").transition('fly right','1000ms');
 	$(".download").transition('fly right','1000ms');
 		});
-
