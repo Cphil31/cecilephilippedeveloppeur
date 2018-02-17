@@ -44,7 +44,7 @@ $(".formationMenu").click(function(){
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
 	$(".segment").transition('hide');
-	$(".formations").transition('swing down','1000ms');
+	$(".formations").transition('fly right','1000ms');
 	});
 
 $(".competenceMenu").click(function(){
@@ -58,12 +58,12 @@ $(".competenceMenu").click(function(){
 	$(".contactezmoi").transition('hide');
 	$("formulaire").hide();
 	$(".segment").transition('hide');
-	$(".apple").transition('swing down','1000ms');
-	$(".windows").transition('swing down','1000ms');
-	$(".linux").transition('swing down','1000ms');
-	$(".html5").transition('swing down','1000ms');
-	$(".css3").transition('swing down','1000ms');
-	$(".competences").transition('swing down','1000ms');
+	$(".apple").transition('fly right','1000ms');
+	$(".windows").transition('fly right','1000ms');
+	$(".linux").transition('fly right','1000ms');
+	$(".html5").transition('fly right','1000ms');
+	$(".css3").transition('fly right','1000ms');
+	$(".competences").transition('fly right','1000ms');
 	});
 
 $(".experienceMenu").click(function(){
@@ -76,7 +76,7 @@ $(".experienceMenu").click(function(){
 	$(".form").transition('hide');
 	$(".segment").transition('hide');
 	$(".contactezmoi").transition('hide');
-	$(".experiences").transition('swing down','1000ms');
+	$(".experiences").transition('fly right','1000ms');
 });
 
 $(".loisirMenu").click(function(){
@@ -87,8 +87,8 @@ $(".loisirMenu").click(function(){
 	$(".rightload").transition('hide');
 	$(".form").transition('hide');
 	$(".contactezmoi").transition('hide');
-	$(".loisirs").transition('swing down','1000ms');
-	$(".sport").transition('swing down','1000ms');
+	$(".loisirs").transition('fly right','1000ms');
+	$(".sport").transition('fly right','1000ms');
 	$(".segment").transition('hide');
 	});
 
@@ -101,9 +101,9 @@ $(".contactMenu").click(function(){
 	$(".loisirs").transition('hide');
 	$(".sport").transition('hide');
 	$(".spacecomp").transition('hide');
-	$(".segment").transition('swing down','1000ms');
-	$(".contactezmoi").transition('swing down','1000ms');
-	$(".form").transition('swing down','1000ms');
-	$(".download").transition('swing down','1000ms');
+	$(".segment").transition('fly right','1000ms');
+	$(".contactezmoi").transition('fly right','1000ms');
+	$(".form").transition('fly right','1000ms');
+	$(".download").transition('fly right','1000ms');
 		});
 
