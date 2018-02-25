@@ -44,7 +44,7 @@
       <div class="twelve wide column">
 
         <!-- MENU -->
-        <div class="ui pink six item inverted menu">
+        <div class="ui six item inverted menu" style="background-color:red;">
           <a id="menu" class="acceuilMenu item">Accueil</a>
           <a id="menu" class="competenceMenu item">Compétences</a>
           <a id="menu" class="experienceMenu item">Expériences </a>

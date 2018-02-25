@@ -2,7 +2,10 @@ html {
   height: 100%;
 }
 body{
-  background-image: url('https://cdn.rawgit.com/Cphil31/cecilephilippedeveloppeur/dcef60f5/resources/views/hide-obara-2034.jpg');
+  /*background-image: url('https://cdn.rawgit.com/Cphil31/cecilephilippedeveloppeur/e675c21a/resources/views/hide-obara-2034.jpg');*/
+  /*background-image: url('https://cdn.rawgit.com/Cphil31/cecilephilippedeveloppeur/e675c21a/resources/views/veeterzy-82537-unsplash.jpg');*/
+ background-image: url('https://images.unsplash.com/photo-1446797376004-9352dfc9f789?ixlib=rb-0.3.5&s=ccee8b6a2a8b64495e5c5899f38938d4&auto=format&fit=crop&w=762&q=80');
+  /*background-color: pink;*/
   min-height: 100%;
   margin: 0;
   padding: 0;
@@ -11,7 +14,7 @@ body{
   height:auto;
 }
 .footer{
-	background-color: #FF1493;
+	background-color:red;
 	height: 7%;
 	font-size: 140%;
 	position: absolute;
