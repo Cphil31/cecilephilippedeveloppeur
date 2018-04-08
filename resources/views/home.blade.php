@@ -176,7 +176,7 @@
         </li>
         <li>Langages de programmation : PHP,SQL,JavaScript,Css3,Html5</li>
         <li>Progammes: SublimText,Node.js,Express.js, Analyse cahier des charges</li>
-        <li>CMS et Framework (<a href="http://getbootstrap.com/">Bootstrap</a> ,<a href="http://foundation.zurb.com/">Foundation</a>,<a href="http://semantic-ui.com/">Semantic</a>)</li>
+        <li>CMS et Framework (<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> ,<a href="http://foundation.zurb.com/" target="_blank">Foundation</a>,<a href="http://semantic-ui.com/" target="_blank">Semantic</a>)</li>
       </ul>   
     </div>
     <div class="two wide column"></div>
