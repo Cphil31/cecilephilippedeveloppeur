@@ -12,9 +12,10 @@
   <div class="space"></div>
   <!-- <hr> -->
   <div class="row">
-      <div class="col">
-
+      <div class="col-1">
+        <div class="date"></div>
       </div>
+      <div class="col"></div>
       <div class="col-1">
         <div class="clock"></div>
       </div>
