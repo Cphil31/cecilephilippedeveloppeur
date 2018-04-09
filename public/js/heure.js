@@ -20,6 +20,7 @@ function displayClock() {
     if(seconds < 10){
         seconds = '0' + seconds;
     }
+    
     // Afficher l'horloge 
     $('.clock').html(hours + ':' + minutes + ':' + seconds);
 }
