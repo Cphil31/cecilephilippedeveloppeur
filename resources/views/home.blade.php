@@ -169,9 +169,10 @@
       <ul> 
         <li>
           <div class="iconComp">
+            <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
             <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
             <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-            <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+            
           </div>
         </li>
         <li>Langages de programmation : PHP,SQL,JavaScript,Css3,Html5</li>
@@ -254,7 +255,6 @@
     <div class="col-5">
       <div class="icon">Suivez-moi sur :
         <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
-        
         <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
         <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
         <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="color:white"></i></a>
