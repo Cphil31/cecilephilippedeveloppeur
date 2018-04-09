@@ -16,7 +16,7 @@
         <div class="date"></div>
       </div>
       <div class="col"></div>
-      <div class="col-1">
+      <div class="col-2">
         <div class="clock"></div>
       </div>
     </div>
