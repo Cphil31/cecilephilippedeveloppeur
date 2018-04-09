@@ -138,7 +138,7 @@
       <h4>Back-end : Node.js, PHP</h4>
       <h4>Méthodes Agile</h4>
       <h4>Développement mobile</h4>
-      <h4><a href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf">Voir le programme de formation</a></h4>
+      <h4><a href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf" target="_blank">Voir le programme de formation</a></h4>
     </div>
     <div class="two wide column"></div>
   </div>
