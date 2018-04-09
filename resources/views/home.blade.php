@@ -259,7 +259,7 @@
 
    <div class="row">
     <div class="col"></div>
-    <div class="col-5">
+    <div class="col-6">
       <div class="icon">Suivez-moi sur :
         <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
         <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
@@ -271,11 +271,13 @@
         <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
       </div>
     </div>
-    <div class="col">
+    <div class="col-3">
         <div class="source" style="font-weight:Bold;">Source image :
         <a  href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
         </div>
     </div>
+    <div class="col-0,5"></div>
+   
   </div>
   
 </div>
