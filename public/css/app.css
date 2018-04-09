@@ -10,6 +10,11 @@ body{
   background-size:cover;  
   height:auto;
 }
+.clock{
+	float:right;
+	color:white;
+	font-size: 2em;
+}
 .footer{
 	background-color:red;
 	height: 7%;

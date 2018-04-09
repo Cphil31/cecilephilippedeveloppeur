@@ -1,13 +1,3 @@
-console.log("affichage date");
-var maintenant=new Date();
-var jour=maintenant.getDate();
-var mois=maintenant.getMonth()+1;
-var an=maintenant.getFullYear();
-var heure=maintenant.getHours();
-var minute=maintenant.getMinutes();
-var seconde=maintenant.getSeconds();
-
-
 $(document).ready(function() {
     // 
     displayClock();
