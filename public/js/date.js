@@ -1,20 +1,29 @@
+
 function aujourdhui(){
 
 var maintenant=new Date();
 var jour=maintenant.getDate();
 var mois=maintenant.getMonth()+1;
 var an=maintenant.getFullYear();
+console.log(jour);
+if (jour>=10)
+{
+	$('.date').html(jour+'/'+mois+'/'+an);
+}
+else{
+	$('.date').html("0"+jour+'/'+mois+'/'+an);
+}
+if (mois>=10)
+{
+	$('.date').html(jour+'/'+mois+'/'+an);
+}
+else{
+	$('.date').html(jour+'/'+"0"+mois +'/'+an);
+}
 
-if (jour.length <2);
-{
-	jour=jour;
-}
-if (mois.length<2);
-{
-	mois="0"+mois;
-}
-$('.date').html(jour + '/' +  mois + '/' + an);
+
 
 };
 
 aujourdhui();
+
