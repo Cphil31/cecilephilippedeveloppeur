@@ -126,7 +126,11 @@
   <div class="ui grid">
     <div class="two wide column"></div>
     <div class="three wide column">2016-2017</div>
-    <div class="seven wide column">Formation de Web Développeur à l'école Simplon</div>
+    <div class="seven wide column">Formation de Web Développeur à l'école 
+      <span class="simplon"> 
+         <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon</a>
+      </span>
+    </div>
     <div class="two wide column">Toulouse</div>
   </div>
 
@@ -138,7 +142,7 @@
       <h4>Back-end : Node.js, PHP</h4>
       <h4>Méthodes Agile</h4>
       <h4>Développement mobile</h4>
-      <h4><a href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf" target="_blank">Voir le programme de formation</a></h4>
+      <h4><a class="simplon" href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;" target="_blank">Voir le programme de formation</a></h4>
     </div>
     <div class="two wide column"></div>
   </div>

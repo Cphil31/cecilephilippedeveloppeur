@@ -51,7 +51,6 @@ line-height:1;
 	font-size:4em;
 	line-height:1;
 }
-
 .web { 
 	float:left;
 text-align:center;
@@ -200,4 +199,7 @@ ul{
 	color:white;
 	font-weight:bold; 
 	margin-top:20%;
+}
+.simplon{
+	text-decoration: underline;
 }
