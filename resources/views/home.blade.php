@@ -191,7 +191,7 @@
 </div>
 <!-- LOISIRS -->
 
-<div class="loisirs">DJ - hôtels,clubs et soirées privées (2005-2012)</div>
+<div class="loisirs">DJ pour hôtels,clubs,mariages et soirées privées (2005-2012)</div>
 <div class="sport">Poker,Belote,Jeux vidéos,Informatique</div>
 <div class="sport">Sports : basket,footing</div>
 
