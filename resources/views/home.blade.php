@@ -11,7 +11,15 @@
 
   <div class="space"></div>
   <!-- <hr> -->
-  <div class="clock"></div>
+  <div class="row">
+      <div class="col">
+
+      </div>
+      <div class="col-1">
+        <div class="clock"></div>
+      </div>
+    </div>
+  
   
     <div class="row">
       <div class="col"></div>
@@ -38,7 +46,7 @@
         <div class="ui six item inverted menu" style="background-color:red;">
           <a id="menu" class="acceuilMenu item">Accueil</a>
           <a id="menu" class="competenceMenu item">Compétences</a>
-          <a id="menu" class="experienceMenu item">Expériences </a>
+          <a id="menu" class="experienceMenu item">Expériences</a>
           <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="loisirMenu item">Loisirs</a>
           <a id="menu" class="contactMenu item">Contact</a>
@@ -77,7 +85,7 @@
           <div class="five wide column">
             <div class="droite">
 
-              <div class="homeVous">
+              <div class="cont">
                 CONTACTEZ-MOI
               </div>
 

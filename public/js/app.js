@@ -104,3 +104,30 @@ $(".contactMenu").click(function(){
 	$(".form").transition('fly right','1000ms');
 	$(".download").transition('fly right','1000ms');
 		});
+
+$(".contactMenu").click(function(){
+	$(".acceuil").transition('hide');
+	$(".formations").transition('hide');
+	$(".competences").transition('hide');
+	$(".experiences").transition('hide');
+	$(".loisirs").transition('hide');
+	$(".sport").transition('hide');
+	$(".spacecomp").transition('hide');
+	$(".segment").transition('fly right','1000ms');
+	$(".contactezmoi").transition('fly right','1000ms');
+	$(".form").transition('fly right','1000ms');
+	$(".download").transition('fly right','1000ms');
+		});
+$(".cont").click(function(){
+	$(".acceuil").transition('hide');
+	$(".formations").transition('hide');
+	$(".competences").transition('hide');
+	$(".experiences").transition('hide');
+	$(".loisirs").transition('hide');
+	$(".sport").transition('hide');
+	$(".spacecomp").transition('hide');
+	$(".segment").transition('fly right','1000ms');
+	$(".contactezmoi").transition('fly right','1000ms');
+	$(".form").transition('fly right','1000ms');
+	$(".download").transition('fly right','1000ms');
+		});

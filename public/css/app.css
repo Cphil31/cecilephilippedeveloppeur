@@ -11,7 +11,6 @@ body{
   height:auto;
 }
 .clock{
-	float:right;
 	color:white;
 	font-size: 2em;
 }
@@ -122,6 +121,11 @@ line-height:1;
 .homeVous{
 	font-weight: Bold;
 	margin-bottom: 6%;
+}
+.cont{
+	font-weight: Bold;
+	margin-bottom: 6%;
+	text-decoration: underline;
 }
 li{
 	list-style-type:none;
