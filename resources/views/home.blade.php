@@ -11,11 +11,8 @@
 
   <div class="space"></div>
   <!-- <hr> -->
+  <div class="clock"></div>
   
-
-
-  <div class="container">
-
     <div class="row">
       <div class="col"></div>
       <div class="col-5">
@@ -29,10 +26,7 @@
       </div>
       <div class="col"></div>
     </div>
-  </div>
-
-
-
+  
   <div class="back2">
     <div class="spaceTitle"></div>
     <!-- MENU -->
