@@ -129,7 +129,7 @@
     <div class="three wide column">2016-2017</div>
     <div class="seven wide column">Formation de Web Développeur à l'école 
       <span class="simplon"> 
-         <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon</a>
+         <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon Occitanie</a>
       </span>
     </div>
     <div class="two wide column">Toulouse</div>
