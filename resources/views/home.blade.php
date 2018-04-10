@@ -140,7 +140,7 @@
     <div class="three wide column"></div>
     <div class="seven wide column">
       <h4>Front-end : HTML, CSS, Javascript</h4>
-      <h4>Back-end : Node.js, PHP</h4>
+      <h4>Back-end : PHP,SQL</h4>
       <h4>Méthodes Agile</h4>
       <h4>Développement mobile</h4>
       <h4><a class="simplon" href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;" target="_blank">Voir le programme de formation</a></h4>

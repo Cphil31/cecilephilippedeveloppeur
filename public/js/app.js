@@ -41,6 +41,7 @@ $(".formationMenu").click(function(){
 	$(".sport").transition('hide');
 	$(".rightload").transition('hide');
 	$(".form").transition('hide');
+	$(".textFormation").transition('hide');
 	$(".contactezmoi").transition('hide');
 	$(".segment").transition('hide');
 	$(".formations").transition('fly right','1000ms');
