@@ -5,7 +5,6 @@ function aujourdhui(){
 	var jour=maintenant.getDate();
 	var mois=maintenant.getMonth()+1;
 	var an=maintenant.getFullYear();
-	console.log(jour);
 	if (jour>=10)
 	{
 		$('.date').html(jour+'/'+mois+'/'+an);
