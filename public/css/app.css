@@ -204,9 +204,3 @@ ul{
 }
 
 /*fin plein écran */
-@media screen and (max-width: 1000px)
-{
-	body{
-		background-color: red;
-	}
-}
