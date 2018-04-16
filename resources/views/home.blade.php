@@ -241,11 +241,11 @@
 
         <div class="field">
           <label ><div class="label">Message</div></label>
-          <textarea name="text" cols="10" rows="3"></textarea>
+          <textarea name="text" cols="10" rows="2"></textarea>
         </div>
 
         <div class="required field"> 
-          <button class="ui button btn-block send" type="submit" >Envoyez</button>
+          <button class="ui button btn-block send" type="submit" style="background-color: red ; color:white;" >Envoyez</button>
         </div>
       </form>
 
