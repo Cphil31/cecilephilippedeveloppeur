@@ -27,6 +27,5 @@
 <script src="../js/nav.js"></script>
 <script src=../js/heure.js></script>
 <script src="../js/date.js"></script>
-<script src="../js/sendmail.js"></script>
 </body>
 </html>
