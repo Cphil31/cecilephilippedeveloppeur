@@ -7,7 +7,7 @@
 </head>
 <body>
 		<div class="merci">
-		Merci pour votre message , <a href="https://www.philippe-cecile.fr/">cliquez</a> pour retourner sur le site</div>	
+		Merci pour votre message , je vous recontacte très bientot</div>	
 </body>
 </html>
 

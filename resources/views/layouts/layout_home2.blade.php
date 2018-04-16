@@ -23,8 +23,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
-<script src="../js/app.js"></script>
+<script src="../js/home.js"></script>
+<script src="../js/nav.js"></script>
 <script src=../js/heure.js></script>
 <script src="../js/date.js"></script>
+<script src="../js/sendmail.js"></script>
 </body>
 </html>

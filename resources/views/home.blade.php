@@ -224,7 +224,7 @@
 
           <div class="field">
             <label><div class="label">Nom</div></label>
-            <input type="text" name="nom" requipink="required">
+            <input type="text" name="nom" requipired="required">
           </div>
 
           <div class="field">
@@ -245,7 +245,7 @@
         </div>
 
         <div class="required field"> 
-          <button class="ui button btn-block" type="submit" >Envoyez</button>
+          <button class="ui button btn-block send" type="submit" >Envoyez</button>
         </div>
       </form>
 

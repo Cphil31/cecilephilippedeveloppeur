@@ -18,7 +18,7 @@ class ContactController extends Controller
 {
 
 	 public function mailsend(request $request)
-	    {
+{
 	$data=[
 	"title"=>"site développeur",
 	"subject"=>Input::get('subject'),
@@ -29,6 +29,6 @@ class ContactController extends Controller
 	$message->to("cecilephilippe31@gmail.com")->subject(Input::get('subject'));
 	$message->from(Input::get('mail'));
 	});
-	return view('/contact'); 
+	return view('contact');
 	    }
 }
