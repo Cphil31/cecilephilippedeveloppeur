@@ -10,7 +10,6 @@ class ViewController extends Controller
     	return view('home');
     }
     public function contact(){
-        
     	return view('contact');
     }
     public function competences(){
