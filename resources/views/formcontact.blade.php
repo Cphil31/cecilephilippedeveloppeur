@@ -14,7 +14,7 @@
 	<div class="ten wide column">
 		
 		
-		<form action="/contact" method="POST">
+		<form action="/" method="POST">
 			{{ csrf_field() }}
 			 
 			<input type="text" name="nom">

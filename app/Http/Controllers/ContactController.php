@@ -30,5 +30,6 @@ class ContactController extends Controller
 	$message->from(Input::get('mail'));
 	});
 	return view('contact');
+	
 	    }
 }
