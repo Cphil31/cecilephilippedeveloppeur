@@ -18,7 +18,7 @@
     </div>
 
 		<div class="merci">
-		Merci pour votre message , je vous recontacte très bientot et vous invite à 
+		Merci pour votre message, je vous recontacte très bientot et vous invite à 
 		<a href="https://www.philippe-cecile.fr" style="color:white">revenir</a>
 		</div>	
 </body>
