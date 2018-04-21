@@ -43,7 +43,7 @@
     <div class="row">
       <div class="col-2"></div>
       <div class="col">
-         <div class="ui five item inverted menu" style="background-color:red;font-size: 2em;">
+         <div class="ui five item inverted menu" style="background-color:red;font-size: 40%;">
           <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="competenceMenu item">Compétences</a>
           <a id="menu" class="experienceMenu item">Expériences</a>
@@ -266,10 +266,9 @@
 
   <div class="footer">
            <div class="row">
-             
-          <div class="col- suivezmoi">Suivez-moi sur :</div>
-      
-              <div class="col- icon">
+           <div class="col"></div>  
+            <div class="col- suivezmoi">Suivez-moi sur :</div>
+            <div class="col- icon">
                 <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
                 <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
                 <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
@@ -280,12 +279,11 @@
                 <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
               </div>
               <div class="col"></div>
-        
-                <div class="col"></div>
                 <div class=" col- source" >Source image :</div>
                 <div  class="col- picsum">
                   <a   href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
                 </div>       
+                <div class="col"></div>
            </div>
       </div>
 
