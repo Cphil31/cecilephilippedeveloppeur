@@ -43,21 +43,19 @@
   <div class="back2">
     
     <!-- MENU -->
-    <div class="row">
-      <div class="col"></div>
-      <div class="col-10">
-
-        <!-- MENU -->
-        <div class="ui five item inverted menu" style="background-color:red;font-size: 2em;">
+    <!-- <div class="row">
+      <div class="col-2"></div>
+      <div class="col">
+         <div class="ui five item inverted menu" style="background-color:red;font-size: 2em;">
+          <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="competenceMenu item">Compétences</a>
           <a id="menu" class="experienceMenu item">Expériences</a>
-          <a id="menu" class="formationMenu item">Formations</a>
           <a id="menu" class="loisirMenu item">Loisirs</a>
           <a id="menu" class="contactMenu item">Contact</a>
         </div>
       </div>
-      <div class="col"></div>
-    </div>
+      <div class="col-2"></div>
+    </div> -->
 
     <!-- ACCEUIL -->
 
@@ -67,18 +65,18 @@
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
-      <div class="acceuil">
+
         <div class="ui grid">
           <div class="six wide column">
             <div class="gauche">
 
-              <div class="homeVous">
+              <div class="vous">
                 VOUS DEVELOPPEZ
               </div >
-              <div class="listeHome">
+              <div class="sites">
                 des sites internet
               </div>
-              <div class="listeHome">        
+              <div class="applications">        
                 des applications mobiles
               </div> 
 
@@ -118,7 +116,7 @@
            </div>
          </div>
        </div>
-     </div>
+     
    </div>
 
    <div class="col"></div>
@@ -260,29 +258,40 @@
 </div>
 
 <div class="footer">
-
-   <div class="row">
-    <div class="col"></div>
-    <div class="col-6">
-      <div class="icon">Suivez-moi sur :
-        <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
-        <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
-        <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
-        <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="color:white"></i></a>
-        <a href="https://twitter.com/phil31971" target="_blank"><i class="twitter square icon" style="color:white"></i></a>
-        <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="color:white;"></i></a>
-        <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="color:white"></i></a>
-        <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
-      </div>
-    </div>
-    <div class="col-3">
-        <div class="source" style="font-weight:Bold;">Source image :
-        <a  href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
-        </div>
-    </div>
-    <div class="col-0,5"></div>
-   
+<div class="row">
+  <div class="col-12">
+    <div class="suivezmoi">Suivez-moi sur :</div>
   </div>
+</div>
+   <div class="row">   
+      <div class="col">
+        <div class="icon">
+          <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
+          <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
+          <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
+          <a href="https://gitlab.com/Cecile_philippe" target="_blank"><i class="gitlab icon" style="color:white"></i></a>
+          <a href="https://twitter.com/phil31971" target="_blank"><i class="twitter square icon" style="color:white"></i></a>
+          <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="color:white;"></i></a>
+          <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="color:white"></i></a>
+          <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
+        </div>
+      </div>
+  </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="source" >Source image :</div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div  class="picsum">
+            <a   href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
+          </div>
+        </div>
+      </div>
+       
   
 </div>
 

@@ -1,9 +1,37 @@
+body {
+	position: relative;
+	background-image: url("");
+}
 .cecile,.philippe{
 	font-size: 6em;
 }
 .dev,.web{
 	font-size: 5em;
 }
-.date,.clock{
+.date, .clock{
 	font-size: 4em;
+}
+.vous,.sites,.applications{
+	font-size: 3em;
+}
+.footer{
+	position: absolute; 
+	color:white;
+	background-color: red;
+	height: 30%;
+	width: 100%;
+	background-size: cover;
+	bottom: 0;
+}
+.suivezmoi{
+	font-size: 6em;
+	text-align: center;
+}
+.icon{
+	font-size: 5.5em;
+	text-align: center;
+}
+.source,.picsum{
+	font-size: 6em;
+	text-align: center;
 }
