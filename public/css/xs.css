@@ -1,8 +1,9 @@
 body{
 	background-image: url("https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b24980e5fc5c8fba0d108bcff2296e26&auto=format&fit=crop&w=752&q=80");
-	min-height: 100%;
-  	margin: 0;
-  	padding: 0;
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .cecile,.philippe{
 	font-size: 6em;
