@@ -21,31 +21,34 @@
       </div>
     </div>
   
+  <div class="row">
+    <div class="col"></div>
+    <div class="col-xs-5 cecile">CECILE &nbsp;&nbsp;</div>
+    <div class="col- philippe">Philippe</div>
+    <div class="col"></div>
+  </div>
+
+  <div class="row">
+    <div class="col"></div>
+    <div class="col-xs-6 dev" dev>Développeur &nbsp;&nbsp;</div>
+    <div class="col-xs- web">web</div>
+    <div class="col"></div>
+  </div>
   
-    <div class="row">
-      <div class="col"></div>
-      <div class="col-5">
-      <div class="titre">CECILE&nbsp;Philippe</div>
-        <div class="developpeur">
-          Développeur&nbsp;web 
-        </div>
-        <!-- <div class="developpeurweb">
-          Web
-        </div> -->
+    
       </div>
       <div class="col"></div>
     </div>
   
   <div class="back2">
-    <div class="spaceTitle"></div>
+    
     <!-- MENU -->
-    <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="twelve wide column">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-10">
 
         <!-- MENU -->
-        <div class="ui six item inverted menu" style="background-color:red;">
-          <a id="menu" class="acceuilMenu item">Accueil</a>
+        <div class="ui five item inverted menu" style="background-color:red;font-size: 2em;">
           <a id="menu" class="competenceMenu item">Compétences</a>
           <a id="menu" class="experienceMenu item">Expériences</a>
           <a id="menu" class="formationMenu item">Formations</a>
@@ -53,13 +56,14 @@
           <a id="menu" class="contactMenu item">Contact</a>
         </div>
       </div>
+      <div class="col"></div>
     </div>
 
     <!-- ACCEUIL -->
 
-    <div class="ui grid">
-      <div class="two wide column"></div>
-      <div class="twelve wide column">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-10">
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
@@ -90,25 +94,25 @@
                 CONTACTEZ-MOI
               </div>
 
-              <p class="listeHome">
+              <p class="periode">
                 Période de Mise en Situation
               </p>
 
-              <p class="listeHome2">
+              <p class="decouvrir">
                 découvrir le métier
               </p>
 
-              <p class="listeHome2">
+              <p class="verifier">
                 vérifier mes compétences
               </p>
 
-              <p class="listeHome2">
+              <p class="initier">
                 initier une embauche
               </p>
-              <div class="listeHome2_cdd">
+              <div class="cdd">
                 CDD ou CDI 
               </div>
-              <div class="listeHome2_cdd">
+              <div class="toulouse">
                TOULOUSE 
              </div>
            </div>
@@ -117,7 +121,7 @@
      </div>
    </div>
 
-   <div class="two wide column"></div>
+   <div class="col"></div>
  </div>
 </div>
 

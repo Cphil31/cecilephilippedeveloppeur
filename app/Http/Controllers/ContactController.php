@@ -22,6 +22,8 @@ class ContactController extends Controller
 	$data=[
 	"title"=>"site développeur",
 	"subject"=>Input::get('subject'),
+	"nom"=>Input::get('nom'),
+	"prenom"=>Input::get('prenom'),
 	"content"=>Input::get('text'),
 	];
 	
@@ -30,6 +32,5 @@ class ContactController extends Controller
 	$message->from(Input::get('mail'));
 	});
 	return view('contact');
-	
 	    }
 }
