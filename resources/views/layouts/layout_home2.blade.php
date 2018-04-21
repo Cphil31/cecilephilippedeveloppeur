@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="../css/acceuil.css">
   <link rel="stylesheet"  type="text/css" href="../css/xs.css" 
   media="screen and (max-device-width: 400px)" />
-
+ 
   
 </head>
 <body>
