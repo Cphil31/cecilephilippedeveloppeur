@@ -1,9 +1,13 @@
+html {
+  
+}
+
 body{
 	background-image: url("https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b24980e5fc5c8fba0d108bcff2296e26&auto=format&fit=crop&w=752&q=80");
-	height: 100%;
-    background-position: center;
+	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow:hidden;
 }
 .cecile,.philippe{
 	font-size: 5em;
@@ -17,31 +21,29 @@ body{
 	font-size: 3em;
 	color: white;
 }
-.vous{
-	margin-top: 10%;
-}
+
 .vous,.sites,.applications{
-	font-size: 4em;
+	font-size: 3em;
 	color: white;
 }
 .cont{
-	margin-top: 15%;
-	font-size: 6em;
+	margin-top: 20%;
+	font-size: 5em;
 	color: white;
 }
 .footer{
 	position: fixed; bottom:0 ; left: 0; right: 0;
 	color:white;
 	background-color: red;
-	height: 30%;
+	/*overflow:hidden;*/
 	width: 102%;
 }
 .suivezmoi{
-	font-size: 6em;
+	font-size: 3em;
 	text-align: center;
 }
 .icon{
-	font-size: 5.5em;
+	font-size: 4em;
 	text-align: center;
 }
 .source,.picsum{
