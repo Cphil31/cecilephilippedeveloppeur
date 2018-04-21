@@ -265,8 +265,8 @@
 </div>
 
   <div class="footer">
-           <div class="row">
-           <div class="col"></div>  
+          <div class="row">
+           <div class="col-1"></div>  
             <div class="col- suivezmoi">Suivez-moi sur :</div>
             <div class="col- icon">
                 <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
@@ -279,11 +279,12 @@
                 <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
               </div>
               <div class="col"></div>
-                <div class=" col- source" >Source image :</div>
-                <div  class="col- picsum">
+                <div class=".col source" >Source image :</div>
+                <div  class=".col picsum">
                   <a   href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
-                </div>       
-                <div class="col"></div>
+                </div>  
+            <div class="col-1"></div>     
+             
            </div>
       </div>
 
