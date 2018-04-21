@@ -18,10 +18,9 @@
    </div>
   
   <div class="row">
-
-    <div class=".col- cecile">CECILE &nbsp;&nbsp;</div>
-    <div class=".col- philippe">Philippe</div>
-   
+    <div class="col"></div>
+    <div class="col-10 cecile">CECILE &nbsp;&nbsp;Philippe</div>
+    <div class="col"></div>
   </div>
 
   <div class="row">

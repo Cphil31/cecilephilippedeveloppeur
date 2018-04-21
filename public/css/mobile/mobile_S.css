@@ -9,8 +9,10 @@ body{
     background-size: cover;
     overflow:hidden;
 }
+
 .cecile,.philippe{
-	font-size: 5em;
+	text-align: center;
+	font-size: 4em;
 	color: white;
 }
 .dev,.web{
