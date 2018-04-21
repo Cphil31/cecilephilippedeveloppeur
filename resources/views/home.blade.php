@@ -12,9 +12,11 @@
   <div class="space"></div>
   <!-- <hr> -->
   <div class="row">
+        <div class="col"></div>
         <div class="col- date"></div>
         <div class="col-3"></div>
         <div class="col- clock"></div>
+        <div class="col"></div>
    </div>
   
   <div class="row">
@@ -24,10 +26,10 @@
   </div>
 
   <div class="row">
-    <div class="col-"></div>
-    <div class="col-6 dev" dev>Développeur &nbsp;&nbsp;</div>
-    <div class="col-1 web">web</div>
-    <div class="col-"></div>
+    <div class="col"></div>
+    <div class="col-10 dev" dev>Développeur &nbsp;&nbsp;web</div>
+   
+    <div class="col"></div>
   </div>
   
     
