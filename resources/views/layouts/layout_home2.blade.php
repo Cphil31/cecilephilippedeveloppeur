@@ -7,9 +7,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 320px)" href="../css/mobile/mobile_S.css">
-	<link rel="stylesheet" type="text/css" media="screen and (min-device-width: 321px) and (max-device-width: 375px)" href="../css/mobile/mobile_M.css">
-	<link rel="stylesheet" type="text/css" media="screen and (min-device-width: 376px) and (max-device-width: 425px)" href="../css/mobile/mobile_L.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/laptop.css">
 
  
   
