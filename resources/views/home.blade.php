@@ -59,51 +59,55 @@
 
     <!-- ACCEUIL -->
 
-    <div class="row">
-      <div class="col"></div>
-      <div class="col-10">
+    
     <!-- <div class="acceuil">
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
 
     
 <div class="row">
-    <div class="col">
+  <div class="col-2"></div>
+    <div class="col-10">
         <div class="vous">
           Vous developpez 
         </div >
+        <div class="col"></div>
     </div> 
 </div>
 
 <div class="row">
-  <div class="col">
+  <div class="col-2"></div>
+  <div class="col-10">
     <div class="sites">
     des sites internet,
     </div>
+    <div class="col"></div>
   </div>
 </div>
+
 <div class="row">
-  
-    <div class="col">
+  <div class="col-2"></div>
+    <div class="col-10">
               <div class="applications">        
                 des applications mobiles
               </div> 
     </div>
+    <div class="col"></div>
 </div>
 
-
-
-            
-          </div>
-
-          <div class="five wide column"> 
-          </div>
-          <div class="five wide column">
-            <div class="droite">
-
+<div class="row">
+  <div class="col-2"></div>
+    <div class="col-10">
               <div class="cont">
                 CONTACTEZ-MOI
-              </div>
+              </div> 
+    </div>
+    <div class="col"></div>
+</div>
+  
+         
+
+              
 
               <p class="periode">
                 Période de Mise en Situation
@@ -126,14 +130,10 @@
               <div class="toulouse">
                TOULOUSE 
              </div>
-           </div>
+           
          
      
-   </div>
-
-   <div class="col"></div>
- </div>
-</div>
+  
 
 <!-- FORMATIONS -->
 
