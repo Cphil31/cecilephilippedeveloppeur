@@ -66,21 +66,34 @@
         Développeur web Junior à la recherche d'opportunités 
       </div> -->
 
-        <div class="ui grid">
-          <div class="six wide column">
-            <div class="gauche">
+    
+<div class="row">
+    <div class="col">
+        <div class="vous">
+          Vous developpez 
+        </div >
+    </div> 
+</div>
 
-              <div class="vous">
-                VOUS DEVELOPPEZ
-              </div >
-              <div class="sites">
-                des sites internet
-              </div>
+<div class="row">
+  <div class="col">
+    <div class="sites">
+    des sites internet,
+    </div>
+  </div>
+</div>
+<div class="row">
+  
+    <div class="col">
               <div class="applications">        
                 des applications mobiles
               </div> 
+    </div>
+</div>
 
-            </div> 
+
+
+            
           </div>
 
           <div class="five wide column"> 
@@ -114,8 +127,7 @@
                TOULOUSE 
              </div>
            </div>
-         </div>
-       </div>
+         
      
    </div>
 

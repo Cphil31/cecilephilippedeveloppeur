@@ -17,8 +17,11 @@ body{
 	font-size: 4em;
 	color: white;
 }
+.vous{
+	margin-top: 10%;
+}
 .vous,.sites,.applications{
-	font-size: 3em;
+	font-size: 4em;
 	color: white;
 }
 .footer{
