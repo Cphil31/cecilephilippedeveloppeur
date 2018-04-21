@@ -12,27 +12,28 @@
   <div class="space"></div>
   <!-- <hr> -->
   <div class="row">
-      <div class="col-1">
+      <div class=".col-1">
         <div class="date"></div>
       </div>
       <div class="col"></div>
-      <div class="col-2">
+      <div class=".col-2">
         <div class="clock"></div>
       </div>
-    </div>
+      <div class="col"></div>
+  </div>
   
   <div class="row">
-    <div class="col"></div>
-    <div class="col-xs-5 cecile">CECILE &nbsp;&nbsp;</div>
-    <div class="col- philippe">Philippe</div>
-    <div class="col"></div>
+    <div class=".col-"></div>
+    <div class=".col- cecile">CECILE &nbsp;&nbsp;</div>
+    <div class=".col- philippe">Philippe</div>
+    <div class=".col-"></div>
   </div>
 
   <div class="row">
-    <div class="col"></div>
-    <div class="col-xs-6 dev" dev>Développeur &nbsp;&nbsp;</div>
-    <div class="col-xs- web">web</div>
-    <div class="col"></div>
+    <div class=".col-"></div>
+    <div class=".col- dev" dev>Développeur &nbsp;&nbsp;</div>
+    <div class=".col- web">web</div>
+    <div class=".col-"></div>
   </div>
   
     
@@ -96,7 +97,7 @@
 </div>
 
 <div class="row">
-  <div class="col-2"></div>
+  <div class="col"></div>
     <div class="col-10">
               <div class="cont">
                 CONTACTEZ-MOI
