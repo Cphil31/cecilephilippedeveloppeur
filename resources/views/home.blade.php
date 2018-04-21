@@ -283,13 +283,12 @@
         </div>
 
             <div class="row">
-                <div class=" col-10 source" >Source image :</div>
-            </div> 
-
-            <div class="row">
-                <div  class="col-10 picsum">
+                <div class="col"></div>
+                <div class=" col-3 source" >Source image :</div>
+                <div  class="col-3 picsum">
                   <a   href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
                 </div>
+                <div class="col"></div>
             </div>
       </div>
 <div class="row">
