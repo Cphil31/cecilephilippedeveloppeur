@@ -7,8 +7,10 @@ body{
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
 	color:white;
 }
+
 .navbar{
-	background-color: red;
+
+    background-color: red;
 	color:white;
 	font-size: 150%;
 	border-radius: 20px 20px 20px 20px;

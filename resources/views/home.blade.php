@@ -11,19 +11,15 @@
 
   <div class="space"></div>
   <!-- <hr> -->
-  <div class="row">
-        
-        <div class="col-1 date"></div>
-        <div class="col"></div>
-        <div class="col-1 clock"></div>
-
-   </div>
   
-  <div class="row">
-    <div class="col"></div>
-    <div class="col-10 cecile"><a href="/" style="color: white;">CECILE &nbsp;&nbsp;Philippe</a></div>
-    <div class="col"></div>
-  </div>
+        
+        <div class="date"></div>
+        <div class="espaceDate"></div>
+        <div class="clock"></div>
+
+ 
+    <div class="cecile">CECILE &nbsp;&nbsp;Philippe</div>
+    
 
   <div class="row">
     <div class="col"></div>
@@ -40,11 +36,13 @@
   <div class="back2">
     
     <!-- MENU -->
+    
+      
    <div class="row">
      <div class="col"></div>
-     <div class="col-8">
-       
-      <nav class="navbar">
+     <div class="col-xs-12 col-md-10 ">
+  
+        <nav class="navbar">
             
                         <a class="formationMenu navbar-link">Formations</a>
                                   
@@ -56,10 +54,14 @@
                      
                         <a id="menu" class="contactMenu ">Contact</a>
            
-      </nav>
+        </nav>
      </div>
      <div class="col"></div>
-   </div>
+     
+    </div>
+      
+      
+      
 
     <!-- ACCEUIL -->
 
@@ -94,15 +96,11 @@
     <div class="col"></div>
 </div>
 
-<div class="row">
-  <div class="col"></div>
-    <div class="col-10">
+
               <div class="cont">
                 CONTACTEZ-MOI
               </div> 
-    </div>
-    <div class="col"></div>
-</div>
+   
 
      <!--          <p class="periode">
                 Période de Mise en Situation

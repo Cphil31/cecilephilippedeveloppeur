@@ -1,7 +1,16 @@
-.date,.clock{
-	font-size: 2em;
+.date,.clock,.espaceDate{
+	display: inline-block;
+	font-size: 3em;
 }
+.date{
+	float: left;
+}
+.clock{
+float: right;
+}
+
 .cecile{
+	margin-top: 2%;
 	text-align: center;
 	color: white;
 	font-size: 5em;
