@@ -11,11 +11,11 @@
 
   <div class="space"></div>
   <!-- <hr> -->
-  <div class="ui grid">
+  <div class="row">
         
-        <div class="one wide column date"></div>
-        <div class="fourteen wide column"></div>
-        <div class="one wide column clock"></div>
+        <div class="col-1 date"></div>
+        <div class="col"></div>
+        <div class="col-1 clock"></div>
 
    </div>
   

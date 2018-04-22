@@ -1,8 +1,15 @@
 body{
 	background-image: url("https://images.unsplash.com/photo-1437326516294-01d0da392e11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7f170d83f06cd019ec8128d545434eb6&auto=format&fit=crop&w=750&q=80");
+    background-repeat: no-repeat;
+  	background-size: cover;
+  
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
 	color:white;
+	font-size: 180%;
+}
+.date{
+	float:left;
 }
 
 .cecile{
