@@ -40,19 +40,26 @@
   <div class="back2">
     
     <!-- MENU -->
-    <div class="row">
-      <div class="col-2"></div>
-      <div class="col">
-         <div class="ui five item inverted menu" style="background-color:red;font-size: 40%;">
-          <a id="menu" class="formationMenu item">Formations</a>
-          <a id="menu" class="competenceMenu item">Compétences</a>
-          <a id="menu" class="experienceMenu item">Expériences</a>
-          <a id="menu" class="loisirMenu item">Loisirs</a>
-          <a id="menu" class="contactMenu item">Contact</a>
-        </div>
-      </div>
-      <div class="col-2"></div>
-    </div>
+   <div class="row">
+     <div class="col"></div>
+     <div class="col-8">
+       
+      <nav class="navbar">
+            
+                        <a class="formationMenu navbar-link">Formations</a>
+                                  
+                        <a id="menu" class="competenceMenu ">Compétences</a>
+                    
+                        <a id="menu" class="experienceMenu ">Expériences</a>
+                    
+                        <a id="menu" class="loisirMenu ">Loisirs</a>
+                     
+                        <a id="menu" class="contactMenu ">Contact</a>
+           
+      </nav>
+     </div>
+     <div class="col"></div>
+   </div>
 
     <!-- ACCEUIL -->
 
@@ -97,7 +104,7 @@
     <div class="col"></div>
 </div>
 
-              <p class="periode">
+     <!--          <p class="periode">
                 Période de Mise en Situation
               </p>
 
@@ -117,9 +124,9 @@
               </div>
               <div class="toulouse">
                TOULOUSE 
-             </div>
+             </div> -->
            
-
+</div>
 <!-- FORMATIONS -->
 
 <div class="formations">  
@@ -190,25 +197,19 @@
   </div>
 </div>
 <!-- LOISIRS -->
-
-<div class="loisirs">DJ pour hôtels,clubs,mariages et soirées privées (2005-2012)</div>
-<div class="sport">Poker,Guitare,Belote,Jeux vidéos,Informatique</div>
-<div class="sport">Sports : basket,footing</div>
-
-<div class="ui grid">
-  <div class="two wide column"></div>
-  <div class="twelve wide column">
-
-
-  </div>
-  <div class="two wide column"></div>
+<div class="loisirs">
+  
+    <div class="dj">DJ pour hôtels,clubs,mariages et soirées privées (2005-2012)</div>
+    <div class="sport">Poker,Guitare,Belote,Jeux vidéos,Informatique</div>
+    <div class="sport">Sports : basket,footing</div>
 </div>
 
 <!-- CONTACT -->
 
 
 <!-- FORMULAIRE -->
-
+<div class="formulaire">
+  
 <div class="contactezmoi">Contactez-moi et je vous renvoie mon CV intégral</div>
 
 <div class="ui grid">
@@ -252,6 +253,8 @@
 
     <div class="four wide column"></div>
   </div>
+</div>
+
 </div>
 
   <div class="footer">

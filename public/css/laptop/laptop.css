@@ -4,15 +4,28 @@ body{
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
 	color:white;
 }
+
 .cecile{
 	text-align: center;
 	color: white;
+	font-size: 180%;
 }
-.dev,.web,.cont{
+.dev,.web{
 	text-align: center;
-color:white;
+	color:white;
+	font-size: 140%;
 }
-
+.cont{
+	text-align: center;
+	color:white;
+}
+.navbar{
+	height: 5%;
+	background-color: red;
+	color:white;
+	font-size: 50%;
+	border-radius: 5px 5px 5px 5px;
+}
 .footer{
 	position: fixed;
     left: 0;
