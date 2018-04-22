@@ -142,16 +142,7 @@
   </div>
 <div class="front">
   
-  <div class="row">
-      <div class="col"></div>
-      <div class="col-5">
-        <div>Front-end : HTML, CSS, Javascript</div>
-        <div>Back-end : PHP,SQL</div>
-        <div>Méthodes Agile</div>
-        <div>Développement mobile</div>
-      </div>
-      <div class="col"></div> 
-  </div>
+  
 
   <div class="row">
       <div class="col"></div>
