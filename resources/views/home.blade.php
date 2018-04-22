@@ -27,7 +27,7 @@
 
   <div class="row">
     <div class="col"></div>
-    <div class="col-10 dev" dev>Développeur &nbsp;&nbsp;web</div>
+    <div class="col-10 dev">Développeur &nbsp;&nbsp;web</div>
    
     <div class="col"></div>
   </div>
@@ -56,12 +56,9 @@
 
     <!-- ACCEUIL -->
 
-    
-    <!-- <div class="acceuil">
-        Développeur web Junior à la recherche d'opportunités 
-      </div> -->
+    <div class="acceuil">
+      
 
-    
 <div class="row">
   <div class="col-2"></div>
         <div class="col vous">
@@ -99,10 +96,6 @@
     </div>
     <div class="col"></div>
 </div>
-  
-         
-
-              
 
               <p class="periode">
                 Période de Mise en Situation
@@ -126,9 +119,6 @@
                TOULOUSE 
              </div>
            
-         
-     
-  
 
 <!-- FORMATIONS -->
 

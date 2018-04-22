@@ -1,15 +1,3 @@
-$('.acceuilMenu').click(function(){
-	$(".formations").transition('hide');
-	$(".experiences").transition('hide');
-	$(".competences").transition('hide');
-	$(".loisirs").transition('hide');
-	$(".sport").transition('hide');
-	$(".download").transition('hide');
-	$(".form").transition('hide');
-	$(".contactezmoi").transition('hide');
-	$(".segment").transition('hide');
-	$(".acceuil").transition('fly right','1000ms');
-});
 
 $(".formationMenu").click(function(){
 	$(".acceuil").transition('hide');
