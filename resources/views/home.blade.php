@@ -21,7 +21,7 @@
   
   <div class="row">
     <div class="col"></div>
-    <div class="col-10 cecile">CECILE &nbsp;&nbsp;Philippe</div>
+    <div class="col-10 cecile"><a href="/" style="color: white;">CECILE &nbsp;&nbsp;Philippe</a></div>
     <div class="col"></div>
   </div>
 
