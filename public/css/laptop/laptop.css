@@ -13,26 +13,6 @@ body{
 	font-size: 150%;
 	border-radius: 20px 20px 20px 20px;
 }
-
-.front{
-	font-size: 2em;
-	}
-
-.iconc{
-	margin-top: 2%;
-	margin-bottom:1.5%;
-}
-.competences{
-	font-size: 180%;
-}
-
-.vous{
-	margin-top: 2%;
-}
-.cont{
-	margin-top: 2%;
-	font-size: 3em;
-}
 .footer{
 	position: fixed;
     left: 0;
