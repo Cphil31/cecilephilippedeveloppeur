@@ -229,24 +229,24 @@
         <div class="two fields">
 
           <div class="field">
-            <label><div class="label">Nom</div></label>
+            <label><div class="label" style="color: white;">Nom</div></label>
             <input type="text" name="nom" requipired="required">
           </div>
 
           <div class="field">
-            <label ><div class="label">Prénom</div></label>
+            <label ><div class="label" style="color: white";>Prénom</div></label>
             <input type="text" name="prenom" required="required">
           </div>
 
         </div>
 
         <div class="field">
-          <label ><div class="label">Email</div></label>
+          <label ><div class="label" style="color: white";>Email</div></label>
           <input type="text" name="mail" required="required">
         </div>
 
         <div class="field">
-          <label ><div class="label">Message</div></label>
+          <label ><div class="label" style="color: white">Message</div></label>
           <textarea name="text" cols="10" rows="2"></textarea>
         </div>
 
