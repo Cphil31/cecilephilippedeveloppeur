@@ -10,7 +10,6 @@ body{
 .date,.clock{
 	font-size: 2em;
 }
-
 .cecile{
 	text-align: center;
 	color: white;
@@ -34,6 +33,12 @@ body{
 .formations{
 	font-size: 70%;
 }
+.vous,.sites,.applications{
+font-size: 2em;
+}
+.cont{
+	font-size: 3em;
+}
 .footer{
 	position: fixed;
     left: 0;
@@ -41,5 +46,5 @@ body{
     width: 100%;
     background-color: red;
     color: white;
-    font-size: 80%;    
+    font-size: 2em;    
 }
