@@ -178,16 +178,16 @@
 <div class="row">
   <div class="col"></div>
   <div class="col-3 iconc">
-        <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-        <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-        <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+        <i class="windows icon" style=" font-size:3em;"></i>
+        <i class="apple icon" style=" font-size:3em;"></i>
+        <i class="linux icon" style=" font-size:3em;"></i>
     </div>
   <div class="col"></div>
 </div>
 
 <div class="row">
   <div class="col"></div>
-  <div class="col-7">
+  <div class="col-7 compLanguages">
     <div>Langages de programmation : PHP,SQL,JavaScript,Css3,Html5</div>
     <div>Programmes: SublimText,Node.js,Express.js, Analyse cahier des charges</div>
     <div>
