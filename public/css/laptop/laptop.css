@@ -24,14 +24,21 @@ body{
 	text-align: center;
 	color:white;
 }
+
 .navbar{
 	background-color: red;
 	color:white;
-	font-size: 2em;
+	font-size: 150%;
 	border-radius: 20px 20px 20px 20px;
 }
-.formations{
-	font-size: 70%;
+.datef,.toulouse{
+	font-size: 2em;
+}
+.front{
+	font-size: 2em;
+	}
+.simplon{
+	font-size: 180%;
 }
 .vous,.sites,.applications{
 font-size: 2em;

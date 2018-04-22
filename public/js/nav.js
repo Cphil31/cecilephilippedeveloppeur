@@ -37,3 +37,8 @@ $(".contactMenu").click(function(){
 	hide();
 	$(".formulaire").transition('fly right','1000ms');
 });
+$(".cont").click(function(){
+	$(".acceuil").transition('hide');
+	hide();
+	$(".formulaire").transition('fly right','1000ms');
+});

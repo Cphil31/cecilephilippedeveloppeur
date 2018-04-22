@@ -130,29 +130,37 @@
 <!-- FORMATIONS -->
 
 <div class="formations">  
-  <div class="row">
-    <div class="col-1"></div>
-    <div class="col-2">2016-2017</div>
-    <div class="col-6">Formation de Web Développeur à l'école 
-      <span class="simplon"> 
+  
+  <div class="row ">
+    <div class="col"></div>
+    <div class="col-2 datef">2016-2017</div>
+    <div class="col-4 simplon">Formation de Web Développeur à l'école 
          <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon Occitanie</a>
-      </span>
     </div>
-    <div class="col-1">Toulouse</div>
+    <div class="col-1 toulouse">Toulouse</div>
+    <div class="col"></div>
+  </div>
+<div class="front">
+  
+  <div class="row">
+      <div class="col"></div>
+      <div class="col-5">
+        <div>Front-end : HTML, CSS, Javascript</div>
+        <div>Back-end : PHP,SQL</div>
+        <div>Méthodes Agile</div>
+        <div>Développement mobile</div>
+      </div>
+      <div class="col"></div> 
   </div>
 
   <div class="row">
-    <div class="two wide column"></div>
-    <div class="three wide column"></div>
-    <div class="seven wide column">
-      <h4>Front-end : HTML, CSS, Javascript</h4>
-      <h4>Back-end : PHP,SQL</h4>
-      <h4>Méthodes Agile</h4>
-      <h4>Développement mobile</h4>
-      <h4><a class="simplon" href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;" target="_blank">Voir le programme de formation</a></h4>
-    </div>
-    <div class="two wide column"></div>
+      <div class="col"></div>
+      <div class="col-8">
+         <div ><a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;font-size: 2em;" target="_blank">Voir le programme de formation</a></div>
+      </div>
+      <div class="col"></div> 
   </div>
+</div>
 
   <div class="textFormation">
     <div>*** Pour recevoir l'intégralité</div>
