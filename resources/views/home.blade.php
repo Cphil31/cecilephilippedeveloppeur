@@ -146,8 +146,8 @@
 
   <div class="row">
       <div class="col"></div>
-      <div class="col-8">
-         <div ><a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;font-size: 2em;" target="_blank">Voir le programme de formation</a></div>
+      <div class="col-6">
+         <div ><a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;font-size: 2em;" target="_blank"> programme de formation</a></div>
       </div>
       <div class="col"></div> 
   </div>

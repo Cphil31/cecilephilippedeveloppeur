@@ -32,12 +32,14 @@ body{
 	border-radius: 20px 20px 20px 20px;
 }
 .datef,.toulouse{
+	margin-top: 2%;
 	font-size: 2em;
 }
 .front{
 	font-size: 2em;
 	}
 .simplon{
+	margin-top: 2%;
 	font-size: 180%;
 }
 .vous,.sites,.applications{
