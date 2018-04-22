@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/experiences.css">
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/competences.css">
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/loisirs.css">
-  <link rel="stylesheet" type="text/css" href="../css/mobile/mobileS.css">
+  <link rel="stylesheet" type="text/css"  media="screen and (max-device-width: 320px)" href="../css/mobile/mobile_S.css">
 
  
   
