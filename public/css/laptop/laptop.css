@@ -26,10 +26,9 @@ body{
 	color:white;
 }
 .navbar{
-	height: 5%;
 	background-color: red;
 	color:white;
-	font-size: 50%;
+	font-size: 2em;
 	border-radius: 5px 5px 5px 5px;
 }
 .formations{
