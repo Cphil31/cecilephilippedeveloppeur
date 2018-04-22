@@ -11,12 +11,12 @@
 
   <div class="space"></div>
   <!-- <hr> -->
-  <div class="row">
-        <div class="col"></div>
-        <div class="col- date"></div>
-        <div class="col-7"></div>
-        <div class="col- clock"></div>
-        <div class="col"></div>
+  <div class="ui grid">
+        <div class="two wide column"></div>
+        <div class="two wide column date"></div>
+        <div class="height wide column"></div>
+        <div class="two wide column clock"></div>
+        <div class="two wide column"></div>
    </div>
   
   <div class="row">
@@ -130,18 +130,18 @@
 <!-- FORMATIONS -->
 
 <div class="formations">  
-  <div class="ui grid">
-    <div class="two wide column"></div>
-    <div class="three wide column">2016-2017</div>
-    <div class="seven wide column">Formation de Web Développeur à l'école 
+  <div class="row">
+    <div class="col-1"></div>
+    <div class="col-2">2016-2017</div>
+    <div class="col-6">Formation de Web Développeur à l'école 
       <span class="simplon"> 
          <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon Occitanie</a>
       </span>
     </div>
-    <div class="two wide column">Toulouse</div>
+    <div class="col-1">Toulouse</div>
   </div>
 
-  <div class="ui grid">
+  <div class="row">
     <div class="two wide column"></div>
     <div class="three wide column"></div>
     <div class="seven wide column">
