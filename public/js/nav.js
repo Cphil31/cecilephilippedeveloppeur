@@ -1,26 +1,8 @@
 
 $(".formationMenu").click(function(){
-
-
+	$(".vous").hide();
+	$(".sites").hide();
+	$(".applications").hide();
+	$(".cont").hide();
 	$(".formations").transition('fly right','1000ms');
-	});
-
-$(".competenceMenu").click(function(){
-	
-
-$(".experienceMenu").click(function(){
-	
-});
-
-$(".loisirMenu").click(function(){
-	
-	});
-
-$(".contactMenu").click(function(){
-	
-
-$(".contactMenu").click(function(){
-	
-		});
-$(".cont").click(function(){
 	});
