@@ -6,21 +6,20 @@ body{
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
 	color:white;
-	font-size: 180%;
 }
-.date{
-	float:left;
+.date,.clock{
+	font-size: 2em;
 }
 
 .cecile{
 	text-align: center;
 	color: white;
-	font-size: 180%;
+	font-size: 5em;
 }
 .dev,.web{
 	text-align: center;
 	color:white;
-	font-size: 140%;
+	font-size: 4em;
 }
 .cont{
 	text-align: center;
