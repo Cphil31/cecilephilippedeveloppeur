@@ -173,28 +173,35 @@
 </div>
 
 <!-- COMPETENCES -->
-<div class="ui grid">
-  <div class="two wide column"></div>
-  <div class="twelve wide column">
 
     <div class="competences">
-      <ul> 
-        <li>
-          <div class="iconComp">
-            <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-            <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-            <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
-            
-          </div>
-        </li>
-        <li>Langages de programmation : PHP,SQL,JavaScript,Css3,Html5</li>
-        <li>Progammes: SublimText,Node.js,Express.js, Analyse cahier des charges</li>
-        <li>CMS et Framework (<a href="http://getbootstrap.com/" style="color:white;"target="_blank"><U>Bootstrap</U></a>, <a href="http://foundation.zurb.com/"style="color:white;" target="_blank"><U>Foundation</U></a>, <a href="http://semantic-ui.com/" style="color:white;" target="_blank"><U>Semantic</U></a>)</li>
-      </ul>   
+<div class="row">
+  <div class="col"></div>
+  <div class="col iconc">
+        <i class="windows icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+        <i class="apple icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
+        <i class="linux icon" style="margin-left:auto;margin-right:auto; font-size:3em;"></i>
     </div>
-    <div class="two wide column"></div>
-  </div>
+  <div class="col"></div>
 </div>
+
+<div class="row">
+  <div class="col"></div>
+  <div class="col-8">
+    <div>Langages de programmation : PHP,SQL,JavaScript,Css3,Html5</div>
+    <div>Programmes: SublimText,Node.js,Express.js, Analyse cahier des charges</div>
+    <div>
+            CMS et Framework (<a href="http://getbootstrap.com/" style="color:white;"target="_blank"><U>Bootstrap</U></a>, <a href="http://foundation.zurb.com/"style="color:white;" target="_blank"><U>Foundation</U></a>, <a href="http://semantic-ui.com/" style="color:white;" target="_blank"><U>Semantic</U></a>)
+    </div>
+  </div>
+  <div class="col"></div>
+</div>
+
+          
+          
+      </div>
+   
+   
 <!-- LOISIRS -->
 <div class="loisirs">
   

@@ -24,7 +24,6 @@ body{
 	text-align: center;
 	color:white;
 }
-
 .navbar{
 	background-color: red;
 	color:white;
@@ -40,6 +39,13 @@ body{
 	}
 .simplon{
 	margin-top: 2%;
+	font-size: 180%;
+}
+.iconc{
+	margin-top: 2%;
+	margin-bottom:1.5%;
+}
+.competences{
 	font-size: 180%;
 }
 .vous,.sites,.applications{
