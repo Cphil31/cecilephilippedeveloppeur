@@ -153,8 +153,8 @@
   </div>
 </div>
 
-  <div class="textFormation">
-    <div>*** Pour recevoir l'intégralité</div>
+  <div class="intégralité">
+    <div >*** Pour recevoir l'intégralité</div>
     <div>de ces informations</div>
     <div>Contactez-moi</div>
   </div>
