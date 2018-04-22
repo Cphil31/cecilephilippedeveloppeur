@@ -13,10 +13,10 @@
   <!-- <hr> -->
   <div class="ui grid">
         
-        <div class="two wide column date"></div>
-        <div class="eleven wide column"></div>
-        <div class="two wide column clock"></div>
-       
+        <div class="one wide column date"></div>
+        <div class="fourteen wide column"></div>
+        <div class="one wide column clock"></div>
+
    </div>
   
   <div class="row">
