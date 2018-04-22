@@ -8,6 +8,11 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/laptop.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/home.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/formations.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/experiences.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/competences.css">
+	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/loisirs.css">
 
  
   

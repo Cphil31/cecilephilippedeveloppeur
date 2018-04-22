@@ -1,0 +1,21 @@
+.date,.clock{
+	font-size: 2em;
+}
+.cecile{
+	text-align: center;
+	color: white;
+	font-size: 5em;
+}
+.dev,.web{
+	text-align: center;
+	color:white;
+	font-size: 4em;
+	margin-bottom: 2%;
+}
+.cont{
+	text-align: center;
+	color:white;
+}
+.vous,.sites,.applications{
+font-size: 2em;
+}
