@@ -52,7 +52,11 @@ body{
 .vous,.sites,.applications{
 font-size: 2em;
 }
+.vous{
+	margin-top: 2%;
+}
 .cont{
+	margin-top: 2%;
 	font-size: 3em;
 }
 .footer{
