@@ -163,13 +163,18 @@
 
 <!-- EXPERIENCES -->
 
-<div class="experiences">
-  <div>
-    *** Pour recevoir l'intégralité de ces informations 
+<div class="row experiences">
+  <div class="col"></div>
+  <div class="col-9">
+    
+      <div>
+        *** Pour recevoir l'intégralité de ces informations 
+      </div>
+      <div>
+        Contactez-moi
+      </div>
   </div>
-  <div>
-    Contactez-moi
-  </div>
+  <div class="col"></div>
 </div>
 
 <!-- COMPETENCES -->
