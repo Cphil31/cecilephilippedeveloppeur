@@ -1,0 +1,50 @@
+body{
+	background-image: url("https://picsum.photos/320/547?image=992");
+    background-repeat: no-repeat;
+  	/*background-size: cover;*/
+}
+.nom{
+	text-align: center;
+	font-size: 7em;
+}
+.footer{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    background-color: red;
+    color: white;
+    font-size: 2em;    
+}
+.vous,.sites,.applications{
+	margin-left:10%;
+	font-size:5em;
+}
+.vous{
+	margin-top: 10%;
+}
+.cont{
+	margin-top: 10%;
+	font-size: 7em;
+	text-align: center;
+	color:white;
+}
+.suivezmoi,.icon{
+display: inline-block;
+}
+.suivezmoi,.icon{
+	margin-top: 8%;
+font-size: 180%;
+}
+.source,.picsum{
+	float: left;
+	display: inline-block;
+ 	font-size: 250%;
+}
+.picsum{
+	margin-left: 5%;
+}
+.icon{
+	display: inline-block;
+}

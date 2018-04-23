@@ -1,5 +1,6 @@
 function hide (){
 $(".formations").transition('hide');
+$(".compLanguages").transition('hide');
 $(".competences").transition('hide');
 $(".experiences").transition('hide');
 $(".loisirs").transition('hide');
@@ -17,7 +18,7 @@ $(".formationMenu").click(function(){
 $(".competenceMenu").click(function(){
 	$(".acceuil").transition('hide');
 	hide();
-	$(".competences").transition('fly right','1000ms');
+	$(".competences,.compLanguages").transition('fly right','1000ms');
 });
 
 $(".experienceMenu").click(function(){

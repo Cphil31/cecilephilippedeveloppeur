@@ -4,4 +4,10 @@
 .iconc{
 	margin-top: 2%;
 	margin-bottom:2%;
+	text-align: center;
+}
+.compLanguages{
+	color: white;
+	text-align: center;
+	font-size: 180%;
 }

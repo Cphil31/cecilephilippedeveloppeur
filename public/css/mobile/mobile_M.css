@@ -1,55 +1,50 @@
-html {
-  overflow: hidden;
-}
-
 body{
-	background-image: url("https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b24980e5fc5c8fba0d108bcff2296e26&auto=format&fit=crop&w=752&q=80");
-	background-position: center;
+	background-image: url("https://picsum.photos/320/547?image=992");
     background-repeat: no-repeat;
-    background-size: cover;
-    overflow:hidden;
-    
+  	/*background-size: cover;*/
 }
-.cecile,.philippe{
-	font-size: 5em;
-	color: white;
+.nom{
+	text-align: center;
+	font-size: 7em;
 }
-.dev,.web{
-	font-size: 4em;
-	color: white;
+.footer{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    background-color: red;
+    color: white;
+    font-size: 2em;    
 }
-.date, .clock{
-	font-size: 3em;
-	color: white;
+.vous,.sites,.applications{
+	margin-left:10%;
+	font-size:5em;
 }
 .vous{
 	margin-top: 10%;
 }
-.vous,.sites,.applications{
-	font-size: 3em;
-	color: white;
-}
 .cont{
-	margin-top: 15%;
-	font-size: 5em;
-	color: white;
-}
-.footer{
-	position: fixed; bottom:0 ; left: 0; right: 0;
+	margin-top: 10%;
+	font-size: 7em;
+	text-align: center;
 	color:white;
-	background-color: red;
-	
-	width: 102%;
 }
-.suivezmoi{
-	font-size: 3em;
-	text-align: center;
+.suivezmoi,.icon{
+display: inline-block;
 }
-.icon{
-	font-size: 4em;
-	text-align: center;
+.suivezmoi,.icon{
+	margin-top: 8%;
+font-size: 180%;
 }
 .source,.picsum{
-	font-size: 5em;
-	text-align: center;
+	float: left;
+	display: inline-block;
+ 	font-size: 250%;
+}
+.picsum{
+	margin-left: 5%;
+}
+.icon{
+	display: inline-block;
 }

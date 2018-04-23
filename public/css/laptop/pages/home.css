@@ -1,11 +1,20 @@
-.date,.clock{
+.date,.clock,.espaceDate{
+	display: inline-block;
 	font-size: 2em;
 }
-.cecile{
+.date{
+	float: left;
+}
+.clock{
+float: right;
+}
+.nom{
+	margin-top: 2%;
 	text-align: center;
 	color: white;
 	font-size: 5em;
-}
+	}
+
 .dev,.web{
 	text-align: center;
 	color:white;
@@ -17,7 +26,8 @@
 	color:white;
 }
 .vous,.sites,.applications{
-font-size: 2em;
+	margin-left:10%;
+	font-size:2em;
 }
 .vous{
 	margin-top: 2%;
