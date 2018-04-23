@@ -112,12 +112,6 @@
 
       <!-- EXPERIENCES -->
 
-
-<div class="experiences">
-      <div>*** Pour recevoir l'intégralité de ces informations</div>
-      <div>Contactez-moi</div>
-</div>
-
 <!-- COMPETENCES -->
 
       <div class="experiences">
