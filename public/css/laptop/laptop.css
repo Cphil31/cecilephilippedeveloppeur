@@ -7,13 +7,24 @@ body{
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
 	color:white;
 }
-
+.espDate,.date,.clock{
+display: inline-block;
+}
 .navbar{
-
+    margin-left: auto;
+    margin-right: auto; 
+    width:80%;
     background-color: red;
+    font-size: 2em;
 	color:white;
-	font-size: 150%;
+	/*font-size: 150%;*/
 	border-radius: 20px 20px 20px 20px;
+}
+.suivezmoi,.icon,.source,.picsum{
+display: inline-block;
+}
+.source,.picsum{
+    float: right;
 }
 .footer{
 	position: fixed;

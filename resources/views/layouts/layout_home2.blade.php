@@ -14,8 +14,12 @@
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/competences.css">
 	<link rel="stylesheet" type="text/css"  href="../css/laptop/pages/loisirs.css">
   <link rel="stylesheet" type="text/css"  media="screen and (max-device-width: 320px)" href="../css/mobile/mobile_S.css">
-
- 
+  <link rel="stylesheet" type="text/css"  
+  media="screen and (min-device-width: 321px) and (max-device-width : 375px)" 
+  href="../css/mobile/mobile_M.css">
+ <link rel="stylesheet" type="text/css"  
+  media="screen and (min-device-width: 376px) and (max-device-width : 425px)" 
+  href="../css/mobile/mobile_L.css">
   
 </head>
 <body>
