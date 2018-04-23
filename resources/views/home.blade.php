@@ -112,14 +112,14 @@
 
       <!-- EXPERIENCES -->
 
-<<<<<<< HEAD
+
 <div class="experiences">
       <div>*** Pour recevoir l'intégralité de ces informations</div>
       <div>Contactez-moi</div>
 </div>
 
 <!-- COMPETENCES -->
-=======
+
       <div class="experiences">
         <div>
           *** Pour recevoir l'intégralité de ces informations 
@@ -128,7 +128,7 @@
           Contactez-moi
         </div>
       </div>
->>>>>>> 223bb78719c7badfbf279374f98053e6a9d49b8d
+
 
       <!-- COMPETENCES -->
 
