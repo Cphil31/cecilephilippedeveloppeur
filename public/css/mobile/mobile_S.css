@@ -1,5 +1,5 @@
 body{
-	background-image: url("https://picsum.photos/320/547?image=0");
+	background-image: url("https://picsum.photos/320/547?image=992");
     background-repeat: no-repeat;
   	/*background-size: cover;*/
 }
@@ -29,4 +29,22 @@ body{
 	font-size: 7em;
 	text-align: center;
 	color:white;
+}
+.suivezmoi,.icon{
+display: inline-block;
+}
+.suivezmoi,.icon{
+	margin-top: 8%;
+font-size: 180%;
+}
+.source,.picsum{
+	float: left;
+	display: inline-block;
+ 	font-size: 250%;
+}
+.picsum{
+	margin-left: 5%;
+}
+.icon{
+	display: inline-block;
 }

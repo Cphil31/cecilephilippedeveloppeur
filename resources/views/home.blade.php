@@ -206,7 +206,8 @@
       <div class="footer">
         
          <div class="suivezmoi">Suivez-moi sur :</div>
-         
+         <div class="icon">
+           
           <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
           <a  href="https://www.linkedin.com/in/philippe-cecile-a579b212b/" target="_blank"><i class="linkedin square icon" style="color:white"></i></a>
           <a href="mailto:cecilephilippe31@gmail.com" ><i class="mail outline icon" style="margin-left:auto;margin-right:auto; color:white;"></i></a> 
@@ -215,9 +216,10 @@
           <a  href="https://www.facebook.com/DonSanacho" target="_blank"><i class="facebook icon" style="color:white;"></i></a>
           <a href="https://www.instagram.com/donsanacho" target="_blank"><i class="instagram icon" style="color:white"></i></a>
           <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
+         </div>
         
-        <a   class="picsum" href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
         <div class="source" >Source image :</div>
+        <a   class="picsum" href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
       </div>
           </div>
   
