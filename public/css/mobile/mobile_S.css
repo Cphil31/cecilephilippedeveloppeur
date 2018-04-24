@@ -34,13 +34,14 @@ body{
 display: inline-block;
 }
 .suivezmoi,.icon{
-	margin-top: 8%;
-font-size: 180%;
+	margin-top: 2%;
+	font-size: 180%;
 }
 .source,.picsum{
 	float: left;
 	display: inline-block;
  	font-size: 200%;
+ 	color: white;
 }
 .picsum{
 	margin-left: 5%;
@@ -48,9 +49,7 @@ font-size: 180%;
 .icon{
 	display: inline-block;
 }
-.formulaire{
-	margin-top: 5%;
-}
+
 .formations{
 	font-size: 160%;
 	text-align: center;
@@ -70,7 +69,12 @@ font-size: 180%;
 .compLanguages{
 	font-size: 300%;
 }
-.experiences{
+.experiences,.loisirs{
 	margin-top: 25%;
 	font-size: 300%;
+}
+.formulaire{
+	margin-top: 10%;
+	font-size: 400%;
+	height: 200%;
 }
