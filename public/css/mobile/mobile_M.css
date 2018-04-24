@@ -3,6 +3,9 @@ body{
     background-repeat: no-repeat;
   	/*background-size: cover;*/
 }
+.datef,.simplon,.toulouse{
+font-size: 200%;
+}
 .nom{
 	text-align: center;
 	font-size: 7em;
@@ -54,8 +57,7 @@ display: inline-block;
 	text-align: center;
 }
 .front{
-	margin-top: 10%;
-	font-size: 60%;
+	font-size: 70%;
 }
 .iconc{
 	font-size: 160%;
