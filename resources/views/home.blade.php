@@ -221,8 +221,9 @@
           <a href="https://www.mixcloud.com/vito-sanacho/" target="_blank"><i class="mixcloud icon" style="color:white"></i></a>
          </div>
         
-        <div class="source" >Source image :</div>
+        <div class="source" >Source image :
         <a   class="picsum" href="https://picsum.photos/images" style="color:white;" target="_blank"> picsum photo</a>
+        </div>
       </div>
           </div>
   
