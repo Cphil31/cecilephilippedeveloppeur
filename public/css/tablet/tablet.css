@@ -75,8 +75,11 @@ display: inline-block;
 	font-size: 150%;
 }
 .experiences,.loisirs{
-	margin-top: 10%;
+	margin-top: 5%;
 	font-size: 300%;
+}
+.loisirs{
+	font-size: 220%;
 }
 .formulaire{
 	margin-top: 10%;
