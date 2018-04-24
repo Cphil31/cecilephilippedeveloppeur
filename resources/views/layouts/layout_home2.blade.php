@@ -20,6 +20,9 @@
  <link rel="stylesheet" type="text/css"  
   media="screen and (min-device-width: 376px) and (max-device-width : 425px)" 
   href="../css/mobile/mobile_L.css">
+   <link rel="stylesheet" type="text/css"  
+  media="screen and (min-device-width: 426px) and (max-device-width : 768px)" 
+  href="../css/tablet/tablet.css">
   
 </head>
 <body>
