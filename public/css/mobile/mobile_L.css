@@ -42,7 +42,7 @@ display: inline-block;
 }
 .source,.picsum{
 	float: left;
-	display: inline-block;
+	display: none;
  	font-size: 200%;
  	color: white;
 }
