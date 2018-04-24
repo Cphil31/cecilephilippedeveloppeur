@@ -35,3 +35,8 @@ display: inline-block;
     color: white;
     font-size: 2em;    
 }
+.formulaire{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
