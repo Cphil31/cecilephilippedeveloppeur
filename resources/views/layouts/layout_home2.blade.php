@@ -40,8 +40,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.2.10/dist/semantic.min.js"></script>
 
-<script src="../js/hide.js"></script>
 <script src="../js/show.js"></script>
+<script src="../js/hide.js"></script>
 <script src=../js/heure.js></script>
 <script src="../js/date.js"></script>
 <script src="../js/nav.js"></script>
