@@ -1,10 +1,9 @@
 
-$(".titre").delay(1000).show(1500);
-// $(".menu").transition('hide');
-// $(".menu").transition('fly left','3500ms');
-$(".developpeur").delay(3000).show(2000);
-$(".gauche").delay(5000).show(2000);
-$(".droite").delay(7000).show(2000);
-// $(".footer").transition('hide');
-// $(".footer").transition('fly right','3500ms');
+$(".nom").hide();
+$(".dev").hide();
+$(".nom").delay(6000).transition('fly right','3500ms');
+$(".dev").delay(6000).transition('fly left','3500ms');
+// $(".vous,.sites,.applications").delay(5000).show(2000);
+// $(".cont").delay(7000).show(2000);
 
+// .setTimeout(slowAlert, 2000);

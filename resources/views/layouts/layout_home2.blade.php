@@ -38,8 +38,7 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- fin boostrap -->
 
-    <script src="node_modules/semantic-ui/dist/semantic.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.2.10/dist/semantic.min.js"></script>
 
 <script src="../js/hide.js"></script>
 <script src="../js/show.js"></script>
