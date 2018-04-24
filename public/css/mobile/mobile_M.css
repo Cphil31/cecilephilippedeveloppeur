@@ -21,7 +21,7 @@ font-size: 200%;
     font-size: 2em;    
 }
 .vous,.sites,.applications{
-		margin-left:10%;
+	margin-left:10%;
 	font-size:5em;
 }
 .vous{
@@ -36,12 +36,13 @@ font-size: 200%;
 display: inline-block;
 }
 .suivezmoi,.icon{
+
 	margin-top: 2%;
 	font-size: 180%;
 }
 .source,.picsum{
 	float: left;
-	display: inline-block;
+	display: none;
  	font-size: 200%;
  	color: white;
 }
