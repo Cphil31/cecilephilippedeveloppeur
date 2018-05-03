@@ -9,6 +9,10 @@ function aujourdhui(){
 	{
 		$('.date').html(jour+'/'+mois+'/'+an);
 	}
+	if (jour>9 && mois<10)
+	{
+		$('.date').html(jour+'/'+"0"+mois+'/'+an);
+	}
 	if (jour<10 && mois<10){
 		$('.date').html("0"+jour+'/'+"0"+mois+'/'+an);
 	}
