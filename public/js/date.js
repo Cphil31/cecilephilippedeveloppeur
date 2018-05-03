@@ -5,19 +5,15 @@ function aujourdhui(){
 	var jour=maintenant.getDate();
 	var mois=maintenant.getMonth()+1;
 	var an=maintenant.getFullYear();
-	if (jour>=10)
+	if (jour>9 && mois>9)
 	{
 		$('.date').html(jour+'/'+mois+'/'+an);
 	}
-	else{
+	if (jour<10 && mois<10){
+		$('.date').html("0"+jour+'/'+"0"+mois+'/'+an);
+	}
+	if (jour<10 && mois>9){
 		$('.date').html("0"+jour+'/'+mois+'/'+an);
-	}
-	if (mois>=10)
-	{
-		$('.date').html(jour+'/'+mois+'/'+an);
-	}
-	else{
-		$('.date').html(jour+'/'+"0"+mois +'/'+an);
 	}
 };
 
