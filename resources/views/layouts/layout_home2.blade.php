@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>cecilephilippedeveloppeur</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Pangolin" rel='stylesheet'  type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Alice" rel='stylesheet'  type='text/css'>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css"  href="../css/laptop/laptop.css">
