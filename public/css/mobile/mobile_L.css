@@ -2,6 +2,7 @@ body{
 	background-image: url("https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=88dbc8a18037b2ac4800955d981db909&auto=format&fit=crop&w=750&q=80");
     background-repeat: no-repeat;
   	background-size: cover;
+  	font-family:Verdana; 
  
 }.datef,.simplon,.toulouse{
 font-size: 180%;
@@ -12,6 +13,7 @@ font-size: 180%;
 .nom{
 	text-align: center;
 	font-size: 7em;
+	
 }
 .footer{
 	position: fixed;
