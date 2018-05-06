@@ -8,6 +8,9 @@ body{
 	text-align: center;
 	font-size: 7em;
 }
+.temps{
+	height:3.5%;
+}
 .footer{
 	position: fixed;
     left: 0;

@@ -6,6 +6,9 @@ body{
 }.datef,.simplon,.toulouse{
 font-size: 180%;
 }
+.temps{
+	height:3.5%;
+}
 .nom{
 	text-align: center;
 	font-size: 7em;
