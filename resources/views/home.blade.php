@@ -10,12 +10,13 @@
 @section('content')
 
 <div class="space"></div>
-<!-- <hr> -->
+<div class="temps">
   <div class="espDate"></div>
   <div class="date"></div>
   <div class="espDate"></div>
   <div class="clock"></div>
   <div class="espDate"></div>
+</div>
 
 <div class="nom">CECILE &nbsp;&nbsp;Philippe</div>
 

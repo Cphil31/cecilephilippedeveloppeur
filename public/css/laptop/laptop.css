@@ -2,6 +2,8 @@ body{
 	background-image: url("https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=88dbc8a18037b2ac4800955d981db909&auto=format&fit=crop&w=750&q=80");
     background-repeat: no-repeat;
   	background-size: cover;
+    /*background-color: #f4f5f9;*/
+    /*background-color: #a3a1a1;*/
  
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
@@ -10,11 +12,20 @@ body{
 .espDate,.date,.clock{
 display: inline-block;
 }
+.temps{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color:#6f2108;
+    height: 6%;
+    width: 100%;
+}
+
 .navbar{
     margin-left: auto;
     margin-right: auto; 
     width:80%;
-    background-color: red;
+    background-color:#6f2108;
     font-size: 2em;
 	color:white;
 	/*font-size: 150%;*/
@@ -33,7 +44,7 @@ display: inline-block;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color:#6f2108;
     color: white;
     font-size: 2em;    
 }
