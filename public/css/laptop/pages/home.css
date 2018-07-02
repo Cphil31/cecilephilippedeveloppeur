@@ -24,15 +24,15 @@ float: right;
 .cont{
 	text-align: center;
 	color:white;
+	margin-top: 2%;
+	font-size: 3em;
 }
 .vous,.sites,.applications{
 	margin-left:10%;
 	font-size:2em;
+	color: white;
 }
 .vous{
 	margin-top: 2%;
 }
-.cont{
-	margin-top: 2%;
-	font-size: 3em;
-}
+

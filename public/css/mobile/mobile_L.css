@@ -22,7 +22,8 @@ font-size: 180%;
     bottom: 0;
     width: 100%;
     height: 15%;
-    background-color:#6f2108;
+    /*background-color:#6f2108;*/
+    background-color: black;
     color: white;
     font-size: 2em;    
 }
