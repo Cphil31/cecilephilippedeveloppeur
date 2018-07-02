@@ -7,7 +7,7 @@ body{
     font-family: 'Alice', sans-serif;
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
-   /* color:white;*/
+   color:white;
 }
 
 .espDate,.date,.clock{
