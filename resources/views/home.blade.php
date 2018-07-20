@@ -209,7 +209,7 @@
 
       <div class="footer">
         
-         <div class="suivezmoi">Suivez-moi sur :</div>
+         <div class="suivezmoi">Suivez-moi :</div>
          <div class="icon">
            
           <a href="https://github.com/Cphil31/cecilephilippedeveloppeur" target="_blank"><i class="github icon" style="color:white"></i></a>
