@@ -104,11 +104,15 @@
                  <div class="toulouse">Toulouse</div>
                 
                  <div class="front">
-                     <div class="programme" ><a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;font-size: 2em;" target="_blank"> programme de formation</a></div>
+                     <div class="programme" style="color:white;font-size: 2em;" >
+                     <a href="https://cdn.rawgit.com/SimplonTlse02/prez/a2aeb34c/prezpromo2.pdf"
+                        download="Programme de formation" style="color:white;" target="_blank">Téléchargez</a>
+                     le 
+                     <a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;" target="_blank"> programme de formation</a></div>
                 </div>
                 
                     
-          </div>
+            </div>
 
 
       <!-- EXPERIENCES -->
