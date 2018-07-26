@@ -3,8 +3,10 @@ body{
     background-repeat: no-repeat;
     /*background-color: #D4DFE6;*/
     /*background-color: #1ec0ff;*/
+    overflow: hidden;
   	background-size: cover;
     font-family: 'Alice', sans-serif;
+    background-attachment:fixed;
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
    color:white;

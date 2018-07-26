@@ -52,19 +52,14 @@
 <!-- ACCEUIL -->
 
 <div class="acceuil">
-
-
-
   <div class=" vous">
     Vous developpez 
   </div >
   
-
   <div class="sites">
     des sites internet,
   </div>
       
-
   <div class="applications">des applications mobiles</div> 
 
   <div class="cont">CONTACTEZ-MOI</div> 
@@ -96,7 +91,6 @@
            <!-- FORMATIONS -->
 
            <div class="formations">  
-
                   <div class="datef">2016-2017</div>
                   <div class="simplon">Formation de Web Développeur à l'école 
                    <a href="https://simplon.co/occitanie/" style="color:white;" target="_blank">Simplon Occitanie</a>
@@ -110,8 +104,7 @@
                      le 
                      <a  href="https://github.com/SimplonTlse02/prez/blob/master/prezpromo2.pdf"  style="color:white;" target="_blank"> programme de formation</a></div>
                 </div>
-                
-                    
+            
             </div>
 
 
