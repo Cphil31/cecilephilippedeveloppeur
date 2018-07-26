@@ -1,12 +1,15 @@
 body{
 	background-image: url("https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=88dbc8a18037b2ac4800955d981db909&auto=format&fit=crop&w=750&q=80");
-    background-repeat: no-repeat;
     /*background-color: #D4DFE6;*/
-    /*background-color: #1ec0ff;*/
+    /*background-color: #1ec0ff;*/  
     overflow: hidden;
   	background-size: cover;
     font-family: 'Alice', sans-serif;
     background-attachment:fixed;
+
+}
+.nom,.dev{
+    color:black;
 }
 .date,.clock,.vous,.sites,.applications,.formations,.experiences,.competences,.loisirs,.sport{
    color:white;
